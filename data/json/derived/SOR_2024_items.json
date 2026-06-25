@@ -1,0 +1,422 @@
+[
+  {
+    "ITEM No": "(a)",
+    "ITEM": "One way",
+    "unit": "No.",
+    "Rate": "39589",
+    "page": 7
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "Two way",
+    "unit": "No.",
+    "Rate": "80476",
+    "page": 7
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "Fourway",
+    "unit": "No.",
+    "Rate": "153424",
+    "page": 7
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "Rate": "9086",
+    "page": 7
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "Rate": "9263",
+    "page": 7
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "Rate": "10443",
+    "page": 7
+  },
+  {
+    "ITEM No": "(d)",
+    "ITEM": "alarm unit with selectio n for use with co nventio nal ECR or LED",
+    "unit": "No.",
+    "Rate": "6844",
+    "page": 7
+  },
+  {
+    "ITEM No": "113",
+    "ITEM": "of 2mm MS thick shee t with m ountin g socke t o n signal post",
+    "unit": "No.",
+    "Rate": "20309",
+    "page": 7
+  },
+  {
+    "ITEM No": "115",
+    "ITEM": "coating arrow marker s board fabric ated wi th MS clamp of",
+    "unit": "No.",
+    "Rate": "370",
+    "page": 7
+  },
+  {
+    "ITEM No": "0",
+    "ITEM": "6. Bush 'B' as per DRG.N o.S 8912 for LH lo",
+    "unit": "ck slide-i",
+    "Rate": "no.",
+    "page": 10
+  },
+  {
+    "ITEM No": "0",
+    "ITEM": "504 specification No. STS/E /Relays/AC Li t LED Signal/09-2002 N",
+    "unit": "o.",
+    "Rate": "5841",
+    "page": 12
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "QLI- 8F16B ,The interlocki ng co de: ABCEG",
+    "unit": "No.",
+    "Rate": "5427",
+    "page": 13
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "Time delay of 10 sec. Interl ockin g code: AF NKY.",
+    "unit": "No.",
+    "Rate": "2161",
+    "page": 13
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "Time delay of 30 seconds. Interl ocking code : AFLK Y.",
+    "unit": "No.",
+    "Rate": "2544",
+    "page": 13
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "Time delay of 60 seconds. Interl ocking code : AFHK Y.",
+    "unit": "No.",
+    "Rate": "2544",
+    "page": 13
+  },
+  {
+    "ITEM No": "(d)",
+    "ITEM": "Time delay of 12 0 seconds . Inte rlocking cod e: AFG KY.",
+    "unit": "No.",
+    "Rate": "2332",
+    "page": 13
+  },
+  {
+    "ITEM No": "508",
+    "ITEM": "Supply of Point chain gro up of Siemens m ake o r functional",
+    "unit": "No.",
+    "Rate": "38790",
+    "page": 13
+  },
+  {
+    "ITEM No": "509",
+    "ITEM": "Supply of RRI p oint grou p of Siemens m ake or functional",
+    "unit": "No.",
+    "Rate": "81472",
+    "page": 13
+  },
+  {
+    "ITEM No": "510",
+    "ITEM": "Supply of P1 p o int grou p of Siemens m ake or functional",
+    "unit": "No.",
+    "Rate": "51162",
+    "page": 13
+  },
+  {
+    "ITEM No": "511",
+    "ITEM": "Supply of rout e group of S iemens m ake or functional",
+    "unit": "No.",
+    "Rate": "47501",
+    "page": 13
+  },
+  {
+    "ITEM No": "512",
+    "ITEM": "Supply of signal g roup, 2 a spect of Siemens make or functional",
+    "unit": "No.",
+    "Rate": "44093",
+    "page": 13
+  },
+  {
+    "ITEM No": "513",
+    "ITEM": "Supply of signal g roup, 3 a spect of Siemens make o r functional",
+    "unit": "No.",
+    "Rate": "53569",
+    "page": 13
+  },
+  {
+    "ITEM No": "514",
+    "ITEM": "equivalent with base pl ate as per spe cificati ons RSSK",
+    "unit": "No.",
+    "Rate": "53228",
+    "page": 13
+  },
+  {
+    "ITEM No": "515",
+    "ITEM": "with contact con fi guration 4 F/4B , 5F/3B, 6F/ 2B with base plate",
+    "unit": "No.",
+    "Rate": "5022",
+    "page": 13
+  },
+  {
+    "ITEM No": "902",
+    "ITEM": "1. Knob/pu sh buttons -4 No. No.",
+    "unit": "197146",
+    "Rate": "S",
+    "page": 19
+  },
+  {
+    "ITEM No": "905",
+    "ITEM": "arrangements w ith netwo rk a s per specific ation IRS : S 99-",
+    "unit": "",
+    "Rate": "I",
+    "page": 19
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "Data Logger wit h 512 digit al in puts and 32 a nalog inp uts Set",
+    "unit": "497388",
+    "Rate": "S",
+    "page": 19
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "Data Logger wit h 2048 digi tal inputs and 32 analog in puts. Set",
+    "unit": "856680",
+    "Rate": "S",
+    "page": 19
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "S upply of Go drej PCH 5d13R model or similar",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(d)",
+    "ITEM": "S upply of Go drej PCH 5002T model or similar",
+    "unit": "No.",
+    "Rate": "S",
+    "page": 33
+  },
+  {
+    "ITEM No": "(e)",
+    "ITEM": "S upply of G odrej sh elf storage of 91 6 x 486 x 1981 m m or",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(f)",
+    "ITEM": "S upply of ste el stools 18\" height neatly finished a nd pain ted.",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(h)",
+    "ITEM": "S upply of rot ary barre l hand pump of c apacity 5 l itres /20 turns",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(q)",
+    "ITEM": "S upply of Pr inter for maintenance ter minal at s tation\n- HP",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(r)",
+    "ITEM": "Su pply of Do uble key lock for relay roo m.",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "A 3 size circu it diagra m sheets.",
+    "unit": "No.",
+    "Rate": ".",
+    "page": 33
+  },
+  {
+    "ITEM No": "1718",
+    "ITEM": "3) Officer Inspectio n Book",
+    "unit": "",
+    "Rate": "S",
+    "page": 33
+  },
+  {
+    "ITEM No": "0",
+    "ITEM": "(b) Bend to suit DWC of 12 0mm out er diameter, 1 03mm inner",
+    "unit": "",
+    "Rate": "1080",
+    "page": 36
+  },
+  {
+    "ITEM No": "2525",
+    "ITEM": "Jungle Cutting",
+    "unit": "",
+    "Rate": "S",
+    "page": 43
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "Teak Wood Rea pers suitab le for Fu ll Box: 75 mm width x",
+    "unit": "Per",
+    "Rate": "228",
+    "page": 45
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "Teak Wood Rea pers suitab le for Fu ll Box: 50 mm width x",
+    "unit": "Per",
+    "Rate": "301",
+    "page": 45
+  },
+  {
+    "ITEM No": "(c)",
+    "ITEM": "Teak Wood Rea pers suitab le for Ha lf Box 75 mm width x",
+    "unit": "Per",
+    "Rate": "145",
+    "page": 45
+  },
+  {
+    "ITEM No": "(d)",
+    "ITEM": "Teak Wood Rea pers suitab le for Ha lf Box: 50 mm width x",
+    "unit": "Per",
+    "Rate": "88",
+    "page": 45
+  },
+  {
+    "ITEM No": "(e)",
+    "ITEM": "Teak Reapers s uitable for H alf Box: 50mm wid th x 50mm",
+    "unit": "Per",
+    "Rate": "203",
+    "page": 45
+  },
+  {
+    "ITEM No": "(f)",
+    "ITEM": "Hard wood Plan ks for Keepi ng Equip ment in th e Full Box: P",
+    "unit": "er Plank",
+    "Rate": "510",
+    "page": 45
+  },
+  {
+    "ITEM No": "(g)",
+    "ITEM": "Hard wood pla nks suitabl e f or Hal f Box 40 mm thick x P",
+    "unit": "er Plank",
+    "Rate": "452",
+    "page": 45
+  },
+  {
+    "ITEM No": "2606",
+    "ITEM": "Cable terminati on including fi xing te rminals, f uses, LDs,",
+    "unit": "Per",
+    "Rate": "14",
+    "page": 45
+  },
+  {
+    "ITEM No": "2607",
+    "ITEM": "Fixing relay bas es, wiring in l ocatio n boxes, bunching,",
+    "unit": "",
+    "Rate": "0",
+    "page": 45
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "Full Location Bo x",
+    "unit": "No.",
+    "Rate": "776",
+    "page": 45
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "Half Location Bo x",
+    "unit": "No.",
+    "Rate": "388",
+    "page": 45
+  },
+  {
+    "ITEM No": "2814",
+    "ITEM": "Railway representativ e at site. The exis ting cable co ils shall be",
+    "unit": "",
+    "Rate": "S",
+    "page": 55
+  },
+  {
+    "ITEM No": "(a)",
+    "ITEM": "Lead up to 50 Kms",
+    "unit": "PTPK",
+    "Rate": "11",
+    "page": 64
+  },
+  {
+    "ITEM No": "(b)",
+    "ITEM": "Lead above 50 Kms",
+    "unit": "PTPK",
+    "Rate": "7",
+    "page": 64
+  },
+  {
+    "ITEM No": "3302",
+    "ITEM": "Arranging skilled la bour at S& T Stores for loading!",
+    "unit": "Man",
+    "Rate": "593",
+    "page": 64
+  },
+  {
+    "ITEM No": "3303",
+    "ITEM": "Segregation, stackin g , loading, unlo ading and transportation",
+    "unit": "Per",
+    "Rate": "10266",
+    "page": 64
+  },
+  {
+    "ITEM No": "3603",
+    "ITEM": "Supply and fixing of 'AH UJ A' o r similar mak e hor n type loud",
+    "unit": "No.",
+    "Rate": "1407",
+    "page": 67
+  },
+  {
+    "ITEM No": "3604",
+    "ITEM": "Supply and installation o f Ele ctronic Flas her u nit, able to",
+    "unit": "No.",
+    "Rate": "2572",
+    "page": 67
+  },
+  {
+    "ITEM No": "3605",
+    "ITEM": "Supply and fixing of El ec tron ic Hooter u nit 24 /110 DC of",
+    "unit": "No.",
+    "Rate": "2732",
+    "page": 67
+  },
+  {
+    "ITEM No": "3606",
+    "ITEM": "Supply and fixing of yel lo w ret ro reflective strips of 1\" width P",
+    "unit": "er LC",
+    "Rate": "670",
+    "page": 67
+  },
+  {
+    "ITEM No": "3607",
+    "ITEM": "Painting of gate protecti on dia gram.",
+    "unit": "No.",
+    "Rate": "417",
+    "page": 67
+  }
+]

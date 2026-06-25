@@ -1,0 +1,135 @@
+/* Work Details component styles */
+
+.pdf-reference-summary {
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+
+.pdf-search-context {
+	padding: 0.65rem 0.8rem;
+	border-radius: 0.5rem;
+	background: #f8f9fa;
+	border: 1px solid #dee2e6;
+	color: #212529;
+	line-height: 1.45;
+}
+
+.pdf-match-preview {
+	padding: 0.65rem 0.8rem;
+	border-radius: 0.5rem;
+	background: #fff7e6;
+	border: 1px solid #ffe8b0;
+	color: #5c3b00;
+	line-height: 1.45;
+}
+
+.pdf-preview-card {
+	padding: 0.75rem;
+	background: #f1f3f5;
+	border: 1px solid rgba(255, 255, 255, 0.28);
+	border-radius: 0.5rem;
+}
+
+.letter-pdf-loading-overlay {
+	position: absolute;
+	inset: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(255, 255, 255, 0.92);
+	z-index: 2;
+}
+
+/* PDF Canvas and Scroll Container - Full Page Display */
+canvas {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+/* Ensure scroll container allows full page visibility with proper sizing */
+.pdf-scroll-container {
+	overflow-y: auto;
+	max-height: 76vh;
+	padding: 12px 16px;
+	background: #525659;
+}
+
+.pdf-scroll-container canvas {
+	width: 100% !important;
+	max-width: 800px;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 0 2px 14px rgba(0, 0, 0, 0.55);
+	background: white;
+	border-radius: 2px;
+}
+
+.inventory-description-clamp {
+	display: -webkit-box !important;
+	-webkit-line-clamp: 5 !important;
+	line-clamp: 5 !important;
+	-webkit-box-orient: vertical !important;
+	overflow: hidden !important;
+	white-space: normal !important;
+	word-break: break-word;
+	line-height: 1.4 !important;
+	height: calc(1.4em * 5) !important;
+	max-height: calc(1.4em * 5) !important;
+	cursor: help;
+}
+
+.inventory-description-cell {
+	position: relative;
+}
+
+.inventory-description-wrap {
+	position: relative;
+	display: block;
+}
+
+.inventory-description-hover {
+	position: absolute;
+	left: 0;
+	top: calc(100% + 6px);
+	z-index: 30;
+	width: min(700px, 78vw);
+	max-height: 320px;
+	overflow: auto;
+	padding: 0.7rem 0.8rem;
+	background: #ffffff;
+	border: 1px solid #ced4da;
+	border-radius: 0.45rem;
+	box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+	line-height: 1.45;
+	white-space: normal;
+	word-break: break-word;
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(-4px);
+	transition: opacity 0.14s ease, transform 0.14s ease;
+	pointer-events: none;
+}
+
+.inventory-description-wrap:hover .inventory-description-clamp {
+	text-decoration: underline dotted;
+	text-underline-offset: 2px;
+}
+
+.inventory-description-wrap:hover .inventory-description-hover {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
+}
+
+.rate-calc-details {
+	color: #4f5b66;
+	font-weight: 600;
+}
+
+.rate-calc-below {
+	color: #8a3b00;
+}
+
+.rate-calc-result {
+	font-size: 1rem;
+}

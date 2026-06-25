@@ -1,0 +1,3685 @@
+{
+  "document": "South Central Railway Signal & Telecommunication Schedule of Rates 2024",
+  "extraction_range": "Pages 7 to 97 (All Supply + Labour Chapters)",
+  "chapters": {
+    "1": {
+      "name": "SIGNAL UNIT",
+      "items": [
+        {
+          "item_no": "101 (a)",
+          "description": "Supply of CLS Post 140mm dia to specification IRS:S 6-81 Rev.3 or latest (a) 4.5m long",
+          "unit": "No.",
+          "rate": 4710,
+          "chapter": 1
+        },
+        {
+          "item_no": "101 (b)",
+          "description": "Supply of CLS Post 140mm dia to specification IRS:S 6-81 Rev.3 or latest (b) 3.5m long Supply of CLS Ladder set complete with staging/platform,",
+          "unit": "No.",
+          "rate": 4442,
+          "chapter": 1
+        },
+        {
+          "item_no": "102 (a)",
+          "description": "Supply of CLS Ladder set complete with staging/platform, supports, cast iron ladder base/Shoe. (a) Ladder for 4.5m post as per DRG. No. SA 23153, S 2033 or Latest",
+          "unit": "Set",
+          "rate": 6432,
+          "chapter": 1
+        },
+        {
+          "item_no": "102 (b)",
+          "description": "Supply of CLS Ladder set complete with staging/platform, supports, cast iron ladder base/Shoe. (b) Ladder for 3.5m post as per DRG. No. SA 23150, S 2033 or latest",
+          "unit": "Set",
+          "rate": 5226,
+          "chapter": 1
+        },
+        {
+          "item_no": "103",
+          "description": "Supply of Surface Base 140mm dia. CLS post as per DRG. No. S 2011/M",
+          "unit": "No.",
+          "rate": 3476,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (a)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit. (a) 2 aspect complete as per DRG. No. SA. 23003/A/M (Adv.) with latest amendment and specification IRS: S 26-64 or latest",
+          "unit": "No.",
+          "rate": 12998,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (b)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit. (b) 3 aspect complete as per DRG. No. SA. 23002/A/M (Adv.) with latest amendment and specification IRS: S 26-64 or latest.",
+          "unit": "No.",
+          "rate": 17623,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (c)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit. (c) 4 aspect complete as per DRG. No. SA. 23001/A/M (Adv.) with latest amendment and specification IRS: S 26-64 or latest.",
+          "unit": "No.",
+          "rate": 18820,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (a)",
+          "description": "Supply of FRP type colour light signal unit as per RDSO Spec no. RDSO/SPN/194/2006 Rev. 2.0 or latest (a) 2 aspect complete as per DRG. No. SA 23003/A/M with Latest amendment",
+          "unit": "No.",
+          "rate": 32681,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (b)",
+          "description": "Supply of FRP type colour light signal unit as per RDSO Spec no. RDSO/SPN/194/2006 Rev. 2.0 or latest (b) 3 aspect complete as per DRG. No. SA 23002/A/M with Latest amendment",
+          "unit": "No.",
+          "rate": 35227,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (c)",
+          "description": "Supply of FRP type colour light signal unit as per RDSO Spec no. RDSO/SPN/194/2006 Rev. 2.0 or latest (c) 4 aspect complete as per DRG. No. SA 23001/A/M with Latest amendment.",
+          "unit": "No.",
+          "rate": 39820,
+          "chapter": 1
+        },
+        {
+          "item_no": "106",
+          "description": "Supply of Offset Bracket to suit 140mm dia CLS post with two numbers of U bolts and nuts complete.",
+          "unit": "No.",
+          "rate": 4938,
+          "chapter": 1
+        },
+        {
+          "item_no": "107",
+          "description": "Supply of Calling On Signal Unit complete with U Bolts as per RDSO DRG. No. SA.24351 (Adv.) or latest.",
+          "unit": "No.",
+          "rate": 4740,
+          "chapter": 1
+        },
+        {
+          "item_no": "108",
+          "description": "with base, pipe, arrow mark and hoods as per RDSO ORG. No SA 23840 or latest Supply of Post type position light shunt signal with hoods, arrow mark and offset bracket to suit 90mm sockets (CLS) with",
+          "unit": "No.",
+          "rate": 6083,
+          "chapter": 1
+        },
+        {
+          "item_no": "109",
+          "description": "Supply of Post type position light shunt signal with hoods, arrow mark and offset bracket to suit 90mm sockets (CLS) with two numbers of 'U' bolts and nuts complete to fix shunt signal below main stop signal as per RDSO DRG. No. SA 23840 or latest",
+          "unit": "No.",
+          "rate": 3502,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (a)",
+          "description": "Supply of Junction type / Direction type route indicator as per specification IRS:S 66-84 Amd. 1 or latest. (a) One way as per DRG. No. SA 23401",
+          "unit": "No.",
+          "rate": 15187,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (b)",
+          "description": "Supply of Junction type / Direction type route indicator as per specification IRS:S 66-84 Amd. 1 or latest. (b) Two way as per DRG. No. SA 23402",
+          "unit": "No.",
+          "rate": 20490,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (c)",
+          "description": "Supply of Junction type / Direction type route indicator as per specification IRS:S 66-84 Amd. 1 or latest. (c) Three way as per DRG. No. SA 23403",
+          "unit": "No.",
+          "rate": 24051,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (d)",
+          "description": "Supply of Junction type / Direction type route indicator as per specification IRS:S 66-84 Amd. 1 or latest. (d) Four way to drawing no. SA.23404",
+          "unit": "No.",
+          "rate": 27612,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (e)",
+          "description": "Supply of Junction type / Direction type route indicator as per specification IRS:S 66-84 Amd. 1 or latest. (e) Five way as per DRG. No. SA 23405",
+          "unit": "No.",
+          "rate": 31174,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (f)",
+          "description": "Supply of Junction type route indicator... (f) Six way",
+          "unit": "No.",
+          "rate": 34735,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (a)",
+          "description": "Supply of LED type (White Colour) route indicator (a) One way",
+          "unit": "No.",
+          "rate": 39589,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (b)",
+          "description": "Supply of LED type (White Colour) route indicator (b) Two way",
+          "unit": "No.",
+          "rate": 80476,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (c)",
+          "description": "Supply of LED type (White Colour) route indicator (c) Four way",
+          "unit": "No.",
+          "rate": 153424,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (d)",
+          "description": "Supply of LED type (White Colour) route indicator (d) Six way",
+          "unit": "No.",
+          "rate": 201190,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (a)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (a) RED aspect, Integrated type retro fittable in existing CLS housing and compatible with AC LED ECR as per RDSO specification No. RDSO /SPN/199/2010 Rev.1.1 or latest.",
+          "unit": "No.",
+          "rate": 9086,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (b)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (b) Yellow aspect, Integrated type retro fittable in existing CLS housing and compatible with AC LED ECR as per RDSO specification No. RDSO /SPN/199/2010 Rev.1.1 or latest.",
+          "unit": "No.",
+          "rate": 9263,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (c)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (c) Green aspect, Integrated type retro fittable in existing CLS housing and compatible with AC LED ECR as per RDSO specification No. RDSO /SPN/199/2010 Rev.1.1 or latest.",
+          "unit": "No.",
+          "rate": 10443,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (d)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (d) Calling on aspect with current regulator and health monitoring alarm unit with selection for use with conventional ECR or LED ECR to RDSO Spn. RDSO/SPN/153/2023 rev.5.0 or Latest.",
+          "unit": "No.",
+          "rate": 6844,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (e)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (e) Signal Route aspect with current regulator and health monitoring alarm unit with selection for use with conventional ECR or LED ECR to RDSO Specification No. RDSO/SPN/153/2023 rev.5.0 or Latest.",
+          "unit": "No.",
+          "rate": 5575,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (f)",
+          "description": "Supply of Colour LED Signal of various type working on 110V AC (f) Shunt aspect with current regulator and health monitoring alarm unit with selection for use with conventional ECR or LED ECR to RDSO Spn. No. RDSO/SPN/153/2023 rev.5.0 or Latest.",
+          "unit": "No.",
+          "rate": 5575,
+          "chapter": 1
+        },
+        {
+          "item_no": "113",
+          "description": "Supply of Housing rack for 1-9 Multi lamp Route Indicator of 2mm MS thick sheet with mounting socket on signal post (LED single digit).",
+          "unit": "No.",
+          "rate": 20309,
+          "chapter": 1
+        },
+        {
+          "item_no": "114",
+          "description": "Supply of vitreous enamel coated board of 230mm dia. (A, P, G, C, IB markers) made of 2mm thick sheet as per following colour scheme: 1)'G' marker – Yellow back ground, black letters 2) Other boards - White background, black letters",
+          "unit": "No.",
+          "rate": 267,
+          "chapter": 1
+        },
+        {
+          "item_no": "115",
+          "description": "Supply of 280mmx102mmx2mm thickness vitreous enamel coating arrow markers board fabricated with MS clamp of size 40mmx6mm along with suitable bolts and nuts.",
+          "unit": "No.",
+          "rate": 370,
+          "chapter": 1
+        }
+      ]
+    },
+    "2": {
+      "name": "LOCATION BOX",
+      "items": [
+        {
+          "item_no": "201 (a)",
+          "description": "Supply of GKP type Location Boxes (a) Full size as per drg. No. S&T/MF T/T.2378",
+          "unit": "No.",
+          "rate": 16216,
+          "chapter": 2
+        },
+        {
+          "item_no": "201 (b)",
+          "description": "Supply of GKP type Location Boxes (b) Half size drg. No. S&T/MF T/T.2378",
+          "unit": "No.",
+          "rate": 8083,
+          "chapter": 2
+        },
+        {
+          "item_no": "201 (c)",
+          "description": "Supply of GKP type Location Boxes Quarter size drg.No.S&T/MFT/T.2378 Supply of 'E'type lock of specified ward as per requirement",
+          "unit": "No.",
+          "rate": 4330,
+          "chapter": 2
+        },
+        {
+          "item_no": "202",
+          "description": "Supply of 'E'-type lock of specified ward as per requirement with one key E-type lock to DRG. No.SA3376/M or latest and specification IRS: S30-64 or latest.",
+          "unit": "No.",
+          "rate": 1051,
+          "chapter": 2
+        },
+        {
+          "item_no": "203",
+          "description": "Supply of relay fixing frame for full location box. The frame shall be of approximate size 940mmx150mm and made with powder coated MS angle of 25mmx25mmx3mm. The frame shall have suitable holes to fix in full location box.",
+          "unit": "No.",
+          "rate": 853,
+          "chapter": 2
+        },
+        {
+          "item_no": "204",
+          "description": "Supply of relay fixing frame for half location box. The frame should be of approximate size 470mmx150mm and made out with powder coated MS angle of 25mmx25mmx3mm. The frame should have suitable holes to fix in half location box.",
+          "unit": "No.",
+          "rate": 427,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (a)",
+          "description": "Supply of Hylam sheet, resin bonded, grade P3 as per IS specification IS 2036 of 1974 or latest of following size: (a) Hylam Sheet of size: 2400mm x1200mmx6mm.",
+          "unit": "No.",
+          "rate": 7124,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (b)",
+          "description": "Supply of Hylam sheet, resin bonded, grade P3 as per IS specification IS 2036 of 1974 or latest of following size: (b) Hylam Sheet of size: 2400mmx600mm x6mm.",
+          "unit": "No.",
+          "rate": 3430,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (c)",
+          "description": "Supply of Hylam sheet... (c) 2400x600x3mm",
+          "unit": "No.",
+          "rate": 1888,
+          "chapter": 2
+        }
+      ]
+    },
+    "3": {
+      "name": "POINT MACHINE",
+      "items": [
+        {
+          "item_no": "301",
+          "description": "Supply of GI termination box (10 SWG) for point machine of size 45 cmx23 cmx12 cm with double coat of enamel paint (outside: Black & inside: white) along with 2no's of MS angle of size 50x50x6mm of length 1000mm each, 2 numbers of 40mm GI pipe of length 450 mm & 150 mm with nuts/washers and teak wood plank of size 40 mmx25 mm for fixing of terminals.",
+          "unit": "No.",
+          "rate": 2902,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (a)",
+          "description": "Supply of Ground connections for point machines (a) Ground connections for universal point machine 143 mm with 'D' type clamp for 52kg/ 60kg/ 90R rail as per Drg. No. RDSO/S3267-74",
+          "unit": "Set",
+          "rate": 8670,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (b)",
+          "description": "Supply of Ground connections for point machines (b) Supply of complete set of ground connections for high thrust 220 mm stroke point machine along with insulation as per Drg. No RDSO/S3454 Alt.B dt 25-01-2023 or latest along with insulation.",
+          "unit": "Set",
+          "rate": 58410,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (c)",
+          "description": "Supply of Ground connections for point machines Supply of following ground connections suitable for220mm electric point machine & thick web switch as per drawing No. RDSO/S-3454AltB or latest (a) Lock long rod as per ROSO Drgno3596Alt-1:1 no. (b) Lock short rod as per RDSO Drg no3597:1 no (c) Detector long rod as per RDSO Org no3594Alt-1:lno (d) Detector short rod as per RDSO Org no3595: mo p Bracket: 2nos",
+          "unit": "Set",
+          "rate": 14160,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (a)",
+          "description": "Supply of Insulations for Ground connections universal point machine as per drawing RDSO/S3361-62 supplied by railways. One set consists of D' clamp insulation-2nos, Nylon insulation bushes-4nos., and Nylon insulation washers-8Nos.) Drive lug insulation for universal point machine as per",
+          "unit": "Set",
+          "rate": 729,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (b)",
+          "description": "Supply of Insulations for Ground connections drawing RDSO/S 3361-62. (One set consists of one number central insulation plate, bushes-2 no's and washer-4 Nos.)",
+          "unit": "Set",
+          "rate": 160,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (c)",
+          "description": "Supply of Insulations for Ground connections Insulations for the ground connection for point machine comprising of the following: 1) Switch extension piece insulation -1 set (Each set comprising of S3265 -1 no; S 3266-1 No; S23199-2No and 58640-4No.) 2) Stretcher bar insulation-3sets (Each set consisting of T10367-1No., T10368-2No., T10371-4No.) 3) Gauge tie plate insulations-4sets (Each set consisting of T 10372- 1 No, T10368 -3 No and T10371-6 No.) 4) Drive lug insulation-i set (Each set consisting of S 8804 - 1 No., S 8813 -2No.and S 8640-4No.) complete with bushes. 8 Note- The type of insulation required will be specified engineer in-charge of the work depending on the type machine proposed (Universal /PTJ Make) as specification.",
+          "unit": "Set",
+          "rate": 2203,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (d)",
+          "description": "Supply of Insulations for Ground connections Ground connection insulations for thick web switch layout facing point (BG) for 52kg160kg rail fitted with high thrust point machine comprising of the following: 1. Bush as per DRG.No.S3463-ino.and Washer as DRG. No.58640-2no.for drive (throw) rod 2. Bush as per DRG.No.S 23199 and Washer as -mo DRG. No. S 8640-2no for short detector rod. 3. Bush as per DRG.No.S 23199 -mo and Washer as DRG.No.S 8640-2no for long detector rod. 4. Bush as per DRG.No.S 22179 and Washer as -mo DRG.No. S 8640-2n0 for short lock rod. 5. Bush as per DRG.No.S 22179 -mo and Washer as DRG. No.S 8640-2no for long lock rod. 6. Bush 'B' as per DRG.No.S 8912 for LH lock slide-i no. 7. Bush 'B' as per DRG.No.S 8912 for LH lock arm-2 no. 8. Bush 'B' as per DRG.No.S 8912 for RH lock arm -2 no. 9. Bush 'B' as per DRG.No.S 89i2 for RH lock slide-i no. 10. Bush as per DRG.No.S 23199 -4no and washer as DRG.No.S 8640-4no for LH lock slide. ii. Insulating Plate LH as per DRG.No.S 3404 RDSOIS 3593- mo. 12. Insulating Plate RH as per DRG.No.S 3404 RDSO/S 3592- mo. 13. Bush as per DRG.No.S 23199-4n0 and washer as DRG.No.S 8640-4no for RH lock slide. 9 CHAPTER 4—TRACK CIRCUIT Supply of Track feed battery charger to work on 11OV AC",
+          "unit": "Set",
+          "rate": 1074,
+          "chapter": 3
+        }
+      ]
+    },
+    "4": {
+      "name": "TRACK CIRCUIT",
+      "items": [
+        {
+          "item_no": "401",
+          "description": "Supply of Track feed battery charger to work on 110V AC for charging 1 or 2 or 3 or 4 lead acid cell of 80AH (10Amps) used in track circuit as per RDSO Specn. No. IRS.S.89/2013 Ver 1.0 latest.",
+          "unit": "No.",
+          "rate": 8294,
+          "chapter": 4
+        },
+        {
+          "item_no": "402",
+          "description": "Supply of Track lead junction boxes fibre glass as per DRG.No.CWM-00597 of F.R.P material to and specification IRS:S 23 along with fixtures.",
+          "unit": "No.",
+          "rate": 1546,
+          "chapter": 4
+        },
+        {
+          "item_no": "403",
+          "description": "Supply of Galvanised Wire rope 6/19 steel, 6 mm dia with fibre core as per specification IS 3459/2004 or latest",
+          "unit": "Meter",
+          "rate": 80,
+          "chapter": 4
+        },
+        {
+          "item_no": "404",
+          "description": "Supply of Galvanised Wire rope 6/19 steel, 6 mm dia with fibre core as per specification IS 3459/2004 or latest, with PVC sheathing 2 mm thick.",
+          "unit": "Meter",
+          "rate": 120,
+          "chapter": 4
+        },
+        {
+          "item_no": "405",
+          "description": "Supply of B type chokes to as per specification IRS: S65-83 Amd.1 or latest.",
+          "unit": "No.",
+          "rate": 2313,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (a)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (a) 2V, 80AH",
+          "unit": "No.",
+          "rate": 3315,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (b)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (b) 2V, 120AH",
+          "unit": "No.",
+          "rate": 4709,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (c)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (c) 2V, 200AH",
+          "unit": "No.",
+          "rate": 5665,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (d)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (d) 2V, 300AH",
+          "unit": "No.",
+          "rate": 7060,
+          "chapter": 4
+        },
+        {
+          "item_no": "407",
+          "description": "Supply of Hydrometer as per IS: 3104 (Part II)-1982 or latest",
+          "unit": "No.",
+          "rate": 277,
+          "chapter": 4
+        },
+        {
+          "item_no": "408",
+          "description": "Supply of Distilled water for topping of secondary cells as per specification IS 1106 or latest.",
+          "unit": "Ltr.",
+          "rate": 10,
+          "chapter": 4
+        },
+        {
+          "item_no": "409",
+          "description": "Supply of Porcelain insulators for secondary lead acid cells.",
+          "unit": "No.",
+          "rate": 30,
+          "chapter": 4
+        },
+        {
+          "item_no": "410",
+          "description": "Supply of titanium coated 7.2 mm drill bits of Bosch/Addision make.",
+          "unit": "No.",
+          "rate": 146,
+          "chapter": 4
+        },
+        {
+          "item_no": "411",
+          "description": "Supply of Channel bond pins 7mm dia single groove as per specification IRS: S 17-75 Amd.1 or latest.",
+          "unit": "No.",
+          "rate": 3,
+          "chapter": 4
+        },
+        {
+          "item_no": "412",
+          "description": "Supply of Track Feed Regulating Resistance disk type 0Ω to 30Ω as per DRG. No. SA 20161 66/M or latest. To be procured from RDSO approved firms.",
+          "unit": "No.",
+          "rate": 358,
+          "chapter": 4
+        }
+      ]
+    },
+    "5": {
+      "name": "RELAYS",
+      "items": [
+        {
+          "item_no": "501 (a)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (a) QN1- 8F/8B, 24 V DC. The interlocking code: ABODE",
+          "unit": "No.",
+          "rate": 4400,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (b)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (b) QNI-12E/4B, 24 V DC. The interlocking code: ABODE",
+          "unit": "No.",
+          "rate": 4283,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (c)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (c) QN1-8F/8B, 50V.The interlocking code: ABDEF",
+          "unit": "No.",
+          "rate": 6753,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (d)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (d) QN1-12E/4B, 50V. The interlocking code: ABCEF",
+          "unit": "No.",
+          "rate": 6544,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (e)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (e) QS3-4E/4B, 12 V DC. The interlocking code: ODEKX",
+          "unit": "No.",
+          "rate": 3962,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (f)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (f) QB3-6F/2B, 12 V DC. The interlocking code: ABFGX",
+          "unit": "No.",
+          "rate": 4485,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (g)",
+          "description": "Relays-Metal to Carbon Supply of Plug-in type miniature tractive armature Non-AC immune, DC neutral line relay complete with plug board, retaining clip/ATC Clip and connectors as per specifications BRS 930, lRS:S 23-88 Amd. 1 or latest, IRS: S 34-68 Amd 6 or latest, IRS: S 67-85 Amd. 3 or latest (as applicable) (g) QNN1-4F/4B, 24 V DC, The interlocking code: ACEHJ Supply of 24 V DC plug-in type miniature tractive armature, AC immune relay complete with plug board, retaining",
+          "unit": "No.",
+          "rate": 4944,
+          "chapter": 5
+        }
+      ]
+    },
+    "6": {
+      "name": "RELAY RACKS, TERMINAL BLOCKS AND FUSES",
+      "items": [
+        {
+          "item_no": "601 (a)",
+          "description": "Supply of powder coated Relay rack (a) 1 Way",
+          "unit": "No.",
+          "rate": 7474,
+          "chapter": 6
+        },
+        {
+          "item_no": "601 (b)",
+          "description": "Supply of powder coated Relay rack (b) 2 Way",
+          "unit": "No.",
+          "rate": 14847,
+          "chapter": 6
+        },
+        {
+          "item_no": "601 (c)",
+          "description": "Supply of powder coated Relay rack (c) 4 Way",
+          "unit": "No.",
+          "rate": 27712,
+          "chapter": 6
+        },
+        {
+          "item_no": "602",
+          "description": "Supply of powder coated Cable termination rack",
+          "unit": "No.",
+          "rate": 7585,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (a)",
+          "description": "Supply of Terminal Block (a) 1 way",
+          "unit": "No.",
+          "rate": 97,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (b)",
+          "description": "Supply of Terminal Block (b) 6 way",
+          "unit": "No.",
+          "rate": 406,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (c)",
+          "description": "Supply of Terminal Block (c) Modular WAGO",
+          "unit": "Set",
+          "rate": 703,
+          "chapter": 6
+        },
+        {
+          "item_no": "604",
+          "description": "Supply of mini WSB markers",
+          "unit": "Set",
+          "rate": 64,
+          "chapter": 6
+        },
+        {
+          "item_no": "605 (a)",
+          "description": "Supply of fuse holders (a) 20A holder",
+          "unit": "No.",
+          "rate": 220,
+          "chapter": 6
+        },
+        {
+          "item_no": "605 (b)",
+          "description": "Supply of fuse holders (b) Fuse link",
+          "unit": "No.",
+          "rate": 31,
+          "chapter": 6
+        },
+        {
+          "item_no": "606",
+          "description": "Supply of Fuse Auto Changeover system...",
+          "unit": "Set",
+          "rate": 46656,
+          "chapter": 6
+        }
+      ]
+    },
+    "7": {
+      "name": "WIRES & CABLES",
+      "items": [
+        {
+          "item_no": "701",
+          "description": "Supply of 60 core Indoor Cable",
+          "unit": "Km.",
+          "rate": 191009,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (a)",
+          "description": "Supply of PVC insulated Wire Coils (a) 16/0.2",
+          "unit": "Coil",
+          "rate": 1153,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (b)",
+          "description": "Supply of PVC insulated Wire Coils (b) 28/0.3",
+          "unit": "Coil",
+          "rate": 2908,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (c)",
+          "description": "Supply of PVC insulated Wire Coils (c) 35 Sq.mm",
+          "unit": "Meter",
+          "rate": 391,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (d)",
+          "description": "Supply of PVC insulated Wire Coils (d) 16 Sq.mm",
+          "unit": "Meter",
+          "rate": 178,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (e)",
+          "description": "Supply of PVC insulated Wire Coils (e) 10 Sq.mm",
+          "unit": "Meter",
+          "rate": 124,
+          "chapter": 7
+        }
+      ]
+    },
+    "8": {
+      "name": "POWER SUPPLY AND EARTH LEAKAGE DETECTOR",
+      "items": [
+        {
+          "item_no": "801 (a)",
+          "description": "Supply of Battery Charger of Various capacity 230V AC / 110V DC, 30A single phase, signalling! telecom Installation as per specification IRS: S 86-2000 Amd. 4 or latest",
+          "unit": "No.",
+          "rate": 110464,
+          "chapter": 8
+        },
+        {
+          "item_no": "801 (b)",
+          "description": "Supply of Battery Charger of Various capacity 230V AC ! 24-26-28V DC, 30A capacity as per specification IRS: S 86-2000 Amd. 4 or latest",
+          "unit": "No.",
+          "rate": 55373,
+          "chapter": 8
+        },
+        {
+          "item_no": "801 (c)",
+          "description": "Supply of Battery Charger of Various capacity 230V AC / 24-26-28V DC, 20A capacity as per specification IRS: S 86-2000 Amd. 4 or latest",
+          "unit": "No.",
+          "rate": 34433,
+          "chapter": 8
+        },
+        {
+          "item_no": "802 (a)",
+          "description": "Supply of Transformer - Rectifier as per specification IRS: S 91-2014 Ver. 1.0 or latest Transformer-rectifier set with 11OV AC input, 24V-30V DC output, 1A",
+          "unit": "No.",
+          "rate": 19470,
+          "chapter": 8
+        },
+        {
+          "item_no": "802 (b)",
+          "description": "Supply of Transformer - Rectifier as per specification IRS: S 91-2014 Ver. 1.0 or latest Transformer-rectifier set with 230V AC input, 24V-30V DC output, 5A",
+          "unit": "No.",
+          "rate": 25960,
+          "chapter": 8
+        },
+        {
+          "item_no": "803",
+          "description": "Supply of ON ! OFF Rotary Switches of 16A rating 2/1 pole of reputed make like L&T or Siemens Supply of Earth Leakage Detector (ELD) with configuration",
+          "unit": "No.",
+          "rate": 500,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (a)",
+          "description": "specified by Engineer In charge and as per specification RDSO!SPN/256!2002 or latest with insulated tester, test probes, Mounting stand and Fuse board to isolate from distribution board as per requirement of channels Four channel Earth Leakage Detector",
+          "unit": "No.",
+          "rate": 78179,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (b)",
+          "description": "specified by Engineer In charge and as per specification RDSO!SPN/256!2002 or latest with insulated tester, test probes, Mounting stand and Fuse board to isolate from distribution board as per requirement of channels Eight channel Earth Leakage Detector",
+          "unit": "No.",
+          "rate": 88000,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (c)",
+          "description": "specified by Engineer In charge and as per specification RDSO!SPN/256!2002 or latest with insulated tester, test probes, Mounting stand and Fuse board to isolate from distribution board as per requirement of channels Twelve channel Earth Leakage Detector Supply of Control and Distribution panel for Colour Light Signalling supply in 25kV AC traction system suitable to work on 3 input supplies 10kVA AT, 240V AC single phase, 50Hz,",
+          "unit": "No.",
+          "rate": 190261,
+          "chapter": 8
+        },
+        {
+          "item_no": "805",
+          "description": "60A capacity as per specification TI/SPC/PSI!CLS/0020 with A & C Slip 1 to 4 or latest, CORE approved DRG. No ASCOS/CORE/2005/01 Rev.02 or latest. The panel shall have automatic changeover facility and shall be supplied with one additional rotary switch and meter. The panel shall be of Suntron or similar make Supply of Control and Distribution panel for Colour Light Signalling supply in 25kV AC traction system suitable to work",
+          "unit": "No.",
+          "rate": 61666,
+          "chapter": 8
+        },
+        {
+          "item_no": "806",
+          "description": "Supply of Control and Distribution panel 25kVA...",
+          "unit": "No.",
+          "rate": 227480,
+          "chapter": 8
+        }
+      ]
+    },
+    "9": {
+      "name": "DOMINO PANEL AND DATALOGGER",
+      "items": [
+        {
+          "item_no": "901",
+          "description": "Supply of Domino type panel 3/4 road",
+          "unit": "No.",
+          "rate": 173461,
+          "chapter": 9
+        },
+        {
+          "item_no": "902",
+          "description": "Supply of Domino type panel 5/6 road",
+          "unit": "No.",
+          "rate": 197146,
+          "chapter": 9
+        },
+        {
+          "item_no": "903",
+          "description": "Supply of spare domino",
+          "unit": "No.",
+          "rate": 694,
+          "chapter": 9
+        },
+        {
+          "item_no": "904",
+          "description": "Supply of spare counter block",
+          "unit": "No.",
+          "rate": 2333,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (a)",
+          "description": "Supply of Data Logger (a) 512 inputs",
+          "unit": "Set",
+          "rate": 497388,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (b)",
+          "description": "Supply of Data Logger (b) 1024",
+          "unit": "Set",
+          "rate": 623709,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (c)",
+          "description": "Supply of Data Logger (c) 2048",
+          "unit": "Set",
+          "rate": 856680,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (d)",
+          "description": "Supply of Data Logger (d) 4096",
+          "unit": "Set",
+          "rate": 1200650,
+          "chapter": 9
+        },
+        {
+          "item_no": "906",
+          "description": "12V, 42AH sealed, maintenance free (VRLA) battery as per specification No. IRS: S 93-96 Amd. I or latest for networking of Data Loggers",
+          "unit": "No.",
+          "rate": 132521,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (a)",
+          "description": "Supply of Remote Terminal Unit with dual modem as per specification IRS: S 99-2006 Amd. 3 or latest Remote Terminal Unit with 32 digital inputs and 16 analog inputs",
+          "unit": "No.",
+          "rate": 146008,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (b)",
+          "description": "Supply of Remote Terminal Unit with dual modem as per specification IRS: S 99-2006 Amd. 3 or latest Remote Terminal Unit with 64 digital inputs and 16 analog inputs",
+          "unit": "No.",
+          "rate": 217980,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (c)",
+          "description": "Supply of Remote Terminal Unit with dual modem as per specification IRS: S 99-2006 Amd. 3 or latest Remote Terminal Unit with 128 digital inputs and 16 analog inputs",
+          "unit": "No.",
+          "rate": 382594,
+          "chapter": 9
+        }
+      ]
+    },
+    "10": {
+      "name": "TELECOM EQUIPMENT",
+      "items": [
+        {
+          "item_no": "1001",
+          "description": "Supply of Thermo shrink jointing kit",
+          "unit": "No.",
+          "rate": 3715,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (a)",
+          "description": "Supply of Various Telephones (a) Magneto",
+          "unit": "No.",
+          "rate": 4416,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (b)",
+          "description": "Supply of Various Telephones (b) 4 wire train",
+          "unit": "No.",
+          "rate": 5617,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (c)",
+          "description": "Supply of Various Telephones (c) Desk 12 way",
+          "unit": "No.",
+          "rate": 6282,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (d)",
+          "description": "Supply of Various Telephones (d) Push button",
+          "unit": "No.",
+          "rate": 1495,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (e)",
+          "description": "Supply of Various Telephones (e) Signal post",
+          "unit": "Set",
+          "rate": 10108,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (f)",
+          "description": "Supply of Various Telephones (f) LC Gate Station",
+          "unit": "No.",
+          "rate": 6222,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (g)",
+          "description": "Supply of Various Telephones (g) LC Gate",
+          "unit": "No.",
+          "rate": 5113,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (h)",
+          "description": "Supply of Various Telephones (h) Centralised power",
+          "unit": "No.",
+          "rate": 5992,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (i)",
+          "description": "Supply of Various Telephones (i) Power Supply Unit",
+          "unit": "No.",
+          "rate": 4265,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (a)",
+          "description": "Supply of Various Telecom Cable (a) 5 Pair",
+          "unit": "Km",
+          "rate": 17649,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (b)",
+          "description": "Supply of Various Telecom Cable (b) 10 Pair",
+          "unit": "Meter",
+          "rate": 35,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (c)",
+          "description": "Supply of Various Telecom Cable (c) 20 Pair",
+          "unit": "Meter",
+          "rate": 88,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (d)",
+          "description": "Supply of Various Telecom Cable (d) 50 Pair",
+          "unit": "Meter",
+          "rate": 304,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (e)",
+          "description": "Supply of Various Telecom Cable (e) 100 Pair",
+          "unit": "Km",
+          "rate": 413592,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (f)",
+          "description": "Supply of Various Telecom Cable (f) PVC Twin",
+          "unit": "Km",
+          "rate": 9623,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (g)",
+          "description": "Supply of Various Telecom Cable (g) UTP CAT6",
+          "unit": "Meter",
+          "rate": 37,
+          "chapter": 10
+        }
+      ]
+    },
+    "11": {
+      "name": "MECHANICAL SIGNALING ITEMS",
+      "items": [
+        {
+          "item_no": "1101",
+          "description": "Supply of Electric Key Transmitter",
+          "unit": "No.",
+          "rate": 7027,
+          "chapter": 11
+        },
+        {
+          "item_no": "1102",
+          "description": "Supply of Electrical Point Detector",
+          "unit": "No.",
+          "rate": 23724,
+          "chapter": 11
+        },
+        {
+          "item_no": "1103",
+          "description": "Supply of Point Indicator Lamp",
+          "unit": "Set",
+          "rate": 3836,
+          "chapter": 11
+        },
+        {
+          "item_no": "1104",
+          "description": "Supply of Split Stretcher Bars",
+          "unit": "Set",
+          "rate": 3821,
+          "chapter": 11
+        },
+        {
+          "item_no": "1105",
+          "description": "Supply of Hand plunger lock",
+          "unit": "No.",
+          "rate": 4634,
+          "chapter": 11
+        },
+        {
+          "item_no": "1106",
+          "description": "Supply of ground connections for Electrical detector",
+          "unit": "No.",
+          "rate": 4803,
+          "chapter": 11
+        }
+      ]
+    },
+    "13": {
+      "name": "BLOCK AND IB RELATED ITEMS",
+      "items": [
+        {
+          "item_no": "1301",
+          "description": "Supply of lB Resetting Panel (made of Galvanized MS)of size 12\" x 10\" x 6\" with two push button keys, one push button, two counters with four LEDs",
+          "unit": "No.",
+          "rate": 9297,
+          "chapter": 13
+        },
+        {
+          "item_no": "1302",
+          "description": "Supply of Filter Unit for use in conjunction with block instrument as per specification IRS: S 68-89 or latest",
+          "unit": "No.",
+          "rate": 15500,
+          "chapter": 13
+        },
+        {
+          "item_no": "1303",
+          "description": "Supply of Block Bell Equipment as per specification IRS: IC 44-88 with Amd. 1 or latest Supply of Teak Wood Block Counter suitable for DAIDO /",
+          "unit": "No.",
+          "rate": 2604,
+          "chapter": 13
+        },
+        {
+          "item_no": "1304",
+          "description": "Supply of Teak Wood Block Counter...",
+          "unit": "No.",
+          "rate": 14721,
+          "chapter": 13
+        }
+      ]
+    },
+    "14": {
+      "name": "DIGITAL AXLE COUNTER",
+      "items": [
+        {
+          "item_no": "1401",
+          "description": "Supply of Single Section Digital Axle Counter",
+          "unit": "Set",
+          "rate": 674335,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (a)",
+          "description": "Supply of spare cards (a) CPU",
+          "unit": "No.",
+          "rate": 51555,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (b)",
+          "description": "Supply of spare cards (b) Modem",
+          "unit": "No.",
+          "rate": 34370,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (c)",
+          "description": "Supply of spare cards (c) DC-DC",
+          "unit": "No.",
+          "rate": 17185,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (d)",
+          "description": "Supply of spare cards (d) Signal conditioner",
+          "unit": "No.",
+          "rate": 34230,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (e)",
+          "description": "Supply of spare cards (e) Relay driver",
+          "unit": "Set",
+          "rate": 30934,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (f)",
+          "description": "Supply of spare cards (f) Axle detectors",
+          "unit": "Set",
+          "rate": 43669,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (g)",
+          "description": "Supply of spare cards (g) Reset box",
+          "unit": "No.",
+          "rate": 47877,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (h)",
+          "description": "Supply of spare cards (h) Event logger",
+          "unit": "No.",
+          "rate": 35876,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (i)",
+          "description": "Supply of spare cards (i) Reset card",
+          "unit": "No.",
+          "rate": 16415,
+          "chapter": 14
+        },
+        {
+          "item_no": "1403",
+          "description": "Supply of High Availability Single Section Digital Axle Counter",
+          "unit": "Set",
+          "rate": 887832,
+          "chapter": 14
+        }
+      ]
+    },
+    "15": {
+      "name": "EARTHING",
+      "items": [
+        {
+          "item_no": "1501",
+          "description": "Supply of basic material to construct unit Maintenance Free Earth",
+          "unit": "Set",
+          "rate": 16837,
+          "chapter": 15
+        },
+        {
+          "item_no": "1502",
+          "description": "Supply of lightning and surge arrestors",
+          "unit": "Set",
+          "rate": 14999,
+          "chapter": 15
+        },
+        {
+          "item_no": "1503",
+          "description": "Supply of 50mm x 6mm GI tape",
+          "unit": "Meter",
+          "rate": 546,
+          "chapter": 15
+        },
+        {
+          "item_no": "1504",
+          "description": "Real time Earth measuring Device",
+          "unit": "Set",
+          "rate": 65725,
+          "chapter": 15
+        },
+        {
+          "item_no": "1505",
+          "description": "Supply of GI wire (8 SWG)",
+          "unit": "Kg",
+          "rate": 175,
+          "chapter": 15
+        }
+      ]
+    },
+    "16": {
+      "name": "LC GATES",
+      "items": [
+        {
+          "item_no": "1601",
+          "description": "Supply of Electrically Operated Lifting Barrier related items: Supply of Electrically operated Lifting Barrier complete set suitable for 110V DC/24V DC as per instructions of engineer incharge supply without hand generator back up & motorized boom locking arrangements as per RDSO Spec SPN!208/2012/ver 2.0 Amd. 1 or with latest amendment. One set consisting 02 No. of barriers of length 9.76 Mtrs with stop boards, MS counterweights and 2 nos of boom support, control panel Spares & tool kit mentioned in RDSO Specification clause 10.1 & 10.2 mentioned below to be",
+          "unit": "Set",
+          "rate": 433500,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (a)",
+          "description": "Supply of Automatic Gate Warning System (a) LED Station Master",
+          "unit": "Pair",
+          "rate": 27258,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (b)",
+          "description": "Supply of Automatic Gate Warning System (b) LED Audio-Visual",
+          "unit": "No.",
+          "rate": 32450,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (c)",
+          "description": "Supply of Automatic Gate Warning System (c) Communication unit",
+          "unit": "Pair",
+          "rate": 179124,
+          "chapter": 16
+        }
+      ]
+    },
+    "17": {
+      "name": "STATIONARY AND MISCELLANEOUS",
+      "items": [
+        {
+          "item_no": "1701",
+          "description": "Supply of piezo buzzers",
+          "unit": "No.",
+          "rate": 78,
+          "chapter": 17
+        },
+        {
+          "item_no": "1702",
+          "description": "Supply of PVC Pipe 110mm",
+          "unit": "No.",
+          "rate": 1163,
+          "chapter": 17
+        },
+        {
+          "item_no": "1703",
+          "description": "Supply of PVC Conduit pipe",
+          "unit": "No.",
+          "rate": 51,
+          "chapter": 17
+        },
+        {
+          "item_no": "1704",
+          "description": "Supply of Vulco Tape",
+          "unit": "No.",
+          "rate": 2073,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (a)",
+          "description": "Supply of Lugs and Eyelets (a) Aluminium 25 sq.mm",
+          "unit": "No.",
+          "rate": 25,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (b)",
+          "description": "Supply of Lugs and Eyelets (b) Copper 10sq.mm",
+          "unit": "No.",
+          "rate": 12,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (c)",
+          "description": "Supply of Lugs and Eyelets (c) Copper eyelets 16/0.2",
+          "unit": "No.",
+          "rate": 3,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (d)",
+          "description": "Supply of Lugs and Eyelets (d) Copper eyelets 10 sqmm",
+          "unit": "No.",
+          "rate": 6,
+          "chapter": 17
+        }
+      ]
+    },
+    "18": {
+      "name": "UFSBI",
+      "items": [
+        {
+          "item_no": "1801 (a)",
+          "description": "Supply of Spares and accessories for UFSBI Input card compatible with existing UFSBI system",
+          "unit": "No.",
+          "rate": 13424,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (b)",
+          "description": "Supply of Spares and accessories for UFSBI Output card compatible with existing UFSBI system",
+          "unit": "No.",
+          "rate": 34198,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (c)",
+          "description": "Supply of Spares and accessories for UFSBI CPU card compatible with existing UFSBI system",
+          "unit": "No.",
+          "rate": 29439,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (d)",
+          "description": "Supply of Spares and accessories for UFSBI Control & Communication card compatible with existing UFSBI system",
+          "unit": "No.",
+          "rate": 25233,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (e)",
+          "description": "Supply of Spares and accessories for UFSBI MODEM compatible with existing UFSBI system",
+          "unit": "No.",
+          "rate": 28878,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (f)",
+          "description": "Supply of Spares and accessories for UFSBI DC-DC Converter (Hot standby Type)",
+          "unit": "No.",
+          "rate": 48000,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (g)",
+          "description": "Supply of Spares and accessories for UFSBI (g) SAM",
+          "unit": "No.",
+          "rate": 6435,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (h)",
+          "description": "Supply of Spares and accessories for UFSBI Mother board compatible with existing UFSBI system fitted in 6-U Rack",
+          "unit": "No.",
+          "rate": 54634,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (i)",
+          "description": "Supply of Spares and accessories for UFSBI channel (individually configurable to 2/4 wire by simple hardware switch) suitable for connecting UFSBI Block along with UP & DN Line HASSDAC and 100% spare channels Working on dual DC 24/48 Volts supply in hot-standby mode",
+          "unit": "No.",
+          "rate": 15929,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (j)",
+          "description": "Supply of Spares and accessories for UFSBI Flat cable set Supply of MODEM compatible with existing UFSBI system to",
+          "unit": "No.",
+          "rate": 2596,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (k)",
+          "description": "Supply of Spares and accessories for UFSBI work on backup media (either VF-channel on OFC P/Mux or 2 MBPS El channel from STM or direct dark single mode 1- Core, optic fiber cable up to 30 Km distance). The required type must be mentioned while ordering Supply of Industrial grade El Modem (with 1+1 hot standby El uplink) for UFSBI with 6 no. of RS232 & 8 nos. E&M VF",
+          "unit": "Pair",
+          "rate": 78970,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (l)",
+          "description": "Supply of Spares and accessories for UFSBI (l) Industrial E1 Modem",
+          "unit": "No.",
+          "rate": 204130,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (m)",
+          "description": "Supply of Spares and accessories for UFSBI UFSBI Block Telephone (Complete with PTT Handset)",
+          "unit": "No.",
+          "rate": 6308,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (n)",
+          "description": "Supply of Spares and accessories for UFSBI Automatic media changeover of Modems working on redundant channels for data transmission on OFC/Quad compatible with existing UFSBI Supply of Key switch with 1 NO + 1 NC or 2 NO config of",
+          "unit": "Pair",
+          "rate": 35326,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (o)",
+          "description": "Supply of Spares and accessories for UFSBI... (o) Key switch",
+          "unit": "No.",
+          "rate": 1233,
+          "chapter": 18
+        }
+      ]
+    },
+    "25": {
+      "name": "CABLE LAYING",
+      "items": [
+        {
+          "item_no": "2501",
+          "description": "Location survey",
+          "unit": "RKM",
+          "rate": 1472,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (a)",
+          "description": "Excavation of trench (a) 1200mm depth",
+          "unit": "RKM",
+          "rate": 98750,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (b)",
+          "description": "Excavation of trench (b) 1000mm",
+          "unit": "RKM",
+          "rate": 82000,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (c)",
+          "description": "Excavation of trench (c) 1000x600",
+          "unit": "RKM",
+          "rate": 164560,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (d)",
+          "description": "Excavation of trench (d) 600x600",
+          "unit": "RKM",
+          "rate": 98750,
+          "chapter": 25
+        }
+      ]
+    },
+    "26": {
+      "name": "LOCATION BOX",
+      "items": [
+        {
+          "item_no": "2601 (a)",
+          "description": "Location box foundation and erection Excavation of pit, casting concrete foundation and erection of apparatus case Full size as per SCR Org. No. 5781 and fixing of 1 No.of 'E' type lock for the front door, latching arrangement for backdoor, fixing of Hylam sheet (Hylam sheet supply is covered elsewhere and Wooden Reapers also can be used in place of Hylam sheet for which supply & fixing covered elsewhere) and painting the apparatus case inside and outside with one coat of red oxide, two coats of aluminium paints outside and white paint inside including painting of termination, equipment and number particular on location box (foundation bolts and nuts, 'E type lock, cement, river sand, stone jelly of size 20/20mm, paints, varnish, fixing bolts and nuts and all other miscellaneous material required for the work shall be supplied by the contractor)",
+          "unit": "No.",
+          "rate": 15324,
+          "chapter": 26
+        },
+        {
+          "item_no": "2601 (b)",
+          "description": "Location box foundation and erection Excavation of pit, casting concrete foundation and erection of apparatus case half size as per Org No.SK/CN/1/89/B/1, fixing one E type lock for the front door and latching arrangements for the back door and painting the apparatus case inside and outside with one coat of red oxide and two coats of aluminium paints outside and white paint inside (foundation bolts and nuts, painting of particular, E type locks, cement, river sand, stone jelly of size 20/20mm and nuts and all other miscellaneous material required for the work shall be supplied by the contractor)",
+          "unit": "No.",
+          "rate": 10809,
+          "chapter": 26
+        }
+      ]
+    },
+    "27": {
+      "name": "EARTHING",
+      "items": [
+        {
+          "item_no": "2701",
+          "description": "Fabrication, supply and erection of conventional Earth to Siqnallinq/Telecom equipments -Excavation of earth and providing earth pipe of size 50mm dia. 3.5mm thick 2.0 m long G.I. pipe of heavy quality with masonry tub constructed around at earth locations as specified by site Engineer Alternate layers of 30kgs-charcoal and 30kgs-common salt to be filled in the pit while closing. The pipe perforation etc., to be carried out as per drawing No. SK 10/10. The earth pipe to be connected to the function with cable as supplied by Railways. The reading should be painted on the masonry tub. The masonry tub of 300 mm x 300 mm x 300mm (along with Kundi) should be covered with cement slab",
+          "unit": "No.",
+          "rate": 6652,
+          "chapter": 27
+        },
+        {
+          "item_no": "2702",
+          "description": "Provision of ring earth by providing & connecting conventional earths with copper catenary wire as required at site as per instructions site in charge. Excavation of earth and providing earth pipe of size 50mm dia, 3.5mm thickness, 2.0m long GI pipe of heavy quality along with masonry tub constructed around at earth locations as specified by site Engineer. Alternate layers of charcoal (30 kg) and common salt (30 kg) to be filled in each pit while closing the pipe perforation etc., to be carried out as per drawing no G/SG/0912002. The masonry tub of 400x400x450mm, 50mm thickness should be cover with cement slab to be provided each conventional earth. Masonry tub shall be filled with river sand after completion of earthing. Conventional earths to be wrapped with catenary wires before excavated in earth along with use of proper clamps and nuts. All earths to be connected with each other by use of copper catenary wire or suitable cable provided by Railways. Minimum two number Earth pipe to be connected inside the location/function with suitable cable (cable will supplied by railways). Excavations of trench of 0.5m minimum depth for inter connection of 4 conventional earths by catenary wire Catenary wire should be welded through arc welding to the GI pipe with copper clamps. The earth reading, DOI & DOM should be painted on the masonry tub. (All the men and the materials to be supplied by the contractor except catenary wire/Cable)",
+          "unit": "No.",
+          "rate": 24286,
+          "chapter": 27
+        }
+      ]
+    },
+    "28": {
+      "name": "SIGNAL RELATED ITEMS",
+      "items": [
+        {
+          "item_no": "2801",
+          "description": "bracket, LED fixing, plumbing of the signal through sealing gap between Surface base and signal post, fixing of ladder with platform complete and concreting of ladder shoe, fixing of number plates, marker board, termination tail cables, wiring of signal unit, provision of EWS locks, and painting of one coat of red oxide and two coats of aluminium/enamel paints. When the aspect is fixed on offset bracket using 'U' bolts and nuts, a through bolt shall be provided by drilling of hole in the signal pole to prevent the offset bracket from sliding down. (Supply of surface base, offset bracket, CLS pole, CLS aspects complete, ladder with shoes and platform, LED aspects, current regulators and wire coils will be supplied by Railways). ('U' bolts and nuts, through bolts and nuts, cement, stone jelly 20/25mm dia, river sand, Signal Colour Rings, all fixing bolts and nuts, teak wood, paints PVC/Nylon sleeves, enamelled number plates, enamelled marker boards, EWS locks, and all other miscellaneous materials for the work shall be supplied by the contractor). (60% Payment after completion of work mentioned at (a) and remaining 40 % after completion of work at (b))",
+          "unit": "No.",
+          "rate": 15360,
+          "chapter": 28
+        },
+        {
+          "item_no": "2802",
+          "description": "Foundation & erection of Shunt signal...",
+          "unit": "No.",
+          "rate": 6805,
+          "chapter": 28
+        }
+      ]
+    },
+    "29": {
+      "name": "POINT MACHINE",
+      "items": [
+        {
+          "item_no": "2901",
+          "description": "Fixing of universal point machines and wiring on PSC/Wooden sleepers as per standard drawing. Wiring as per circuitry includes fixing & wiring of point contactor unit frames and controlling relays, fixing and wiring of point termination box, fixing of crank handle ward plate of required configuration and Ground connections, P-clamp insulations, setting, stretcher bars etc., [All miscellaneous material required such as nuts, bolts, washers are to be arranged by contractor]",
+          "unit": "No.",
+          "rate": 6460,
+          "chapter": 29
+        },
+        {
+          "item_no": "2902",
+          "description": "Installation, termination of cable in termination box, wiring, testing and commissioning of High Thrust point Machine This includes fixing of point machine on MS plate fixed on sleepers complete with fixing of anti theft covers, MS termination boxes, ground connections, required insulation, Machine crank handle ward (wherever required) etc. This also include necessary adjustment and smithy work, drilling of holes on tongue rails, supply of all miscellaneous material such as flat, angle, bolt, nuts, pins etc",
+          "unit": "Per Point Machine",
+          "rate": 12067,
+          "chapter": 29
+        }
+      ]
+    },
+    "30": {
+      "name": "TRACK CIRCUIT",
+      "items": [
+        {
+          "item_no": "3001",
+          "description": "Fixing of Track lead junction box",
+          "unit": "No.",
+          "rate": 505,
+          "chapter": 30
+        },
+        {
+          "item_no": "3002",
+          "description": "Wiring of Track circuits",
+          "unit": "No.",
+          "rate": 1509,
+          "chapter": 30
+        }
+      ]
+    },
+    "31": {
+      "name": "SIGHTING BOARD & CALLING BOARDS",
+      "items": [
+        {
+          "item_no": "3101",
+          "description": "Manufacture, supply and fixing of Sighting Board (size 535mm X 1800mm) with higher intensity grade, retro- reflective sheet on 2mm Aluminium alloy, sheet 14 gauge (0.6 Sq.mm / LC) as per Dig no.SK113!89 with MS angle of 75X75X6 mm with 6 meter length including paint, excavation of pit and concrete foundation etc. as per the instructions of sight in charge (All necessary materials to be arranged by the contractor) Fabrication, Supply and fixing of CALLING ON instruction boards, STOP boards! BSLB/Shunting Limit Board/Auto section board or any other board with engineering grade reflective sticker of size 600X1 000 mm GI sheet, with MS",
+          "unit": "No.",
+          "rate": 11763,
+          "chapter": 31
+        }
+      ]
+    },
+    "32": {
+      "name": "INDOOR WORKS",
+      "items": [
+        {
+          "item_no": "3201 (a)",
+          "description": "Erection and concreting of SM's control panel (a) Up to 5 roads",
+          "unit": "No.",
+          "rate": 33559,
+          "chapter": 32
+        }
+      ]
+    },
+    "33": {
+      "name": "TRANSPORTATION",
+      "items": [
+        {
+          "item_no": "3301 (a)",
+          "description": "Transportation of materials from any Stores to Site and vice- versa including loading and unloading Lead up to 50 Kms",
+          "unit": "PTPK",
+          "rate": 11,
+          "chapter": 33
+        },
+        {
+          "item_no": "3301 (b)",
+          "description": "Transportation of materials from any Stores to Site and vice- versa including loading and unloading Lead above 50 Kms",
+          "unit": "PTPK",
+          "rate": 7,
+          "chapter": 33
+        }
+      ]
+    },
+    "34": {
+      "name": "POWER SUPPLY",
+      "items": [
+        {
+          "item_no": "3401",
+          "description": "required for crimping 10 sq.mm wire are to be supplied by contractor). For power panel, bolts, nuts, fixing screws are to be arranged by contractor. ON/OFF Switches, digital Meters, Hylam sheet and wire coils will be arranged by railways. Initial Charging of Secondary Cells with uninterrupted Power",
+          "unit": "LS",
+          "rate": 16629,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (a)",
+          "description": "2 volts 80 AH",
+          "unit": "No.",
+          "rate": 328,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (b)",
+          "description": "2 volts 120 AH",
+          "unit": "No.",
+          "rate": 394,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (c)",
+          "description": "2 volts 200 AH",
+          "unit": "No.",
+          "rate": 658,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (d)",
+          "description": "2 volts 300 AH",
+          "unit": "No.",
+          "rate": 987,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (e)",
+          "description": "12 Volts 13 plates Generator battery",
+          "unit": "No.",
+          "rate": 330,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (a)",
+          "description": "Installation of DG Set (a) two generators up to 20 KVA",
+          "unit": "LS",
+          "rate": 45819,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (b)",
+          "description": "Installation of DG Set Specification for Installation of one DG set of capacity up to 20 KVA. This item is to be operated where only one DG Set is required. Running charges for DG set up to 2OKVA. Fuel to be arranged by contractor. Service of the DG set as per the manufacturer's instructions. All the consumables are to be arranged by contractor. Installation, wiring, earth connections with SEEB, testing and commissioning of IPS system. Wires/cables shall be supplied by Railways, Charging of battery is covered elsewhere. Minor items like casing/capping, Ladder,",
+          "unit": "LS",
+          "rate": 34998,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (c)",
+          "description": "Installation of DG Set (c) Running charges",
+          "unit": "Per Hour",
+          "rate": 450,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (d)",
+          "description": "Installation of DG Set (d) Service of the DG set",
+          "unit": "Per Service",
+          "rate": 2545,
+          "chapter": 34
+        },
+        {
+          "item_no": "3404",
+          "description": "insulators, Lugs, Lacing of cables etc., where required to be supplied by contractor. Grouting and masonry work of the IPS to be done. Work includes installation of charged batteries and their wiring with IPS. Installation, Calibration and commissioning of Earth Leakage",
+          "unit": "No.",
+          "rate": 21746,
+          "chapter": 34
+        },
+        {
+          "item_no": "3405",
+          "description": "detector 8 to 12 channels as per instructions of engineer in charge. Supply and wiring of Polymeric Positive Temperature Co- Efficient Device self resetting type (PPTC) of 2A rating suitable for railway applications of reputed make. The PPTC",
+          "unit": "No.",
+          "rate": 11802,
+          "chapter": 34
+        },
+        {
+          "item_no": "3406",
+          "description": "fuse shall be wired by soldering suitable flexible wire on both ends (all material except flexible wire has to be arranged by contractor). 64 CHAPTER 35—TESTING",
+          "unit": "No.",
+          "rate": 87,
+          "chapter": 34
+        }
+      ]
+    },
+    "35": {
+      "name": "TESTING",
+      "items": [
+        {
+          "item_no": "3501 (a)",
+          "description": "Arranging of sufficient staff by contractor and giving test to the railway in charge in the following stages as per instructions (a) Stage -1: Testing of wires drawn point to point using buzzer (Before and after soldering.)",
+          "unit": "Per Sheet",
+          "rate": 677,
+          "chapter": 35
+        },
+        {
+          "item_no": "3501 (b)",
+          "description": "Arranging of sufficient staff by contractor and giving test to the railway in charge in the following stages as per instructions (Before and after soldering.) Stage -Il: Making a simulation test board plywood 3mm approximately size 1.5 x Imeter. Painted according to the yard layout fixing I way /2-way switches in its approximate position for track circuit, point setting lamp holders and lamps. Carrying out testing using simulation board after energising of internal circuit",
+          "unit": "Per Road",
+          "rate": 3896,
+          "chapter": 35
+        },
+        {
+          "item_no": "3502",
+          "description": "Testing to check integrity of gears (Field correspondence) i.e. One Signal Unit (with or without route)/Track Circuit/LC Gate/One Point machine/One Block Instrument/One Slot etc. This item will be applicable after one round of complete testing of gears by the contractor in presence of Railway Supervisor",
+          "unit": "Each",
+          "rate": 103,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (a)",
+          "description": "Testing and commissioning the entire signalling installations jointly with the Railway representative at site at the Stations! LC gates/lBS/Auto Signalling covered under various schedules of the Contract, and ensuring that all the signalling gears are installed and adjusted as per the existing rules Testing and commissioning of Stations (up to 5 roads) Station",
+          "unit": "Per Station",
+          "rate": 29427,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (b)",
+          "description": "Testing and commissioning the entire signalling installations... (b) Stations more than 5 roads",
+          "unit": "Per Station",
+          "rate": 51415,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (c)",
+          "description": "Testing and commissioning the entire signalling installations... (c) LC gates/IBS Hut/Auto Hut",
+          "unit": "Per LC/ Per Hut",
+          "rate": 11379,
+          "chapter": 35
+        }
+      ]
+    },
+    "36": {
+      "name": "LC GATE",
+      "items": [
+        {
+          "item_no": "3601",
+          "description": "Foundation, Erection,Testing and Commissioning of Electrically operated lifting barriers assembly, drive mechanism, motors etc. as per technical specification, with control panel, boom locking arrangements & crank handles complete with Hand generator.The work includes excavation of pit and concreting foundation for pedestal-2 no's,Excavation of pit and concreting foundation for meeting post-2 no's, Erection of Electrical Lifting barrier-I Set, Fixing of EOLB Panel and its wiring-i No., testing and commissioning as per detailed technical specification and instructions of site in charge. (75 % of payment will be made after foundation, erection & testing and 25% Payment after Commissioning).",
+          "unit": "LS",
+          "rate": 30145,
+          "chapter": 36
+        },
+        {
+          "item_no": "3602",
+          "description": "Supply and Fixing of stop board of size (600mm dia) made out of 1mm thick GI sheet with high intensive prismatic retro reflective sheet, red background and white colour letters in three languages English, Hindi and local language in as per railway standards with minimum reflectivity distance of 250m with all necessary fixing clamps, bolts and nuts to suit for electric lifting barrier as per enclosed DRG. No. S&T/MFT/6077 or latest. The local language shall be as per the instructions of site in-charge.",
+          "unit": "No.",
+          "rate": 4554,
+          "chapter": 36
+        },
+        {
+          "item_no": "3603",
+          "description": "Supply and fixing of 'AHUJA' or similar make horn type loud speaker 15W 8 ohms impedance at LC gate Road signal.",
+          "unit": "No.",
+          "rate": 1407,
+          "chapter": 36
+        },
+        {
+          "item_no": "3604",
+          "description": "Supply and installation of Electronic Flasher unit, able to drive 2 No. of flasher lights.",
+          "unit": "No.",
+          "rate": 2572,
+          "chapter": 36
+        },
+        {
+          "item_no": "3605",
+          "description": "Supply and fixing of Electronic Hooter unit 24/110 DC of approved design/make able to drive 2 No. of Speakers of 8 ohms 15W.",
+          "unit": "No.",
+          "rate": 2732,
+          "chapter": 36
+        },
+        {
+          "item_no": "3606",
+          "description": "Supply and fixing of yellow retro reflective strips of 1\" width each on both sides of the yellow painted portion for both the lifting barrier booms.",
+          "unit": "Per LC Gate",
+          "rate": 670,
+          "chapter": 36
+        },
+        {
+          "item_no": "3607",
+          "description": "Painting of gate protection diagram",
+          "unit": "No.",
+          "rate": 417,
+          "chapter": 36
+        },
+        {
+          "item_no": "3608",
+          "description": "Fabrication, supply and installation of gate control cum indication panel of size 30\" X 12\" (MS sheet type) complete with LED etc., painting, screen printing of gate plan, signals etc., and prewired with four signal knobs and SM's control. All material required shall be supplied by the contractor as per drg.",
+          "unit": "No.",
+          "rate": 14060,
+          "chapter": 36
+        },
+        {
+          "item_no": "3609",
+          "description": "Concreting foundation for Pedestal lifting barrier (electrical/mechanical) as per Drg. No. SK/SC/CN/33/85 (all materials viz., cement, metal stone, sand and foundation bolts are to be supplied by the Contractor).",
+          "unit": "No.",
+          "rate": 6491,
+          "chapter": 36
+        },
+        {
+          "item_no": "3610",
+          "description": "Excavation of a pit and concreting foundation for 2 No. of lifting barrier gate meeting posts, using anchor bolts of size 20 X 450mm as per Tech. Specn. (All materials except 66",
+          "unit": "Set",
+          "rate": 1815,
+          "chapter": 36
+        },
+        {
+          "item_no": "3611",
+          "description": "barrier gate meeting posts, using anchor bolts of size Set X 450mm as per Tech. Specn. (All materials except to be arranged by the Contractor) Digitelly signed by Date: 2024.04. 16:42:41 +05:30 Dete: 2024.04.02 *0530 Excavation of pit and casting foundation for one lever frame with cement concrete in the proportion of 1:2:3 with approx 40mm graded stone and river sand, using 4Nos of 18/34 bolts",
+          "unit": "No.",
+          "rate": 3501,
+          "chapter": 36
+        },
+        {
+          "item_no": "3612",
+          "description": "Excavation of a pit and concreting foundation for 1 No. of lifting barrier gate winch using anchor bolts of size 20 X 450mm. Concrete ratio is 1:3:6 (cement will be supplied by the Railways)",
+          "unit": "No.",
+          "rate": 2049,
+          "chapter": 36
+        },
+        {
+          "item_no": "3613",
+          "description": "Assembling, erection and testing of complete mechanical lifting barrier assembly with two no. of pedestals, two booms complete, winch, two boom stops complete with wire transmission. This includes turnout wheel foundation etc",
+          "unit": "Set",
+          "rate": 8807,
+          "chapter": 36
+        },
+        {
+          "item_no": "3614",
+          "description": "Carrying out lifting barrier boom locking arrangements complete with foundations, fixing of lever frame etc., Excavation of pit at a given location, concreting the foundation for the single / double / three lever frame as per Drg. No. SCIW/CN/65. This includes provision of winch handle locking arrangement by cutting suitable groove on the pinion end suitably expending the E' type lock plunger, triple lock arrangement and connecting rodding to GF and boom locking mechanism, testing and commissioning. Assembling of roller trestles 2/4 way with roller stands, bottom and top roller, MS pin for top roller, split pin. Excavation of pit to suit 2/4 way trestle, placing it at intervals of not more than 2 meters. Filling up earth after keeping trestles in the pit.",
+          "unit": "LS",
+          "rate": 8506,
+          "chapter": 36
+        },
+        {
+          "item_no": "3615",
+          "description": "Assembling of roller trestles 2/4 way with roller stands, bottom and top roller, MS pin for top roller, split pin Excavation of pit to suit 2/4 way trestle, placing it at intervals of not more than 2 meters. Filling up earth after keeping trestles in the pit",
+          "unit": "No.",
+          "rate": 158,
+          "chapter": 36
+        },
+        {
+          "item_no": "3616",
+          "description": "Foundation & fixing of Diversion Wheel/crank",
+          "unit": "No.",
+          "rate": 723,
+          "chapter": 36
+        },
+        {
+          "item_no": "3617",
+          "description": "Laying of point rodding 33mm dia on the roller trestle assembly already fixed coupling the rods together levelling aligning. Twist/bends in the point rodding is to be removed and rods straightened by the contractor before laying on trestles. All the materials except bolts and nuts and the tools will be supplied by the Railways. Fixing and wiring RKT/EKT for siding or L.C. Gate interlocking. This includes installation of Magneto telephones at location, gate, SM's office etc.,",
+          "unit": "RMT",
+          "rate": 18,
+          "chapter": 36
+        },
+        {
+          "item_no": "3618",
+          "description": "Fixing and wiring RKT/EKT...",
+          "unit": "No.",
+          "rate": 900,
+          "chapter": 36
+        },
+        {
+          "item_no": "3619",
+          "description": "Supply of paint black enamel of approved quality and painting of Cranks/GF in 2 coats. Painting the function number on the arm with while enamel paint (40mm letters), and brush for the work are to be arranged by the contractor.",
+          "unit": "No.",
+          "rate": 94,
+          "chapter": 36
+        },
+        {
+          "item_no": "3620",
+          "description": "Supply of approved quality paint and painting of point rodding already run on trestles, with 2 coats of red oxide leaving 300mm on either side of the top roller on trestles. The connecting rod to crank/compensator is to be painted for a length of 600mm from it using two coats of black enamel paint. All materials and tools required to the work shall be 67",
+          "unit": "Per Mtr.",
+          "rate": 9,
+          "chapter": 36
+        },
+        {
+          "item_no": "3621",
+          "description": "Forge welding of point rodding 33mm dia with smooth finish of surface after taking measurements and connecting the welded rod and either end to coupling end / junction/crank. All material such as coal is to be arranged by the contractor.",
+          "unit": "Per Weld",
+          "rate": 157,
+          "chapter": 36
+        },
+        {
+          "item_no": "3622",
+          "description": "Fixing of E type locks for boom locking arrangement duly drilling of suitable holes for fixing with suitable bolts and finishing as per instructions of site in charge for ESL Sliding Boom Arrangements",
+          "unit": "Lump sum",
+          "rate": 1590,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (a)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom M.S. Boom 65mm dia 10 mtrs long (dividing in two equivalent pieces) with nut & bolts arrangements, pulling hand and boom locking arrangements etc. as directed by engineer in charge at site (All materials to be supplied by the contractor)",
+          "unit": "No.",
+          "rate": 13607,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (b)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Resting stand made up of C channel 150mm X 75mmX6mm thick for resting the boom movement frame/meeting post grouting type.",
+          "unit": "No.",
+          "rate": 6804,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (c)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Boom movement rectangular frame made up by C channel 75mmX 37mmX6mm 9.5mtrs long and 250mm width (it should divided in two pieces nut and bolt arrangements) with necessary boom movement rollers arrangements and boom driving mechanism made up of 4 ball bearings, boom replacement arrangements etc.",
+          "unit": "No.",
+          "rate": 24180,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (d)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom M.S. Plate of size 20\" X20'X6mm for boom locking arrangements with front and back covers (only E type locks will be supplied by Railways).",
+          "unit": "No.",
+          "rate": 5193,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (e)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom M.S Pate of size 12\" X 16\" X6mm for fixing of 3 E type locks at in the side gate lodge. It should be drilled 18 holes and back side 10mm nut should be welded for replacement of E type locks, it to be fixed to wall (only E type locks will be supplied by Railway).",
+          "unit": "No.",
+          "rate": 2417,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (f)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Supply of 20mm teak wood board of size 600mm X 500mm for fixing 2 No's of EKTs, with 2 No's of push button, 6 No's of 10 mm Led resistance holders etc. (only Hylam sheet, EKT's will be supplied by Railway).",
+          "unit": "Set",
+          "rate": 8238,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (g)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Fabrication, supply, fixing of M.S. of size 10'X 18'X9' with locking arrangement for locking the boom in standby mode.",
+          "unit": "No.",
+          "rate": 4653,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (h)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Supply and fixing of retro reflective (High Intensive Prismatic HlP)stop board made out of aluminium sheet 2 mm thick and lettering in three languages and fixing arrangements to boom pipe and as directed by engineer in charge at site.",
+          "unit": "No.",
+          "rate": 4653,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (i)",
+          "description": "Fabrication, supply, transport, erection at site, sliding boom Excavation of pit and concreting foundations for resting 68",
+          "unit": "LS",
+          "rate": 28998,
+          "chapter": 36
+        },
+        {
+          "item_no": "3624",
+          "description": "Supply of paint of approved quality (Asian, Berger, Nicholson) and painting of complete sliding boom arrangements and accessories (Rectangular boom movement stand, pillar supports, resting stand with one coat of red oxide and two coats of Yellow/black enamel paint & Yellow colour retro reflective tape (HIP) with width of 12\" and as directed by engineer in-charge at site",
+          "unit": "LS",
+          "rate": 7930,
+          "chapter": 36
+        },
+        {
+          "item_no": "3625 (a)",
+          "description": "Installation, Testing and commissioning of Automatic Gate Warning System for Gate LED Based Audio-Visual Approach Warning System",
+          "unit": "No.",
+          "rate": 9735,
+          "chapter": 36
+        },
+        {
+          "item_no": "3625 (b)",
+          "description": "Installation, Testing and commissioning of Automatic Gate Communication unit and Station master indication unit",
+          "unit": "Pair",
+          "rate": 44781,
+          "chapter": 36
+        }
+      ]
+    },
+    "37": {
+      "name": "AXLE COUNTER",
+      "items": [
+        {
+          "item_no": "3701",
+          "description": "Fixing and erection of Axle Counter single entry type along with racks, track transducers, rail deflectors, EJ box equipment at site. Fixing of required number of terminal blocks, fuses, lightening dischargers etc., in EJ box and wiring as per the circuit. Placement of evaluator, relays, inside the axle counter rack, termination of axle counter cable and wiring the same as per the circuit diagram in relay/axle counter room. This also includes providing resetting box in SM's office, plunger box at a place shown by the site in-charge and wiring as per the circuit diagram. Further the axle counter system has to be tested and commissioned (bolts, nuts, GI pipe, flexible conduit pipe metallic, lugs, wood screws are to be supplied by the contractor.",
+          "unit": "Set",
+          "rate": 8408,
+          "chapter": 37
+        },
+        {
+          "item_no": "3702",
+          "description": "Installation (including power supply arrangements if required), testing and commissioning of SSDAC/HASSDAC. The work consists of: a) Fixing of axle counter track device consisting of Tx-Rx coil assembly for each detection point drilling holes in the rails as per the marking given by the site in charge. b) Fixing of rails deflector plates on either side of each detection points as per the marking given by the site in charge. c) Fixing of evaluators inside pre-erected location boxes on the nominated planks along with VR assembly duly providing anti-vibration arrangements, fixing terminals and wiring as per the instructions of site in-charge. d.) Routing cables from Tx/Rx coil assembly through pre laid GI/HDPE pipe arrangements of track crossing and entering the location box and termination (60 % Payment after installation & Testing and 40% after commissioning).",
+          "unit": "Set",
+          "rate": 37152,
+          "chapter": 37
+        },
+        {
+          "item_no": "3703",
+          "description": "Fabrication and supply of 2 no's of hard reset boxes for BPAC resetting as per drawing No. SK/P/11-A114.",
+          "unit": "Set",
+          "rate": 55166,
+          "chapter": 37
+        },
+        {
+          "item_no": "3704",
+          "description": "Fabrication and supply of 2 No's of auto reset boxes for BPAC resetting as per drawing No.SK/P/11-B/14.",
+          "unit": "Set",
+          "rate": 29127,
+          "chapter": 37
+        },
+        {
+          "item_no": "3705",
+          "description": "Supply, erection and fixing of retro reflective type BPAC Warning boards/lBS Legend Board of size 1000X600X3 mm. The boards shall be provided with Retro Reflective type BPAC Warning boards. MS Angle, stone jelly of size 20 I 25mm dia, river sand, cement, fixing bolts and nuts, paint and all other miscellaneous materials required for the work shall be supplied by the contractor.",
+          "unit": "No.",
+          "rate": 9564,
+          "chapter": 37
+        }
+      ]
+    },
+    "38": {
+      "name": "SOLAR PANEL",
+      "items": [
+        {
+          "item_no": "3801",
+          "description": "the room/ gate lodge using 10 sq mm wire through PVC pipes. All materials excluding PVC wire coil shall be supplied by Contractor, Includes installation of charge controller, AJB, foundation related items on roof top including cement and any other material supplied with system. Change over arrangements for Solar/DCDP supply using 3N0/3NC 25 Amps contact rating (L&T/Siemens contactor unit) and connecting to the battery (PVC conduit and",
+          "unit": "Per Panel",
+          "rate": 555,
+          "chapter": 38
+        },
+        {
+          "item_no": "3802",
+          "description": "arrangement for fixing on Hylam sheet to be provided by contractor). Wires and Hylam sheet shall be supplied by Railways. 71 CHAPTER 39- DOCUMENTATION Design of SIP in Auto Cad. Initially, contractor shall submit 3 copies for approval of Railways. One set will be returned duly approved for making a fair copy or for re-submission for approval after incorporating the changes as required by Railways. After carrying out changes, three Hard copies to be",
+          "unit": "No.",
+          "rate": 386,
+          "chapter": 38
+        }
+      ]
+    },
+    "39": {
+      "name": "DOCUMENTATION",
+      "items": [
+        {
+          "item_no": "3901 (a)",
+          "description": "Design of SIP in Auto Cad (a) Two-Line Station",
+          "unit": "Set",
+          "rate": 16976,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (b)",
+          "description": "Design of SIP in Auto Cad (b) Three-Line Station",
+          "unit": "Set",
+          "rate": 20044,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (c)",
+          "description": "Design of SIP in Auto Cad (c) Four-Line Station",
+          "unit": "Set",
+          "rate": 31950,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (d)",
+          "description": "Design of SIP in Auto Cad (d) Five-Line Station",
+          "unit": "Set",
+          "rate": 54010,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (e)",
+          "description": "Design of SIP in Auto Cad (e) Six-Line Station",
+          "unit": "Set",
+          "rate": 64329,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (f)",
+          "description": "Design of SIP in Auto Cad (f) Seven-Line Station",
+          "unit": "Set",
+          "rate": 76115,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (g)",
+          "description": "Design of SIP in Auto Cad (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 80280,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (h)",
+          "description": "Design of SIP in Auto Cad (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 6669,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (a)",
+          "description": "Design of SWRD in Auto Cad (a) Two-Line",
+          "unit": "Set",
+          "rate": 8110,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (b)",
+          "description": "Design of SWRD in Auto Cad (b) Three-Line",
+          "unit": "Set",
+          "rate": 10386,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (c)",
+          "description": "Design of SWRD in Auto Cad (c) Four-Line",
+          "unit": "Set",
+          "rate": 17070,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (d)",
+          "description": "Design of SWRD in Auto Cad (d) Five-Line",
+          "unit": "Set",
+          "rate": 28159,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (e)",
+          "description": "Design of SWRD in Auto Cad (e) Six-Line",
+          "unit": "Set",
+          "rate": 30436,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (f)",
+          "description": "Design of SWRD in Auto Cad (f) Seven-Line",
+          "unit": "Set",
+          "rate": 31978,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (g)",
+          "description": "Design of SWRD in Auto Cad (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 34254,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (h)",
+          "description": "Design of SWRD in Auto Cad (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 4512,
+          "chapter": 39
+        },
+        {
+          "item_no": "3903",
+          "description": "required by Railways. After carrying out changes, two sets of Hard copies to be submitted for Railway Approval. After S approval, Auto Cad copies to be submitted in USB pen drive along with approved copy in Tracing film and two sets of S final approved drawing in properly bound booklet along its scanned copy.",
+          "unit": "Per Route",
+          "rate": 1000,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (a)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (a) For a Two-Line Station (Up to 25 Location Boxes)",
+          "unit": "Set",
+          "rate": 55611,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (b)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (b) For a Three-Line Station (Up to 40 Location Boxes)",
+          "unit": "Set",
+          "rate": 66799,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (c)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (c) For a Four-Line Station (Up to 60 Location Boxes)",
+          "unit": "Set",
+          "rate": 89345,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (d)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (d) For a Five-Line Station (Up to 70 Location Boxes)",
+          "unit": "Set",
+          "rate": 116448,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (e)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (e) For a Six-Line Station (Up to 90 Location Boxes)",
+          "unit": "Set",
+          "rate": 131648,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (f)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (f) For a Seven-Line Station (Up to 100 Location Boxes)",
+          "unit": "Set",
+          "rate": 146238,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (g)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (g) For a Eight-Line Station or more (Up to 110 Location Boxes)",
+          "unit": "Set",
+          "rate": 155906,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (h)",
+          "description": "Complete Outdoor Particular such as Cable Route Plan, Cable Corage Plan, Cable Termination Rack/Power Rack Particular, Track Bonding, and Location Box Particular along with NI wiring/NI Relay Disposition chart. One copy will be returned either duly approved or for resubmission for approval after incorporating the changes as required by Railways. After approval, one approved Tracing film copy & six copies (Ammonia Print or print as approved by Railway) of above drawings along with six copies of SIP and SWRD in Plastic Covers. All above drawing to be scanned including SIP & SWRD, bound in 6 different booklet with Rexin Cover (Each booklet shall have minimum 10 spare plastic transparent sheet) and a soft copy to be submitted in a Pen Drive for following categories of Stations: (h) For a Mid-Section LC Gate (Up to 15 Location Boxes) Design of Cable Route Plan (Distant to Distant) including details of all track crossing/Horizontal boring/Cable Loop! Cable Joints etc. in AUTOCAD & submission of coloured paper copies for approval. After approval, Auto Cad copies",
+          "unit": "Set",
+          "rate": 41465,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (a)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (a) Two-Line",
+          "unit": "Set",
+          "rate": 4599,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (b)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (b) Three-Line",
+          "unit": "Set",
+          "rate": 5225,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (c)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (c) Four-Line",
+          "unit": "Set",
+          "rate": 10154,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (d)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (d) Five-Line",
+          "unit": "Set",
+          "rate": 20574,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (e)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (e) Six-Line",
+          "unit": "Set",
+          "rate": 22865,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (f)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (f) Seven-Line",
+          "unit": "Set",
+          "rate": 25185,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (g)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 26714,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (h)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 2581,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (a)",
+          "description": "Design of Cable Distribution Plan (a) Two-Line",
+          "unit": "Set",
+          "rate": 4563,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (b)",
+          "description": "Design of Cable Distribution Plan (b) Three-Line",
+          "unit": "Set",
+          "rate": 5519,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (c)",
+          "description": "Design of Cable Distribution Plan (c) Four-Line",
+          "unit": "Set",
+          "rate": 8676,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (d)",
+          "description": "Design of Cable Distribution Plan (d) Five-Line",
+          "unit": "Set",
+          "rate": 15433,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (e)",
+          "description": "Design of Cable Distribution Plan (e) Six-Line",
+          "unit": "Set",
+          "rate": 16255,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (f)",
+          "description": "Design of Cable Distribution Plan (f) Seven-Line",
+          "unit": "Set",
+          "rate": 20779,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (g)",
+          "description": "Design of Cable Distribution Plan (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 22307,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (h)",
+          "description": "Design of Cable Distribution Plan (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 2581,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (a)",
+          "description": "Design of Track Bonding Plan (a) Two-Line",
+          "unit": "Set",
+          "rate": 4306,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (b)",
+          "description": "Design of Track Bonding Plan (b) Three-Line",
+          "unit": "Set",
+          "rate": 5152,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (c)",
+          "description": "Design of Track Bonding Plan (c) Four-Line",
+          "unit": "Set",
+          "rate": 7941,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (d)",
+          "description": "Design of Track Bonding Plan (d) Five-Line",
+          "unit": "Set",
+          "rate": 12018,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (e)",
+          "description": "Design of Track Bonding Plan (e) Six-Line",
+          "unit": "Set",
+          "rate": 12425,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (f)",
+          "description": "Design of Track Bonding Plan (f) Seven-Line",
+          "unit": "Set",
+          "rate": 14331,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (g)",
+          "description": "Design of Track Bonding Plan (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 15102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (a)",
+          "description": "Design of Circuit Diagrams (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 66096,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (b)",
+          "description": "Design of Circuit Diagrams (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 80784,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (c)",
+          "description": "Design of Circuit Diagrams (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 110160,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (d)",
+          "description": "Design of Circuit Diagrams (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 139536,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (e)",
+          "description": "Design of Circuit Diagrams (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 168912,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (f)",
+          "description": "Design of Circuit Diagrams (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 205632,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (g)",
+          "description": "Design of Circuit Diagrams (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 257040,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (h)",
+          "description": "Design of Circuit Diagrams (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 29376,
+          "chapter": 39
+        },
+        {
+          "item_no": "3909",
+          "description": "Design of Location Box Drawings",
+          "unit": "Per Location Box",
+          "rate": 584,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (a)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Two-Line Station Station",
+          "unit": "Per Station",
+          "rate": 13586,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (b)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Three-Line Station Station",
+          "unit": "Per Station",
+          "rate": 16891,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (c)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Four-Line Station Station",
+          "unit": "Per Station",
+          "rate": 22032,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (d)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Five-Line Station Station",
+          "unit": "Per Station",
+          "rate": 24676,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (e)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Six-Line Station Station",
+          "unit": "Per Station",
+          "rate": 27173,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (f)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Seven-Line Station Station",
+          "unit": "Per Station",
+          "rate": 29376,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (g)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Eight-Line Station or more Station",
+          "unit": "Per Station",
+          "rate": 33048,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (h)",
+          "description": "Supply of Original Tracing of Circuit Diagrams consisting of the items as mentioned below along with softcopy in CD after incorporating all the corrections. (i) Wiring Diagrams (ii) Relay Disposition Charts (iii ) Contact Analysis and Fuse Particulars (iv) Panel Termination Chart (iv) Panel Termination Chart For a Mid-Section LC Gate Per",
+          "unit": "Per LC Gate",
+          "rate": 10282,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (a)",
+          "description": "Supply of Original Tracing of Location Box Drawings (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 1102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (b)",
+          "description": "Supply of Original Tracing of Location Box Drawings (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 1469,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (c)",
+          "description": "Supply of Original Tracing of Location Box Drawings (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 2203,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (d)",
+          "description": "Supply of Original Tracing of Location Box Drawings (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 2570,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (e)",
+          "description": "Supply of Original Tracing of Location Box Drawings (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 2938,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (f)",
+          "description": "Supply of Original Tracing of Location Box Drawings (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 3672,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (g)",
+          "description": "Supply of Original Tracing of Location Box Drawings (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 4406,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (h)",
+          "description": "Supply of Original Tracing of Location Box Drawings (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 661,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (a)",
+          "description": "Alteration of Existing SWRD (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 1102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (b)",
+          "description": "Alteration of Existing SWRD (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 1469,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (c)",
+          "description": "Alteration of Existing SWRD (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 2203,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (d)",
+          "description": "Alteration of Existing SWRD (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 3672,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (e)",
+          "description": "Alteration of Existing SWRD (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 5508,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (f)",
+          "description": "Alteration of Existing SWRD (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 6059,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (g)",
+          "description": "Alteration of Existing SWRD (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 7344,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (h)",
+          "description": "Alteration of Existing SWRD (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 441,
+          "chapter": 39
+        },
+        {
+          "item_no": "3913",
+          "description": "Alteration of Existing Circuit Diagrams",
+          "unit": "Per Sheet",
+          "rate": 294,
+          "chapter": 39
+        },
+        {
+          "item_no": "3914",
+          "description": "Alteration of Existing Location Box Drawings",
+          "unit": "Per Sheet",
+          "rate": 367,
+          "chapter": 39
+        },
+        {
+          "item_no": "3915",
+          "description": "Supply of drawings in Original Tracing (Matt Film), A-3 Size",
+          "unit": "Per Sheet",
+          "rate": 58,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (a)",
+          "description": "Supply of Ammonia Prints (a) A3 size",
+          "unit": "Per Sheet",
+          "rate": 17,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (b)",
+          "description": "Supply of Ammonia Prints (b) A2 size",
+          "unit": "Per Sheet",
+          "rate": 33,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (c)",
+          "description": "Supply of Ammonia Prints (c) Signalling Plan U Size",
+          "unit": "Per Unit",
+          "rate": 170,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (a)",
+          "description": "Circuit Diagrams (a) A-2 size",
+          "unit": "Per sheet",
+          "rate": 320,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (b)",
+          "description": "Circuit Diagrams (b) A-3 size",
+          "unit": "Per sheet",
+          "rate": 140,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (c)",
+          "description": "Circuit Diagrams (c) A-4 size",
+          "unit": "Per sheet",
+          "rate": 105,
+          "chapter": 39
+        },
+        {
+          "item_no": "3918 (a)",
+          "description": "Scanning of Documents from the approved Tracing film A3 Page",
+          "unit": "Per Page",
+          "rate": 8,
+          "chapter": 39
+        },
+        {
+          "item_no": "3918 (b)",
+          "description": "Scanning of Documents from the approved Tracing film A2 Page",
+          "unit": "Per Page",
+          "rate": 35,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (a)",
+          "description": "Fabrication and Supply of Different Boards Preparation of Station Working Order Diagram (SWOD) on non-transparent acrylic sheet of thickness 4mm with aluminium beading and hanging support with screen printing, lettering and yard diagram. Station",
+          "unit": "Per Yard/Per Station",
+          "rate": 9391,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (b)",
+          "description": "Fabrication and Supply of Different Boards Preparation of Track Bonding Diagram on non-transparent acrylic sheet of thickness 4mm with aluminium beading and support with screen printing, lettering and bonding diagram. Station",
+          "unit": "Per Yard/Per Station",
+          "rate": 9291,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (c)",
+          "description": "Fabrication and Supply of Different Boards (c) Board 36\" x 24\"",
+          "unit": "No.",
+          "rate": 4762,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (d)",
+          "description": "Fabrication and Supply of Different Boards (d) Laminated board 45cm x 60cm",
+          "unit": "Per Board",
+          "rate": 2268,
+          "chapter": 39
+        },
+        {
+          "item_no": "3920",
+          "description": "Supply of thick Kodak photo paper with lamination",
+          "unit": "Sq.m",
+          "rate": 5679,
+          "chapter": 39
+        },
+        {
+          "item_no": "3921",
+          "description": "Making photocopies & binding of the SWR literature",
+          "unit": "Each Booklet",
+          "rate": 179,
+          "chapter": 39
+        }
+      ]
+    },
+    "40": {
+      "name": "ALTERATIONS",
+      "items": [
+        {
+          "item_no": "4001",
+          "description": "Removal of existing '0' style I K-50 contact clips along with its wire from the relay base by carefully tracing out from the bunch of wires and taking out unwanted wires from the same as per the alterations shown in the circuit diagram issued by Railways. Drawing of fresh new wire from the Conductor relay base to another relay base as per the new wiring as shown in the circuit diagram without affecting the other wires. This also includes testing of wires using buzzer of the new wires drawn once before soldering, once after soldering (This includes of wires required for data loggers.)",
+          "unit": "Per Conductor",
+          "rate": 56,
+          "chapter": 40
+        },
+        {
+          "item_no": "4002",
+          "description": "Carrying out of alterations to the working circuits and fixing Per of relays and relay groups and energization of relays as of per approved circuit diagrams. (All materials such as Rosin core, flux, nylon thread, eyelets and PVC dotted tape to be supplied by contractor. Indoor cables, relays and relay groups, fuses, LEDs, Resistances will be supplied by Railways.",
+          "unit": "Per Sheet of Circuit Diagram",
+          "rate": 2091,
+          "chapter": 40
+        },
+        {
+          "item_no": "4003",
+          "description": "Shifting of existing working functions like signals/Shunt/ Calling on/Points/Track circuits etc. from old cable to new Per laid cables carefully without affecting the traffic under disconnection/blocks, This work also includes releasing the existing tail cables from the relevant gears and re- surfacing the earth excavated as instructed by Railway representative at site.",
+          "unit": "Per Cable",
+          "rate": 2123,
+          "chapter": 40
+        }
+      ]
+    },
+    "41": {
+      "name": "ELECTRONIC INTERLOCKING",
+      "items": [
+        {
+          "item_no": "4101",
+          "description": "Supply of Hot Standby Electronic Interlocking System (Centralised! Distributed) excluding Panel Processor (Hot Standby) with Signalling functions up to 125 functions as per function table enclosed along with 5% spares for the cards/modules/PCB, connectors/couplers, fuses, all relays, crimp contact, convertors etc. used, tools, manuals and Instruments as per RDSO specification RDSO/SPN /192/2019 ver. 2.0 or RDSO/SPN/ 203/2011 ver. 1.0 or latest. Note: Payment will be made for only vital bit as per function table attached by Railways, no payment will be made for non Vital bits such as Counter bits, SM key Bits, Read back bits and any potential free contact bits of DC-DC converter or Modem of El.",
+          "unit": "Set",
+          "rate": 7832317,
+          "chapter": 41
+        },
+        {
+          "item_no": "4102",
+          "description": "Incremental rate for vital signalling functions in El SYSTEM over and above 125 functions under item No 4101 along Per with spares for the cards/modules/PCB, connectors/couplers, fuses, all relays, crimp contact, etc. to the extent of 5% of item no. 4101 & 4102 of additional Electronic Interlocking miscellaneous with all necessary accessories for End Location Goomty for Station / IBH / Auto Hut for Distributed /IBH/ in connection with Item No. 4101 & 4102 of commercial grade operator VDU of size 55' Full with backlit LED, with HDMI/DVI port, Inbuilt Speaker, HDMI/DVI cables for connectivity and other item required for installation of fan less embedded industrial grade computers to Moxa V2406A or better ) with all accessories as key board, mouse, antivirus etc. of industrial grade per approved Specification as recommended by RDSO No. STS/TAN/3007 Version 1.0 or latest) wiring, testing, soldering of all El equipments, of El Equipment, Relay Racks and Power Per etc. including supply of power cable and System (six set) etc. for El under item no",
+          "unit": "Per Function",
+          "rate": 71250,
+          "chapter": 41
+        },
+        {
+          "item_no": "4103",
+          "description": "Supply of additional Electronic Interlocking miscellaneous items with all necessary accessories for End Location (Goomty) for Station / IBH / Auto Hut for Distributed Architecture in connection with Item No. 4101 & 4102.",
+          "unit": "Per Goomty/IBH/Auto Hut",
+          "rate": 674202,
+          "chapter": 41
+        },
+        {
+          "item_no": "4104",
+          "description": "Supply of commercial grade operator VDU of size 55' Full HD, with backlit LED, with HDMI/DVI port, Inbuilt Speaker, required HDMI/DVI cables for connectivity and other miscellaneous item required for installation",
+          "unit": "No.",
+          "rate": 226320,
+          "chapter": 41
+        },
+        {
+          "item_no": "4105",
+          "description": "Supply of fan less embedded industrial grade computers (Similar to Moxa V2406A or better) with all accessories such as key board, mouse, antivirus etc. of industrial grade as per approved Specification as recommended by RDSO (TAN No. STS/TAN/3007 Version 1.0 or latest)",
+          "unit": "No.",
+          "rate": 182900,
+          "chapter": 41
+        },
+        {
+          "item_no": "4106",
+          "description": "Installation, wiring, testing, soldering of all El equipments, earthing of El Equipment, Relay Racks and Power Equipment etc. including supply of power cable and Documents/Manuals (six set) etc. for El under item no. 4101.",
+          "unit": "Per EI System",
+          "rate": 659159,
+          "chapter": 41
+        },
+        {
+          "item_no": "4107",
+          "description": "Design and Drawing of Interface and Application Logic for complete indoor signalling work for new El station up to 200 Routes as per TOC. Initially, contractor shall submit 1 copy for approval of Railways. Final copy shall be submitted after incorporating correction if any.",
+          "unit": "Per EI",
+          "rate": 253418,
+          "chapter": 41
+        },
+        {
+          "item_no": "4108",
+          "description": "Design and Drawing of Interface and Application Logic for complete indoor signalling work for new El station with more than 200 Routes as per TOO. 79",
+          "unit": "Per Route",
+          "rate": 1950,
+          "chapter": 41
+        },
+        {
+          "item_no": "4109",
+          "description": "Commissioning of Electronic Interlocking system",
+          "unit": "No.",
+          "rate": 25604,
+          "chapter": 41
+        },
+        {
+          "item_no": "4110",
+          "description": "Training of Railway Personnel in installation, Man commissioning, testing, trouble shooting and in diagnosing faults using diagnostic tools/flow charts including supply of necessary documents",
+          "unit": "Man Day",
+          "rate": 1246,
+          "chapter": 41
+        },
+        {
+          "item_no": "4111",
+          "description": "Training on application software for designing, change in the logics and converting it suitable for system and loading Man the programme into the working system for alteration of SIP/TOO. The training should be comprehensive with complete document.",
+          "unit": "Man Day",
+          "rate": 1368,
+          "chapter": 41
+        },
+        {
+          "item_no": "4112",
+          "description": "Supply of portable work station to run along with El configuration tool, Data Inputs, Simulation, Functional testing, diagnostic and troubleshooting.",
+          "unit": "No.",
+          "rate": 126896,
+          "chapter": 41
+        },
+        {
+          "item_no": "4113",
+          "description": "Fabrication, Transportation and fixing of aluminium ladder at site made of Aluminium angle of size 38mmx5mm width 280mm,Flat size 25 mm x 5mm with powder coated colour as desired by engineer in charge at site and fixing, Drilling of suitable holes for fixing of Hylam sheet 3mm thickness on ladder and 2 No's of PVC trough 100 mm with cover fixed on Hylam sheet along the ladder with all fixtures necessary ancillary materials required for fixing to be supplied and as directed by engineer in charge at site.",
+          "unit": "RMT",
+          "rate": 4098,
+          "chapter": 41
+        },
+        {
+          "item_no": "4114",
+          "description": "Supply, fabrication, installation and fixing of panel operator consol with arrangement to fix 55\" VDU's -Reset boxes, and other S&T gadgets. This shall be made of not less than 18mm thick plywood or better materials with storage facility of approved colours with contractors' materials, lead, lift and manpower as per the instructions of engineer in charge and as per the enclosed drawing.",
+          "unit": "No.",
+          "rate": 354447,
+          "chapter": 41
+        },
+        {
+          "item_no": "4115",
+          "description": "Supply and installation of offline UPS I000VA, 30 mm backup as per instructions of engineer in charge.",
+          "unit": "No.",
+          "rate": 11286,
+          "chapter": 41
+        }
+      ]
+    },
+    "42": {
+      "name": "UFSBI",
+      "items": [
+        {
+          "item_no": "4201",
+          "description": "Supply, Installation and commissioning of Universal Fail safe Block interface (As per RDSO Specification No. RDSO/SPN/147/2005 with latest amendments) suitable to work on OFC/1 Quad cable for lB Signalling/Auto signalling or any other requirement including 68 No. of QN1 (8F18B) relays required for system commissioning.",
+          "unit": "Set",
+          "rate": 960520,
+          "chapter": 42
+        },
+        {
+          "item_no": "4202",
+          "description": "Supply, Installation and commissioning of Block proving by Axle Counter [BPAC] using block panel and UFSBI for Double line operation as per RDSO Spec. No: IRS- 105/2012 [VER.0] with latest version and amdt. Each set consisting of the following: 1. Universal fail safe block interface complete with all accessories as per RDSO Spec No: IRS- S104/212[VER.0] with latest version & Amdt-Qty-02 Nos. 2. Block Panel complete with all accessories as per RDSO Drg. No. RDSO/S/32017[latest amdts] Qty -02 Nos. 3. Relay Rack duly wired with due locking and sealing arrangement as per RDSO Drg. No. RDSO/S/32018 including relays for each Relay Rack [QN1-19 No's, QNA1-07 No's, QL1-02 No's, and Timers -01No]-Qty 2 Nos. 4. Block Telephone with accessories as per RDSO spec. No. RDSO/SPN/191/2006-Qty02 No's",
+          "unit": "Set",
+          "rate": 1261656,
+          "chapter": 42
+        },
+        {
+          "item_no": "4203",
+          "description": "Supply, installation and commissioning of Universal Fail Safe Block Interface for Single line. Each consisting of the following: (Inspection by RDSO) 1) Universal fail-safe block interface for single line complete with all accessories as per RDSO Specn. Nos. 2) Relay rack with due locking and sealing arrangements including relays (QN1 - 22 Nos., QNA1 - 6 Nos.; QL1 - 02 Nos.; Timer - 01 No. and wiring as wiring diagram RDSO Drg. No. RDSO/S/32020 (Latest Amdt.) -- 2 Nos. 3) Block panel complete with accessories as RDSO Drg. 4) Block Telephone with accessories as per RDSO Specn. No. RDSO/SPN/191/2006 --2 Nos. 81 CHAPTER 43— FIRE ALARM",
+          "unit": "Set",
+          "rate": 1259269,
+          "chapter": 42
+        }
+      ]
+    },
+    "43": {
+      "name": "FIRE ALARM",
+      "items": [
+        {
+          "item_no": "4301",
+          "description": "Supply, transportation, Installation, Testing & Commissioning of UL/EN/FMNds/LPCB approved microprocessor based Networkable Analog Addressable and modular type of Fire Alarm Control Panel (FACP) with display, in built charging facility and provision of GSM module suitable to send SMS to configured mobile number. The panel should be equipped with sufficient no of loops and provision of expandability as per RDSO specification no. RDSO/SPN/217/2021 Ver. 3 or latest The control panel shall be the central processing unit of the system, receiving and analysing signals from probe type by metallic heat detectors, UV and IR flame detectors, heat and smoke multi sensor, LHS interface and manual call point, providing Audible and visual information to the user The panel shall have the connectivity of TCP-lP suitable for programming and remote monitoring. The panel shall have dedicated RS 232 serial port for direct PC or Modem connection, for interfacing with existing data logger, optional remote printer (as per RDSO specification no RDSO/SPN/217/2016 Ver. 1 or latest Supply, Installation, Testing & Commissioning of GUI software to monitor health of all detectors and other devices along with control panel. The software shall be No",
+          "unit": "No.",
+          "rate": 261419,
+          "chapter": 43
+        },
+        {
+          "item_no": "4302",
+          "description": "accessible over TCP/IP. It shall also be able to indicate in advance whenever the detector/devise would require to be serviced as per RDSO/SPN/217/2016 Ver. 1 or latest Supply, Installation, Testing & Commissioning of resettable, Addressable multi sensor (heat & smoke) which",
+          "unit": "No.",
+          "rate": 800672,
+          "chapter": 43
+        },
+        {
+          "item_no": "4303",
+          "description": "is fully compatible with analogue addressable protocol, No electronically addressed as per RDSO/SPN/217/20 18 Ver 2 dl or latest Supply, Installation, Testing & Commissioning of resettable",
+          "unit": "No.",
+          "rate": 6237,
+          "chapter": 43
+        },
+        {
+          "item_no": "4304",
+          "description": "Probe type bimetallic heat detector as per IS 2189 No (RDSO/SPN/217/2018 Ver. 2 dl or latest) Supply, Installation, Testing & Commissioning of Addressable, resettable manual call point with integral short circuit isolator, having status LED for alarming and No",
+          "unit": "No.",
+          "rate": 6269,
+          "chapter": 43
+        },
+        {
+          "item_no": "4305",
+          "description": "standby mode, electronically addressed as per UL/LPCB Listed and shall comply to RDSO/SPN/217/2016 Ver. 1 or latest Supply, Installation, Testing & Commissioning of analogue Addressable fault Isolator Modules capable of monitoring shorted loop circuit and automatically restore No",
+          "unit": "No.",
+          "rate": 8510,
+          "chapter": 43
+        },
+        {
+          "item_no": "4306",
+          "description": "communication when shorted conditions are corrected Fault isolator module shall not occupy any space and as per RDSO/SPN/217/2016 Ver. 1 or latest Date: 2024.04'16:42:41 +05:30 Date: 2024.04.02 05:30 Supply, Installation, Testing & Commissioning of UL listed Aspiration type blue LED based aspiration system with No dual source optical smoke detection and 0.002obs ft",
+          "unit": "No.",
+          "rate": 5889,
+          "chapter": 43
+        },
+        {
+          "item_no": "4307",
+          "description": "sensitivity and is connected to the panel without any third party module. The area and points to be covered for relay room shall be as per RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "No.",
+          "rate": 312061,
+          "chapter": 43
+        },
+        {
+          "item_no": "4308",
+          "description": "Supply, Installation, Testing & Commissioning of 24V/ No 2Amps power supply for aspiration detector with battery backup shall comply to RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "No.",
+          "rate": 67603,
+          "chapter": 43
+        },
+        {
+          "item_no": "4309",
+          "description": "Supply, Installation, Testing & Commissioning copper pipe Meters with 25 mm Dia &lmm thickness RDSO/SPN/217/2016 Ver 1 or latest",
+          "unit": "Meters",
+          "rate": 1189,
+          "chapter": 43
+        },
+        {
+          "item_no": "4310",
+          "description": "Supply, Installation, Testing & Commissioning of Analog Addressable Type input/output Modules with inbuilt fault isolator or alternate arrangement which shall isolate the No module in case of short circuit. The module should have programmable supervised & unsupervised output. The module should have visual indication for its operation, PF contact (NO/NC) Approval-U L/LPCB Listed and shall comply to RDSO/SPN/217/2016 Ver. I or latest",
+          "unit": "No.",
+          "rate": 10558,
+          "chapter": 43
+        },
+        {
+          "item_no": "4311",
+          "description": "Supply, Installation, Testing & Commissioning of electronic No hooter cum strobe with mm 85dB output Approval- UL/LPCB Listed and shall comply to RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "No.",
+          "rate": 9595,
+          "chapter": 43
+        },
+        {
+          "item_no": "4312",
+          "description": "Supply and Installation of Auto Telephone Dialler (GSM) No complying with the RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "No.",
+          "rate": 9520,
+          "chapter": 43
+        },
+        {
+          "item_no": "4313",
+          "description": "Supply and Installation of isolator devices for every 20 No detectors, complying with the RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "No.",
+          "rate": 3808,
+          "chapter": 43
+        },
+        {
+          "item_no": "4314",
+          "description": "Supply, Installation, Testing & Commissioning of 2X1.5sqmm ATC Fire survival flexible/armoured cable with back box, glands & other accessories. Armoured & un- Lot armoured (Cl) cables should meet fire performance test under simultaneous action of Flame, water stress and impacts on single sample at 950°C for minimum 2 hours, certified by LPCB or equivalent complying to RDSO/SPN/217/2016 Ver. 1 or latest",
+          "unit": "Lot",
+          "rate": 60016,
+          "chapter": 43
+        },
+        {
+          "item_no": "4315",
+          "description": "Supply and fixing of Fire Extinguisher CO2 type (Capacity No 4.5 KG)",
+          "unit": "No.",
+          "rate": 8171,
+          "chapter": 43
+        },
+        {
+          "item_no": "4316",
+          "description": "Supply and installation of Four numbers 10 Litre... Buckets...",
+          "unit": "No.",
+          "rate": 8800,
+          "chapter": 43
+        }
+      ]
+    },
+    "44": {
+      "name": "MISCELLANEOUS",
+      "items": [
+        {
+          "item_no": "4401",
+          "description": "Fabrication and supply of wall mounted maintainer's Tool Kit frame made out of MS sheet 10 gauge with powder coated as desired colour at site of size 1.5 Mtrs. Length X 0.8 Mtr. Width X 0.15 Mtr. Depth with all fixtures for mounting individuals, tools inside the board and in front with Acrylic sheet 4mm thickness with locking arrangements and all necessary fixtures to fix on wall.",
+          "unit": "No",
+          "rate": 18699,
+          "chapter": 44
+        },
+        {
+          "item_no": "4402",
+          "description": "Supply and fixing of Netlon wire mesh of all windows and ventilators as per instructions of Engineer-in-charge Square including labour charges.",
+          "unit": "Per Square foot",
+          "rate": 424,
+          "chapter": 44
+        },
+        {
+          "item_no": "4403 (a)",
+          "description": "Providing and fixing fly proof galvanized M.S. wire gauge With 2nd class teak wood beading 62X19 mm",
+          "unit": "Sqm",
+          "rate": 907,
+          "chapter": 44
+        },
+        {
+          "item_no": "4403 (b)",
+          "description": "Providing and fixing fly proof galvanized M.S. wire gauge With 12 mm mild steel U beading",
+          "unit": "Sqm",
+          "rate": 625,
+          "chapter": 44
+        },
+        {
+          "item_no": "4404",
+          "description": "Supply and Installation of HP/OEM approved document Scanner/Printer/Fax A3/Legal size Resolution in dpi 300, speed in PPM 20, ADF capacity 50, Flat Bed Size NA, Document size Legal or latest or similar.",
+          "unit": "No",
+          "rate": 72290,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (a)",
+          "description": "Calibration of Instruments: at Govt approved labs as per Analog Insulation Tester",
+          "unit": "No",
+          "rate": 3894,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (b)",
+          "description": "Calibration of Instruments: at Govt approved labs as per Digital Multimeter",
+          "unit": "No",
+          "rate": 3245,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (c)",
+          "description": "Calibration of Instruments: at Govt approved labs as per HV tester Digital Micro ohm meter",
+          "unit": "No",
+          "rate": 7788,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (d)",
+          "description": "Calibration of Instruments (d) Digital Micro ohm meter",
+          "unit": "No",
+          "rate": 3245,
+          "chapter": 44
+        },
+        {
+          "item_no": "4406",
+          "description": "Providing the services of Computer oriented Technical manpower to carryout works like drawing, computation, write up etc., between 08:00 Hrs to 20:00 Hrs of the day with all Man expenses of transportation, accommodation, food, consumables etc., with all ascents, descents, taxes, octorio, cess, fees, duties with contractors cost etc., as per special conditions/specifications/ regulations and as directed by engineer in charge.",
+          "unit": "Man Day",
+          "rate": 784,
+          "chapter": 44
+        },
+        {
+          "item_no": "4407",
+          "description": "Provision of Lookout person round the clock in 12 Hours shift Man beat from Up Home Signal to Down Home signals to avoid theft of signalling assets.",
+          "unit": "Man Day",
+          "rate": 640,
+          "chapter": 44
+        },
+        {
+          "item_no": "4408",
+          "description": "Arranging of skilled and unskilled workers with required tools during point blocks for removal of S&T assets to give Per way for track machines and re-fixing the removed assets after insertion/removal of point.",
+          "unit": "Per Point",
+          "rate": 4102,
+          "chapter": 44
+        },
+        {
+          "item_no": "4409",
+          "description": "Provision of one skilled and 2 unskilled staff round the clock to attend to teething trouble of the installation along Per with Sl/CSl after the installation has been brought into commissioning. The work includes routine maintenance, failure restoration as per the direction of the Sl/CSI.",
+          "unit": "Per month",
+          "rate": 64951,
+          "chapter": 44
+        },
+        {
+          "item_no": "4410",
+          "description": "Installation, testing and commissioning of Distilled water plant/Demineralised plant.",
+          "unit": "No",
+          "rate": 3309,
+          "chapter": 44
+        }
+      ]
+    },
+    "45": {
+      "name": "RELEASING OF S&T GEARS",
+      "items": [
+        {
+          "item_no": "4501 (a)",
+          "description": "Releasing of the following equipments without causing damage, stacking neatly at a centralised place near the site of work as shown by the in charge, and handing over the same to the Stores depot as per the inventory made Releasing of hand plunger lock single/double along with switch extension pieces, stretcher bars, point! trap indicators and other fixtures carefully without damaging the materials, accounting and stacking them neatly at a place as instructed by Railway representative at site",
+          "unit": "Set",
+          "rate": 1808,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (b)",
+          "description": "Releasing of the following equipments... (b) LC Gate gadgets",
+          "unit": "Set",
+          "rate": 7232,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (c)",
+          "description": "Releasing of the following equipments... (c) Apparatus cases",
+          "unit": "No",
+          "rate": 2275,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (d)",
+          "description": "Releasing of the following equipments... (d) STOP board/Warning board",
+          "unit": "No",
+          "rate": 1196,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (e)",
+          "description": "Releasing of the following equipments... (e) Cable termination boxes",
+          "unit": "No",
+          "rate": 1518,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (f)",
+          "description": "Releasing of the following equipments... (f) Block Instruments",
+          "unit": "No",
+          "rate": 1342,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (g)",
+          "description": "Releasing of the following equipments... (g) Relay racks",
+          "unit": "Per Rack",
+          "rate": 1497,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (h)",
+          "description": "Releasing of the following equipments... (h) SM's control panel",
+          "unit": "Set",
+          "rate": 3979,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (i)",
+          "description": "Releasing of the following equipments... (i) Ground lever frame",
+          "unit": "No",
+          "rate": 4200,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (j)",
+          "description": "Releasing of the following equipments... (j) Axle Counter field equipment",
+          "unit": "Set",
+          "rate": 955,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (k)",
+          "description": "Releasing of the following equipments... (k) Colour light Signals",
+          "unit": "No",
+          "rate": 2333,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (l)",
+          "description": "Releasing of the following equipments... (l) Route Indicators",
+          "unit": "No",
+          "rate": 1167,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (m)",
+          "description": "Releasing of the following equipments... (m) Ground type shunt signals",
+          "unit": "No",
+          "rate": 1662,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (n)",
+          "description": "Releasing of the following equipments... (n) Point machines",
+          "unit": "No",
+          "rate": 2042,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (o)",
+          "description": "Releasing of the following equipments... (o) TLD boxes",
+          "unit": "No",
+          "rate": 121,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (p)",
+          "description": "Releasing of the following equipments... (p) Lever frames up to 40 levers",
+          "unit": "LS",
+          "rate": 6999,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (q)",
+          "description": "Releasing of the following equipments... (q) Secondary cells",
+          "unit": "Set",
+          "rate": 4083,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (r)",
+          "description": "Releasing of the following equipments... (r) Power equipments",
+          "unit": "Set",
+          "rate": 9565,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (s)",
+          "description": "Releasing of the following equipments... (s) Control equipments",
+          "unit": "Set",
+          "rate": 4550,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (t)",
+          "description": "Releasing of the following equipments... (t) Trestles 1/2 way",
+          "unit": "No",
+          "rate": 65,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (u)",
+          "description": "Releasing of the following equipments... (u) Trestles 3/4 way",
+          "unit": "No",
+          "rate": 89,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (v)",
+          "description": "Releasing of the following equipments... (v) Point rodding",
+          "unit": "Per Rod/Per meter",
+          "rate": 11,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (w)",
+          "description": "Releasing of the following equipments... (w) 'A' type foundations",
+          "unit": "No",
+          "rate": 478,
+          "chapter": 45
+        }
+      ]
+    },
+    "46": {
+      "name": "TELECOM WORKS",
+      "items": [
+        {
+          "item_no": "4601",
+          "description": "Installation, wiring, testing & commissioning of 2 wire DTMF Selective Calling Telephone with power supply.",
+          "unit": "No",
+          "rate": 922,
+          "chapter": 46
+        },
+        {
+          "item_no": "4602",
+          "description": "Straight through / derivation with/without transformer joints: S Installation Thermo shrinkable jointing kits for straight through / derivation joints for LC gate, pump houses etc where VF transformers are not required and derivation joint by using 2T Joint 1449 transformer (to be housed in the joint) . This includes tapping S of nominated Quad at a specific location shown by the Railway Engineer at site to the jelly field cable already laid. S All material including valco tapes except thermo shrinkable jointing kit shall be supplied by the contractor. S",
+          "unit": "Joint",
+          "rate": 1449,
+          "chapter": 46
+        },
+        {
+          "item_no": "4603",
+          "description": "Supply and jointing of 5T/TSF-3 Transformer Joint as per No 9558 IRS: TC 77-2012 Rev. 3 or Latest. All materials required to I be supplied by the contractor except VF Transformers.",
+          "unit": "No",
+          "rate": 9558,
+          "chapter": 46
+        },
+        {
+          "item_no": "4604",
+          "description": "Supply and fixing of 20 pair CT box and termination of jelly filled cable as per details given by engineer at site for LC gates / Pump house.",
+          "unit": "Location",
+          "rate": 2737,
+          "chapter": 46
+        },
+        {
+          "item_no": "4605",
+          "description": "Supply and fixing of 10 pair CT box and termination of jelly filled cable as per details given by Engineer at site for LC gates I Pump house.",
+          "unit": "Set",
+          "rate": 1729,
+          "chapter": 46
+        },
+        {
+          "item_no": "4606",
+          "description": "Fixing of 12/10 pair weather proof C.T. Box WAGO type and termination of 6 quad jelly filled cable on teak wood plank of size 375mm x 250 mm x 20 mm thickness",
+          "unit": "No",
+          "rate": 340,
+          "chapter": 46
+        },
+        {
+          "item_no": "4607",
+          "description": "Installation of 100/50/20 pair Krone terminal Box on teak wood plank of size 330X200X25 mm plank and wiring. Teakwood plank and other materials like screws, bolts etc to be arranged by the contractor.",
+          "unit": "No",
+          "rate": 375,
+          "chapter": 46
+        },
+        {
+          "item_no": "4608",
+          "description": "Termination of telecom cable at cable hut and panel room, fixing of block filter units and cable termination boxes to the wall in panel room, wiring VF transformers, block filter units, block bell equipment including drawl of cable through GI / PVC pipe, termination on to terminals and doing other works associated with commissioning of derivation of block working as per instructions of supervisor in charge of work. Note: Cables, CTB, Filter units, Block bell equipment, VF Transformers, GI Pipe, and Cement will be supplied by Railways. All other materials including Angles, PVC pipe etc will be arranged by the Contractor.",
+          "unit": "LS",
+          "rate": 2670,
+          "chapter": 46
+        },
+        {
+          "item_no": "4609",
+          "description": "Installation and commissioning of 4 Wire way station control equipment as detailed below: a) The way station equipment & Power supply unit are to be mounted on a rack as per Drg. No. COREIS&T/ALD /8K1436/95. b) The internal wiring should be wired between VF Repeater/ VF Transformer bay and MS Angle rack then to be extended to Dy.SS/ASM Table as per drawing shown in the sketch (All the wiring materials are to be provided by the 88",
+          "unit": "No",
+          "rate": 3922,
+          "chapter": 46
+        },
+        {
+          "item_no": "4610",
+          "description": "Testing and commissioning of the system: This work involves the Testing of Underground six quad cables in each repeater section after laying and jointing. These readings to be recorded and supplied to Railway Engineer. This involves all the tests to be carried out such as measurement of loop resistance, insulation test, frequency attenuation, cross talk and noise level etc, Provision of Emergency Socket",
+          "unit": "No",
+          "rate": 3292,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (a)",
+          "description": "Provision of Emergency Socket Fabrication, installation and fixing of emergency socket post, box and emergency socket as per the drawing No OH Eli .6N94. These emergency socket posts to be fixed along with the cable route at an interval of not more than 1 Km. Rail post will be provided by Railway",
+          "unit": "No",
+          "rate": 2046,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (b)",
+          "description": "Provision of Emergency Socket (b) Strengthening the foundation of EC Post",
+          "unit": "No",
+          "rate": 222,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (c)",
+          "description": "Provision of Emergency Socket (c) Painting and numbering",
+          "unit": "No",
+          "rate": 325,
+          "chapter": 46
+        },
+        {
+          "item_no": "4612",
+          "description": "Supply & installation of Rack 19\" wall mount 6U/500MM D with front glass door and lock and key including the following: i. I U Cable manager - I No. 2. 1 U Cantilever tray - I No. 3. AC distribution box 5X5 amps - I No. 4. Front panel H/W PKT of 10 Sets - I No. 5. Cooling fan of 230V AC operated",
+          "unit": "No",
+          "rate": 7739,
+          "chapter": 46
+        },
+        {
+          "item_no": "4613",
+          "description": "Supply & installation of Rack 19\" wall mount 17U with front glass door and lock and key including the following: 1. 1 U Cable manager - 1 No. 2. 1 U Cantilever tray - I No. 3. AC distribution box 5X5 amps - 1 No. 4. Front panel H/W PKT of 10 Sets - I No. 5. Cooling fan of 230V AC operated Installation of OFC related items",
+          "unit": "No",
+          "rate": 17545,
+          "chapter": 46
+        },
+        {
+          "item_no": "4614",
+          "description": "Laying of HDPE duct 40133 mm dia in the trenches and in protective works already provided.",
+          "unit": "Km.",
+          "rate": 7410,
+          "chapter": 46
+        },
+        {
+          "item_no": "4615",
+          "description": "Blowing of armoured optic fibre cable (OFC Cable supplied by Railways) into the duct supplied vide other NS item of supply portion by using blowing machine and associated works. 10% of OFC length to be blown extra on both ends of Duct i.e. total 20% of Duct length. Before blowing the duct integrity shall be tested. If any defect is found during duct integrity test, the entire length of HDPE duct from one chamber to another chamber is to be replaced by the contractor at his own cost. Payment will be made as per the length of Duct from which OFC is Blown.",
+          "unit": "KM",
+          "rate": 10956,
+          "chapter": 46
+        },
+        {
+          "item_no": "4616",
+          "description": "Carrying out Duct Integrity test for PLB HDPE Duct, 40/33 89",
+          "unit": "Km",
+          "rate": 1750,
+          "chapter": 46
+        },
+        {
+          "item_no": "4617",
+          "description": "Excavation of jointing pit and provision of RCC/FRP joint / Loop chambers of 90 Cms. Inner dia 60 Cms depth and 3mm thickness with two pieces of top cover with hooks each and bottom cover with hole for drainage and cable entry as per Drg. No. RAILTEL/SR/OFC/ 2009/12 and as directed by Engineer to be provided at every joint location and at every Kilometre loop etc., The chamber shall be filled with sand mixed with ariti-stermic power, back filling and ramming of trench after HDPE duct laying, splicing and commissioning.",
+          "unit": "No",
+          "rate": 6344,
+          "chapter": 46
+        },
+        {
+          "item_no": "4618",
+          "description": "Supply and Installation of OFC joint enclosure and splicing of Optic fibre cable (24 fibres) and testing as per technical specification No. GR OJC-2/02 Sept 2003. Supply of Splice Enclosure (24 fibre) shall be of TVS make Part TEC.& as per RDSO/SPN/TC/68/2014 Revision 1.0 amd 1 or latest All materials including Fusion splicing machine. used for fibre splicing and, OTDR for testing and other testing materials if any shall be arranged by the contractor.",
+          "unit": "No",
+          "rate": 9398,
+          "chapter": 46
+        },
+        {
+          "item_no": "4619",
+          "description": "Supply and installation of rack mounted 24 fibre Distribution Management System (FDMS) of size 1U, of Reputed/Branded company make as per specification RDSO/SPN/TC/37/2020 Revision 4.0 with latest amendments. The FDMS shall include 24 SC-PC/Required adaptors having insertion loss less than or equal to 0.1dB and 24 numbers 900 micron 1.5m SC-PC/Required pigtails.",
+          "unit": "No",
+          "rate": 23712,
+          "chapter": 46
+        },
+        {
+          "item_no": "4620",
+          "description": "Testing of all 24 fibres of OFC cable after splicing end to end in a section (Long Haul).",
+          "unit": "LS",
+          "rate": 21512,
+          "chapter": 46
+        },
+        {
+          "item_no": "4621",
+          "description": "Testing of fibres between short haul station in both direction after splicing the required fibres",
+          "unit": "LS",
+          "rate": 7769,
+          "chapter": 46
+        },
+        {
+          "item_no": "4622",
+          "description": "Supply and installation of 45mmx 45mm PVC channels for drawing switchboard cables at OFC cable huts and at stations as indicated by Railway Engineer at site.",
+          "unit": "Mtr.",
+          "rate": 102,
+          "chapter": 46
+        },
+        {
+          "item_no": "4623",
+          "description": "Supply and fixing of different sizes of PVC casing /Pipes as required by Railway at site by fixing /clamping to the wall for indoor wiring purposes. All the material required for fixing PVC casing/Pipes are to be supplied by contractor.",
+          "unit": "RMT",
+          "rate": 48,
+          "chapter": 46
+        },
+        {
+          "item_no": "4624",
+          "description": "Supply and installation of 230 volts AC / 48 volts, 25 Amps DC (2 ~ 1 configuration) SMPS battery charger as per RDSO spec. RDSO/SPN/TC/23/99 (Ver-4) Amdt.-1 or latest.",
+          "unit": "No",
+          "rate": 83721,
+          "chapter": 46
+        },
+        {
+          "item_no": "4625",
+          "description": "Supply and installation of 48 volts 200 AH maintenance free VRLA battery in charged condition as per RDSO specification lRS:S-93/96(B) (Amd. 1) or latest. (2 volts 90",
+          "unit": "Set",
+          "rate": 104042,
+          "chapter": 46
+        },
+        {
+          "item_no": "4626",
+          "description": "Supply and installation and commissioning of voltage stabilizer 5 KVA, single phase, servo controlled, wide range voltage stabilizer as per specification, input voltage range from 135 volts AC - 300 volts AC with changeover / bye pass switch",
+          "unit": "No",
+          "rate": 16625,
+          "chapter": 46
+        },
+        {
+          "item_no": "4627",
+          "description": "Supply and installation of 19' - 42 U Rack complete with fittings for housing SDH equipment, FDMS, DDF and other equipment like cable managers, completely wired using krone module and other equipment like runaway ladders etc., as per technical specification below. It should be able to lock all the equipment with only order wire Telephone outside the rack. The rack should be of APW President I Rittal make or similar. The components of the rack are specified below. It includes transportation and installation of rack in prefab/building at specified stations. 1. Rack S33 600W x 600D - 1 No. 2. Fixed side panels 42U x 600 - 2 Nos. 3. Front Glass door plain 42U/600W - 1 No. 4 o Rear MS Door Plain 42U/600W - 1 No. 5. Castor with brakes-2 Nos. 6 Fans directly mounted on the top 48V DC 90 CFM-2 Nos. 7. Krone mounting bracket - 01 Nos. 8 Mounting panel with MCBs - a. 32 Amps, MCBs(DP) 2 Nos. & 6Amps MOBs (DP) - 6 Nos. 9. Earth continuity - 01 No. 10. Equipment Trays - 5 Nos. 11. Channel with loops 42U - 2 Nos\" installation, testing and commissioning of managed rack type STM-4, equipped STM-1, ADM S1.1, per technical Specification no.GR No.: TEC/GR/TXISDA- with 2 Nos.STM-1 aggregate Optical upgradable to STM-4, 21 Els, and minimum 8 Nos 10/100 base T Ethernet port, Order wire, Power supply sub rack, DDF, Installation materials, manuals and other The equipment should be TEC/BSNL/RDSO The equipment should be fully wired for its ultimate and provide redundancy for Power supply and It shall be possible to use the full capacity of equipment by adding additional tributary cards. The up of STM-1 to STM-4 shall be without change of any hardware of the STM equipment. The STM shall have in-built L2 switch for Ethernet ports -Tejas or similar installation, testing & commissioning of LI (Optical) for branching for STM-1 suitable for working STM in deployed section and installation of programmable Primary Digital Insert Multiplexer fully wired for 30 Channels with all accessories from RDSO approved vendor per RDSO specification IRS TC 68-2012 Rev.0 (with amendment) including connectors and cables required installation including 100 pair Krone type MDF. Each Date: 2O24.O4t7l6:42:4l +05:30 CHIN TA LA PAT +05:30 Date: 20240402 card shall have minimum four channels per card. The sub rack shall be capable of being equipped up to mm Channels without additional power supply unit. The MUX be wired & equipped with following circuits: 2 Wire/4 Wire E&M VF circuits (Minimum 16 No. Ckts) FXO circuits: 6 nos FXS circuits Subs/Hotline circuits along with ringer card etc.: 08 No's Acquisition card as per design Data User manual This also includes connecting all pigtails, optical patch cords etc to the SDH equipments. This also includes connection of SDH and primary MUX equipment with all interface cards to the 48V Bus including termination on DDF taking PVC cable over runway or a wall and termination of VF interface circuits to the Krone Termination box Installation, testing & commissioning of LI No card for branching of ADM/ (supporting STM-1) per detailed Technical Specification of FXO (exchange end interface card) as per No. lRS-TC 68/2012 rev.o amd.1 with latest No to be installed in Primary Drop insert having minimum 8 channels per station of FXS (subscriber line or hot line interface card) as specification No. IRS-TC 68/2012 rev.0 amd.1 with No amendments to be installed in Primary Drop Insert Facility to drop 4 channels per station should available of interface cards for 2wire/4wire E&M,4 VF interface as per specification No. lRS-TC 68/2012 rev.0 amd.1 latest amendments (in omnibus or point to point mode 24 channels. Number of cards are to be calculated as per note given below) No A total of 24 circuits are to be dropped in omnibus or point to point at each primary drop insert multiplexer cards offered by the manufacturer may have different i.e. 4 channels or 8 channels per card. The number cards to be supplied should be sufficient to drop 24 at each primary drop insert multiplexer. The of each card should also be clearly mentioned. The given for this item is number of stations. The required no is to be calculated and quoted accordingly Miscellaneous Telecom Items of power supply unit (230V AC input, 12V DC Set and 7AH battery) at ASM office testing and commissioning of TDM multiplexer. No required items like connectors, patch cords, wiring etc. are borne by the contractor Date: 2024.04.'52/16:42:41 +05:30 Date: 2024.04.02 +05:30 Dy.0 STE/C-I/SC Dy. CSTE/C/GTL",
+          "unit": "No",
+          "rate": 41962,
+          "chapter": 46
+        },
+        {
+          "item_no": "4628",
+          "description": "Supply, installation, testing and commissioning of managed expandable rack type STM-4, equipped STM-1, ADM S1.1, as per technical Specification no.GR No.: TEC/GR/TXISDA- 003/02/APR-2010 with 2 Nos.STM-1 aggregate Optical interface upgradable to STM-4, 21 Els, and minimum 8 Nos. of 10/100 base T Ethernet port, Order wire, Power supply unit, sub rack, DDF, Installation materials, manuals and other accessories. The equipment should be TEC/BSNL/RDSO approved.The equipment should be fully wired for its ultimate capacity and provide redundancy for Power supply and Synchronisation. It shall be possible to use the full capacity of the equipment by adding additional tributary cards. The up gradation of STM-1 to STM-4 shall be without change of any internal hardware of the STM equipment. The STM equipment shall have in-built L2 switch for Ethernet ports. Make -Tejas or similar.",
+          "unit": "No",
+          "rate": 311694,
+          "chapter": 46
+        },
+        {
+          "item_no": "4629",
+          "description": "Supply, installation, testing & commissioning of LI (Optical) card for branching for STM-1 suitable for working STM in the deployed section.",
+          "unit": "No",
+          "rate": 43247,
+          "chapter": 46
+        },
+        {
+          "item_no": "4630",
+          "description": "Supply and installation of programmable Primary Digital Drop Insert Multiplexer fully wired for 30 Channels complete with all accessories from RDSO approved vendor as per RDSO specification IRS TC 68-2012 Rev.0 (with latest amendment) including connectors and cables required 91 channel card shall have minimum four channels per card. The single sub rack shall be capable of being equipped up to mm. 60 Channels without additional power supply unit. The MUX shall be wired & equipped with following circuits: 1. 2 Wire/4 Wire E&M VF circuits (Minimum 16 No. Ckts) 2. FXO circuits: 6 nos. 3. FXS circuits Subs/Hotline circuits along with ringer card etc.: 08 No's 4. Acquisition card as per design 5. Data User manual. 6. This also includes connecting all pigtails, optical patch cords etc to the SDH equipments. This also includes connection of SDH and primary MUX equipment with all interface cards to the 48V Bus including termination on DDF taking PVC cable over runway or a wall and termination of VF interface circuits to the Krone Termination box.",
+          "unit": "No",
+          "rate": 274869,
+          "chapter": 46
+        },
+        {
+          "item_no": "4631",
+          "description": "Supply, Installation, testing & commissioning of LI Electrical card for branching of ADM/ (supporting STM-1) as per detailed Technical Specification.",
+          "unit": "No",
+          "rate": 51411,
+          "chapter": 46
+        },
+        {
+          "item_no": "4632",
+          "description": "Supply of FXO (exchange end interface card) as per specification No. lRS-TC 68/2012 rev.o amd.1 with latest amendments, to be installed in Primary Drop insert Multiplexer having minimum 8 channels per station.",
+          "unit": "No",
+          "rate": 71031,
+          "chapter": 46
+        },
+        {
+          "item_no": "4633",
+          "description": "Supply of FXS (subscriber line or hot line interface card) as per specification No. IRS-TC 68/2012 rev.0 amd.1 with latest amendments to be installed in Primary Drop Insert Multiplexer. Facility to drop 4 channels per station should be available.",
+          "unit": "No",
+          "rate": 80730,
+          "chapter": 46
+        },
+        {
+          "item_no": "4634",
+          "description": "Supply of interface cards for 2wire/4wire E&M,4 VF interface card as per specification No. lRS-TC 68/2012 rev.0 amd.1 with latest amendments (in omnibus or point to point mode for 24 channels. Number of cards are to be calculated as per the note given below) NOTE: A total of 24 circuits are to be dropped in omnibus mode or point to point at each primary drop insert multiplexer. The cards offered by the manufacturer may have different capacity, i.e. 4 channels or 8 channels per card. The number of cards to be supplied should be sufficient to drop 24 channels at each primary drop insert multiplexer. The capacity of each card should also be clearly mentioned. The unit given for this item is number of stations. The required no. of cards is to be calculated and quoted accordingly. Other Miscellaneous Telecom Items",
+          "unit": "No",
+          "rate": 118752,
+          "chapter": 46
+        },
+        {
+          "item_no": "4635",
+          "description": "Installation of power supply unit (230V AC input, 12V DC output and 7AH battery) at ASM office.",
+          "unit": "Set",
+          "rate": 426,
+          "chapter": 46
+        },
+        {
+          "item_no": "4636",
+          "description": "Installation, testing and commissioning of TDM multiplexer. All required items like connectors, patch cords, wiring etc. are 92",
+          "unit": "No",
+          "rate": 3700,
+          "chapter": 46
+        },
+        {
+          "item_no": "4637",
+          "description": "Digging of cable pit for the required depth and width to locate the cable at a specific location shown by the Railway Engineer at site to attend the cable fault and refilling the same after attending the cable fault by the department",
+          "unit": "No",
+          "rate": 1142,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (a)",
+          "description": "Maintenance of 6 quad cables till handing over or at least Replacement of EC socket wherever found missing broken or defective in the above section as per technical specification. EC socket will be provided by Railway",
+          "unit": "No",
+          "rate": 249,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (b)",
+          "description": "Maintenance of 6 quad cables till handing over or at least Replacement of EC box with top plate for mounting rectangular 6 pin EC socket in the above section as per technical specification. EC box will be provided by Railway.",
+          "unit": "No",
+          "rate": 870,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (c)",
+          "description": "Maintenance of 6 quad cables till handing over or at least Localisation and restoration of fault at /beneath EC socket as per technical specification. This include testing of EC socket, finding fault with fault locator, Taking out underground derivative joint, Restoration of derivative joint and safeguarding derivative joint in ground.",
+          "unit": "Per Location",
+          "rate": 7703,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (d)",
+          "description": "Maintenance of 6 quad cables till handing over or at least Localisation and restoration of fault on main cable as per technical specification. This involves localisation of fault with fault locator, digging out coil pit, jointing cable (Jointing Kit will be provided by Railways) and closing of coil pit.",
+          "unit": "Per Location",
+          "rate": 10041,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (e)",
+          "description": "Maintenance of 6 quad cables till handing over or at least Periodical testing of underground 6 quad cables in all the block sections once in every month as per technical specification and instructions of engineer in charge.",
+          "unit": "Per Block Section",
+          "rate": 916,
+          "chapter": 46
+        },
+        {
+          "item_no": "4639",
+          "description": "Fixing of Driver's telephone box on lB post and Master Telephone on SM table.",
+          "unit": "No",
+          "rate": 1011,
+          "chapter": 46
+        },
+        {
+          "item_no": "4640",
+          "description": "Supply & erection of lattice type tripod towers of GI 15 meters of height as per SCR Drawing No. SC 23000- 23012, casting of foundation with 1:2:4, 20mm metal and river sand to be used. Provision of earth electrode near the tower and connect the same to tower which is to be erected above the station building/at the site shown by the site Engineer of the Railways. Cement shall be supplied by Rlys. Work includes installation of the antenna, drawing the cable and installation of the battery and 25W set and commissioning the system. 25W set, cable, antenna, battery will be supplied by Rlys.",
+          "unit": "No",
+          "rate": 41930,
+          "chapter": 46
+        },
+        {
+          "item_no": "4641",
+          "description": "Supply and installation of ONVIF 4MP IR bullet camera with Veri focal Lenses of similar to Model No. DH-IPC- HFW2231 RP-ZS-1RE6 and compatible to work with Dahua/Hiki vision/CP Plus/ Honeywell make NVR with 93",
+          "unit": "No",
+          "rate": 19303,
+          "chapter": 46
+        },
+        {
+          "item_no": "4642",
+          "description": "Supply and installation of ONVIF 16 Channel NVR similar to Model No. 4416-4K82 series along with required licensed video management software compatible to work with Dahua/Hiki vision/CP Plus! Honeywell make 4 MP Bullet cameras.",
+          "unit": "No",
+          "rate": 30887,
+          "chapter": 46
+        },
+        {
+          "item_no": "4643",
+          "description": "Installation and commissioning charges (installation and configuration for video ip camera",
+          "unit": "No",
+          "rate": 3000,
+          "chapter": 46
+        }
+      ]
+    },
+    "47": {
+      "name": "TCAS (KAVACH)",
+      "items": [
+        {
+          "item_no": "4701",
+          "description": "Supply (Including 10% Spares), Installation & Commissioning of station TCAS Equipment with suitable Rack consisting of Vital computer peripherals, 2 full duplex Radio modems, OFC modems, UHF antenna, GPS and GSM antenna and interfaces as per RDSO/SPN/196/2012 Set 3813170 Version 3.2 or latest. This also includes earthing (Earth resistance less than 1 ohm) as per RDSO specification RDSO/SPN/ 197 Ver. 1 .0, wiring of Electrical/Quad/Optical cable, relay wiring, connecting of SMOCIP from station TCAS, supply of tool kit and interlocking of relays including DC-DC converter and suitable power supply arrangement. Supply of earthing material and supply of relays is covered",
+          "unit": "Set",
+          "rate": 3813170,
+          "chapter": 47
+        },
+        {
+          "item_no": "4702",
+          "description": "Supply (Including 20% Spares), Installation, Programming, Verification and Commissioning of RFID tags with enclosures and fixtures at Stations and block sections. Station & adjoining block section will be counted as one set. This should comply with RDSO/SPN/196/ 2012 Version 3.2 or latest.",
+          "unit": "Set",
+          "rate": 1025892,
+          "chapter": 47
+        },
+        {
+          "item_no": "4703",
+          "description": "Supply (Including Spares), Installation & Commission of LC TCAS Equipment consisting of Vital computer peripherals, 2 full duplex Radio modems, UHF antenna, OFC modems, GPS and GSM antenna and interfaces as per RDSO/SPN/196/ 2012 Version 3.2 or latest. This also includes earthing (Earth resistance less than 1 ohm) as per RDSO specification RDSO/SPN/197 Ver. 1.0, wiring of Electrical/Quad/Optical cable, relay wiring, supply of tool kit and interlocking of relays including DC-DC converter and suitable power supply arrangement. Supply of earthing material and supply of relays is covered separately.",
+          "unit": "Set",
+          "rate": 2578300,
+          "chapter": 47
+        },
+        {
+          "item_no": "4704",
+          "description": "Supply (Including 10% Spares), Installation & Commissioning of station TCAS RIU (Remote Interface unit) with at least 32 Field I/P's as per RDSO/SPN/196/2012 Version 3.2 or latest. The RIU should have provision of OFC OR Quad Interface and should be connected to central TCAS in a Ring network. This includes supply and installation of all modems, OFC termination box for 24 fibres, interface, Earthing, Wiring & Signal functions etc.",
+          "unit": "Set",
+          "rate": 1017750,
+          "chapter": 47
+        },
+        {
+          "item_no": "4705 (a)",
+          "description": "Locomotive Equipment Supply (Including 10% Spares), Installation & Commissioning of Locomotive (on board) TCAS Equipment consisting of Vital computer & peripherals such as Driver Machine interface, 2 RFID Readers, 2 full duplex Radio modems, 4 UHF antenna, 2 GPS and GSM antenna, two number of Pulse generatorlWheel Sensor with 95 supply arrangement, excluding Brake interface unit. This should comply with RDSO/SPN/196 /2012 Version 3.2 or latest",
+          "unit": "Set",
+          "rate": 3935300,
+          "chapter": 47
+        },
+        {
+          "item_no": "4705 (b)",
+          "description": "Locomotive Equipment Supply, installation and commissioning of Brake Interface unit suitable for different locomotives as per RDSO/SPN/196/2012 Version 3.2 or latest.",
+          "unit": "Set",
+          "rate": 1302720,
+          "chapter": 47
+        },
+        {
+          "item_no": "4706",
+          "description": "Supply, installation and commissioning of Test Bench for Loco equipment (Diesel/Electric) as per RDSO letter No. STS/E/TCAS/ Tender! Part -IX dated 03.02.2016 or latest",
+          "unit": "Set",
+          "rate": 3830811,
+          "chapter": 47
+        },
+        {
+          "item_no": "4707",
+          "description": "Supply of kit for configuring, programming and downloading RFID Tag data as per RDSO issued guidelines.",
+          "unit": "Set",
+          "rate": 882050,
+          "chapter": 47
+        },
+        {
+          "item_no": "4708",
+          "description": "Supply, installation and commissioning of Test Bench for Station TCAS equipment as per RDSO/SPN!196/2012 Version 3.2 or latest.",
+          "unit": "Set",
+          "rate": 1723390,
+          "chapter": 47
+        },
+        {
+          "item_no": "4709",
+          "description": "Supply, installation and commissioning of Network Management System for Centralized monitoring of TCAS station and Loco equipment as per RDSO!SPN/196/ 2012 Version 3.2 or latest.",
+          "unit": "Set",
+          "rate": 7192100,
+          "chapter": 47
+        },
+        {
+          "item_no": "4710",
+          "description": "Supply, Installation and Commissioning of kit for configuring, programming and downloading the execution and application data for Loco equipment.",
+          "unit": "Set",
+          "rate": 240144,
+          "chapter": 47
+        },
+        {
+          "item_no": "4711",
+          "description": "Supply, Installation and commissioning of kit for configuring, programming and downloading execution and application data for Stationary Station TCAS equipment.",
+          "unit": "Set",
+          "rate": 240144,
+          "chapter": 47
+        },
+        {
+          "item_no": "4712",
+          "description": "Testing, commissioning of TCAS system in the entire system. It includes Carrying out FAT I SAT testing, Loco dynamic trials, pre-commissioning activities as per RDSO approved Pre-Commissioning Check List, commissioning of TCAS system in the entire section.",
+          "unit": "RKM",
+          "rate": 33294,
+          "chapter": 47
+        },
+        {
+          "item_no": "4713",
+          "description": "Supply and erection of 40m lattice tower for radio communication and tower foundation works includes the following: i. Site survey and desktop RSSI to finalise location of tower erection and submission of proposal of tower location with finalised RSSl survey reports for the approval of railway. ii. Preparation and submission of designs for Tower foundation and tower structure of 40 meter height for the given wind speed as per IS 873 Part 3 with Factor of Safety 2.0 & Proof checking of designs by reputed third party like Indian Institute of Technology, CPRI etc. iii. Submission of design basis and Proof checked designs for railway approval.",
+          "unit": "No",
+          "rate": 1709726,
+          "chapter": 47
+        }
+      ]
+    }
+  }
+}

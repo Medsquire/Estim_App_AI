@@ -1,0 +1,106 @@
+<c-row>
+  <c-col xs="12">
+    <c-card class="mb-4">
+      <c-card-header>
+        <div class="d-flex justify-content-between align-items-center">
+          <strong>Quotations List</strong>
+          <button cButton color="primary" size="sm" (click)="addNewQuotation()">
+            <svg cIcon name="cilPlus" class="me-1"></svg>
+            New Quotation
+          </button>
+        </div>
+      </c-card-header>
+      <c-card-body>
+        <div class="table-responsive">
+          <table cTable hover striped>
+            <thead>
+              <tr>
+                <th>Code</th>
+                <th>Vendor Name</th>
+                <th>Items List</th>
+                <th>Expiry Date</th>
+                <th>Created By</th>
+                <th>Created Date</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let quotation of paginatedQuotations">
+                <td>{{ quotation.code }}</td>
+                <td>{{ quotation.vendorName }}</td>
+                <td>{{ quotation.itemsList }}</td>
+                <td>{{ quotation.expiryDate }}</td>
+                <td>{{ quotation.createdBy }}</td>
+                <td>{{ quotation.createdDate }}</td>
+                <td>
+                  <button cButton color="info" size="sm" class="me-1" (click)="editQuotation(quotation)">
+                    <svg cIcon name="cilPencil"></svg>
+                  </button>
+                  <button cButton color="danger" size="sm" (click)="deleteQuotation(quotation)">
+                    <svg cIcon name="cilTrash"></svg>
+                  </button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Pagination -->
+        <div class="d-flex justify-content-between align-items-center mt-3">
+          <span>Showing {{ (currentPage - 1) * itemsPerPage + 1 }} to {{ currentPage * itemsPerPage > quotations.length ? quotations.length : currentPage * itemsPerPage }} of {{ quotations.length }} entries</span>
+          <c-pagination>
+            <li cPageItem [disabled]="currentPage === 1">
+              <a cPageLink (click)="goToPage(currentPage - 1)">Previous</a>
+            </li>
+            <li *ngFor="let page of pages" cPageItem [active]="page === currentPage">
+              <a cPageLink (click)="goToPage(page)">{{ page }}</a>
+            </li>
+            <li cPageItem [disabled]="currentPage === totalPages">
+              <a cPageLink (click)="goToPage(currentPage + 1)">Next</a>
+            </li>
+          </c-pagination>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<!-- New Quotation Modal -->
+<c-modal [visible]="modalVisible" (visibleChange)="handleModalVisibilityChange($event)">
+  <c-modal-header>
+    <h5 cModalTitle>Add New Quotation</h5>
+    <button cButtonClose (click)="toggleModal()"></button>
+  </c-modal-header>
+  <c-modal-body>
+    <form cForm [formGroup]="quotationForm">
+      <div class="mb-3">
+        <label cFormLabel>Code <span class="text-danger">*</span></label>
+        <input cFormControl formControlName="code" placeholder="Enter code" />
+      </div>
+      <div class="mb-3">
+        <label cFormLabel>Vendor Name <span class="text-danger">*</span></label>
+        <input cFormControl formControlName="vendorName" placeholder="Enter vendor name" />
+      </div>
+      <div class="mb-3">
+        <label cFormLabel>Items List <span class="text-danger">*</span></label>
+        <input cFormControl formControlName="itemsList" placeholder="Enter items (comma separated)" />
+      </div>
+      <div class="mb-3">
+        <label cFormLabel>Expiry Date <span class="text-danger">*</span></label>
+        <input cFormControl type="date" formControlName="expiryDate" />
+      </div>
+      <div class="mb-3">
+        <label cFormLabel>Created By <span class="text-danger">*</span></label>
+        <input cFormControl formControlName="createdBy" placeholder="Enter creator name" />
+      </div>
+      <div class="mb-3">
+        <label cFormLabel>Created Date <span class="text-danger">*</span></label>
+        <input cFormControl type="date" formControlName="createdDate" />
+      </div>
+    </form>
+  </c-modal-body>
+  <c-modal-footer>
+    <button cButton color="secondary" (click)="toggleModal()">Cancel</button>
+    <button cButton color="primary" [disabled]="!quotationForm.valid" (click)="saveQuotation()">Save Quotation</button>
+  </c-modal-footer>
+</c-modal>

@@ -1,0 +1,853 @@
+<c-row>
+  <c-col xs="12">
+    <c-card class="mb-4">
+      <c-card-header class="d-flex justify-content-between align-items-center">
+        <strong>Work Details</strong>
+        <button cButton color="secondary" (click)="goBack()">
+          <svg cIcon name="cilArrowLeft" class="me-2"></svg>
+          Back to List
+        </button>
+      </c-card-header>
+      <c-card-body>
+        <div *ngIf="estimation; else notFound">
+
+          <!-- Work Details Table -->
+          <table cTable bordered responsive>
+            <thead>
+              <tr>
+                <th>Estim No</th> 
+                <th>File No</th>
+                <th>PH</th>
+                <th>Work Name</th>
+                <th>S & T Cost</th>
+                <th>Stores Cost</th>
+                <th>RCIL Provision</th>
+                <th>Status</th>
+                <th>Remarks</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <input
+                    type="text"
+                    class="form-control form-control-sm"
+                    [(ngModel)]="estimation.estimNo"
+                    placeholder="Estim No"
+                    (blur)="onSaveEstimationDetails()"
+                    (keyup.enter)="onSaveEstimationDetails()"
+                  />
+                </td>
+                <td>
+                  <input
+                    type="text"
+                    class="form-control form-control-sm"
+                    [(ngModel)]="estimation.fileNo"
+                    placeholder="EST-001"
+                    (blur)="onSaveEstimationDetails()"
+                    (keyup.enter)="onSaveEstimationDetails()"
+                  />
+                </td>
+                <td>
+                  <input
+                    type="text"
+                    class="form-control form-control-sm"
+                    [(ngModel)]="estimation.ph"
+                    placeholder="PH"
+                    (blur)="onSaveEstimationDetails()"
+                    (keyup.enter)="onSaveEstimationDetails()"
+                  />
+                </td>
+                <td>
+                  <input
+                    type="text"
+                    class="form-control form-control-sm"
+                    [(ngModel)]="estimation.workName"
+                    placeholder="Work Name"
+                    (blur)="onSaveEstimationDetails()"
+                    (keyup.enter)="onSaveEstimationDetails()"
+                  />
+                </td>
+                <td class="text-primary">₹ {{ estimation.stCost | number }}</td>
+                <td class="text-primary">₹ {{ estimation.storesCost | number }}</td>
+                <td class="text-success fw-semibold">₹ {{ estimation.rcilProvision | number }}</td>
+                <td><c-badge [color]="getStatusColor(estimation.status)">{{ estimation.status }}</c-badge></td>
+                <td>{{ estimation.remarks || '-' }}</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <!-- Tab Navigation -->
+          <c-nav variant="tabs" class="mt-4">
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'letter'" (click)="activeTab = 'letter'" style="cursor: pointer;">
+                Letter from Concerned Dept.
+              </a>
+            </c-nav-item>
+
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'excel'" (click)="activeTab = 'excel'" style="cursor: pointer;">
+                Inventory
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'drawing'" (click)="activeTab = 'drawing'" style="cursor: pointer;">
+                Drawing Information
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'covering'" (click)="activeTab = 'covering'" style="cursor: pointer;">
+                Covering Letter
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'justification'" (click)="activeTab = 'justification'"
+                style="cursor: pointer;">
+                Justification
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'drm'" (click)="activeTab = 'drm'" style="cursor: pointer;">
+                DRM Approval
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'tdc'" (click)="activeTab = 'tdc'" style="cursor: pointer;">
+                TDC of Work
+              </a>
+            </c-nav-item>
+            <c-nav-item>
+              <a cNavLink [active]="activeTab === 'quotation'" (click)="activeTab = 'quotation'"
+                style="cursor: pointer;">
+                Quotation and Reff
+              </a>
+            </c-nav-item>
+          </c-nav>
+
+          <!-- Tab Content -->
+          <div class="border border-top-0 p-3">
+
+            <div *ngIf="activeTab === 'letter'">
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="mb-0">Letter from Concerned Dept.</h5>
+                <div class="d-flex gap-2">
+                  <input #letterFileInput type="file" accept="application/pdf" class="d-none"
+                    (change)="onLetterFileUpload($event)" />
+                  <button cButton color="primary" size="sm" (click)="triggerLetterUpload()"
+                    [disabled]="isLetterPdfDisplayed">
+                    Upload LOC PDF
+                  </button>
+                  <button cButton color="secondary" size="sm" (click)="useStaticLetterPdf()"
+                    [disabled]="isLetterPdfDisplayed">
+                    Use Static LOC
+                  </button>
+                </div>
+              </div>
+              <div class="ratio ratio-16x9 border shadow-sm bg-white position-relative"
+                *ngIf="letterPdfLoading || safeLetterPdfUrl; else noPdf">
+                <iframe *ngIf="safeLetterPdfUrl && !letterPdfLoading" [src]="safeLetterPdfUrl"
+                  title="Letter from Concerned Dept." allowfullscreen></iframe>
+                <div *ngIf="letterPdfLoading" class="letter-pdf-loading-overlay">
+                  <div class="text-center px-4">
+                    <div class="spinner-border text-primary mb-3" role="status" aria-hidden="true"></div>
+                    <p class="mb-2 fw-semibold text-primary">Loading static PDF...</p>
+                    <div class="progress mx-auto" style="width: 280px; height: 10px;">
+                      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+                        [style.width.%]="letterPdfLoadProgress" [attr.aria-valuenow]="letterPdfLoadProgress"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <small class="text-muted d-block mt-2">{{ letterPdfLoadProgress }}%</small>
+                  </div>
+                </div>
+              </div>
+              <ng-template #noPdf>
+                <div class="border shadow-sm d-flex align-items-center justify-content-center bg-light text-secondary"
+                  style="height: 400px; border-radius: 4px;">
+                  <div class="text-center">
+                    <svg cIcon name="cilCloudUpload" size="3xl" class="mb-3 text-secondary opacity-50"></svg>
+                    <p class="mb-0 fw-semibold fs-5">Static PDF unavailable</p>
+                    <small>Upload a LOC PDF, or verify uploads/LOC_files/Letter from conseren dep.pdf exists.</small>
+                  </div>
+                </div>
+              </ng-template>
+            </div>
+
+
+
+            <div *ngIf="activeTab === 'excel'">
+              <div>
+                <div class="d-flex justify-content-end gap-2 mb-3">
+                  <button cButton color="secondary" size="sm" (click)="printInventoryTable()"
+                    [disabled]="!addedInventoryItems.length" title="Print inventory table">
+                    <svg cIcon name="cilPrint" class="me-1"></svg>
+                    Print
+                  </button>
+                  <button cButton color="success" size="sm" (click)="downloadInventoryTable()"
+                    [disabled]="!addedInventoryItems.length" title="Download inventory table">
+                    <svg cIcon name="cilCloudDownload" class="me-1"></svg>
+                    Download
+                  </button>
+                </div>
+
+                <div class="d-flex flex-wrap align-items-end gap-3 mb-3">
+                  <div class="position-relative flex-grow-1" style="min-width: 320px; max-width: 800px;">
+                    <label class="form-label small text-body-secondary mb-1">Search</label>
+                    <input #searchInput type="text" class="form-control" placeholder="Inventory search"
+                      [(ngModel)]="inventorySearchQuery" />
+                    <ul *ngIf="showInventoryResults && filteredInventoryItems.length && !isInventorySelectionComplete"
+                      class="list-group position-absolute top-100 start-0 end-0 mt-1 shadow-sm z-1"
+                      style="max-height: 280px; overflow-y: auto;">
+                      <li *ngFor="let item of filteredInventoryItems"
+                        class="list-group-item list-group-item-action py-2" (click)="selectInventoryItem(item)"
+                        style="cursor: pointer;">
+                        <div class="d-flex justify-content-between align-items-start gap-3">
+                          <div class="small flex-grow-1 text-wrap">{{ item.description }}</div>
+                          <div class="text-end flex-shrink-0" style="min-width: 100px;">
+                            <div class="d-flex justify-content-end align-items-center gap-2 flex-wrap">
+                              <span class="badge border fw-normal" 
+                                [ngClass]="{
+                                  'bg-info-subtle text-info-emphasis border-info-subtle': item.reference.includes('118677'),
+                                  'bg-warning-subtle text-warning-emphasis border-warning-subtle': item.reference.includes('90468'),
+                                  'bg-success-subtle text-success-emphasis border-success-subtle': item.reference.includes('112449'),
+                                  'bg-light text-secondary': !item.reference || item.reference.includes('SOR')
+                                }">
+                                {{ item.reference.includes('118677') ? 'Zonal' : (item.reference.includes('90468') ? 'ABSS' : (item.reference.includes('112449') ? 'STTC' : 'SOR')) }}
+                              </span>
+                              <span *ngIf="getDisplayItemNo(item) as displayItemNo" class="x-small text-muted">Item {{ displayItemNo }}</span>
+                            </div>
+                            <div class="x-small text-muted mt-1">Sch {{ item.schedule }}</div>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                    <div
+                      *ngIf="showInventoryResults && filteredInventoryItems.length === 0 && !isInventorySelectionComplete"
+                      class="position-absolute top-100 start-0 end-0 mt-1 p-2 bg-light border rounded small text-body-secondary">
+                      No matching items.
+                    </div>
+                  </div>
+                  <div style="min-width: 80px;">
+                    <span class="form-label small text-body-secondary fw-medium d-block mb-1">Units</span>
+                    <div class="form-control-plaintext py-1 px-2 border rounded bg-light small">
+                      {{ selectedInventoryItem ? selectedInventoryItem.unit : '–' }}
+                    </div>
+                  </div>
+                  <div style="width: 100px;">
+                    <label class="form-label small text-body-secondary fw-medium d-block mb-1">Quantity</label>
+                    <input #quantityInput type="number" class="form-control form-control-sm" placeholder="Qty" min="0"
+                      step="any" [(ngModel)]="inventoryQuantity" (keyup.enter)="addInventoryItem()"
+                      style="width: 100px;" />
+                  </div>
+                  <div class="pb-1">
+                    <button cButton color="primary" size="sm" (click)="addInventoryItem()"
+                      [disabled]="!selectedInventoryItem || !inventoryQuantity" title="Add item">
+                      <svg cIcon name="cilPlus"></svg>
+                    </button>
+                  </div>
+                </div>
+                <!-- UNIFIED INVENTORY TABLE -->
+                <div *ngIf="addedInventoryItems.length" #inventoryPrintSection class="mt-4 table-responsive bg-white">
+                  <table class="table table-bordered border-dark table-sm mb-0 align-middle inventory-estimate-table">
+                    <colgroup>
+                      <col style="width: 5%" />
+                      <col style="width: 34%" />
+                      <col style="width: 7%" />
+                      <col style="width: 8%" />
+                      <col style="width: 14%" />
+                      <col style="width: 12%" />
+                      <col style="width: 10%" />
+                      <col class="inventory-col-actions" style="width: 10%" />
+                    </colgroup>
+                    <thead>
+                      <tr>
+                        <th colspan="3" class="bg-white text-dark text-start font-monospace small">Division:HYB</th>
+                        <th colspan="2" class="bg-white text-dark font-monospace small"></th>
+                        <th colspan="3" class="bg-white text-dark text-end font-monospace small">2025-2026</th>
+                      </tr>
+                      <tr>
+                        <th colspan="3" class="bg-white text-dark text-start font-monospace small">Department:S&T</th>
+                        <th colspan="2" class="bg-white text-dark font-monospace small"></th>
+                        <th colspan="3" class="bg-white text-dark font-monospace small"></th>
+                      </tr>
+                      <tr>
+                        <th colspan="3" class="bg-white text-dark text-start font-monospace small">Estimate No.
+                          Y/SG/Est/25-26</th>
+                        <th colspan="2" class="bg-white text-dark font-monospace small"></th>
+                        <th colspan="3" class="bg-white text-dark font-monospace small"></th>
+                      </tr>
+                      <tr>
+                        <th colspan="8" class="text-center bg-white text-dark font-monospace fw-bold fs-6 pt-3 pb-2">
+                          ABSTRACT ESTIMATE</th>
+                      </tr>
+                      <tr>
+                        <th colspan="8" class="bg-white text-dark text-center pb-3 font-monospace small fw-medium">
+                          <b>Name of the work:</b> {{ computedWorkName }}
+                        </th>
+                      </tr>
+                      <tr>
+                        <th class="bg-light text-center">S.No</th>
+                        <th class="bg-light text-center">Description</th>
+                        <th class="bg-light text-center">Qty</th>
+                        <th class="bg-light text-center">Unit</th>
+                        <th class="bg-light text-center">Rate</th>
+                        <th class="bg-light text-center">Total Rate</th>
+                        <th class="bg-light text-center inventory-reference-col">Reference</th>
+                        <th class="bg-light text-center inventory-actions-col">Actions</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr *ngFor="let entry of addedInventoryItems; let i = index">
+                        <td class="text-center fw-semibold">{{ i + 1 }}</td>
+                        <td class="inventory-description-cell">
+                          <div class="inventory-description-wrap">
+                            <div class="inventory-description-clamp">
+                              {{ entry.item.description }}
+                            </div>
+                            <div class="inventory-description-hover" role="tooltip">
+                              {{ entry.item.description }}
+                            </div>
+                          </div>
+                        </td>
+                        <td class="text-center">
+                          <div *ngIf="editingIndex !== i">
+                            {{ entry.quantity }}
+                          </div>
+                          <input *ngIf="editingIndex === i" type="number" class="form-control form-control-sm mx-auto"
+                            [(ngModel)]="editQuantity" style="width: 70px;" (keyup.enter)="saveEdit(i)" (keyup.escape)="cancelEdit()" />
+                        </td>
+                        <td class="text-center">{{ entry.item.unit }}</td>
+                        <td class="text-end">
+                          <ng-container *ngIf="!isSorInventoryEntry(entry); else sorDirectRate">
+                            <div class="small rate-calc-details" [class.rate-calc-below]="getBidRateOperator(entry) === '-'">
+                            ={{ getRateFormulaObject(entry).baseRate }}<span class="fw-bold" style="background-color: #fff3cd; padding: 0 4px; border-radius: 3px; color: #cc6600;">(Actual Rate)</span>*{{ getRateFormulaObject(entry).percent }}+{{ getRateFormulaObject(entry).closingRate }}
+                            </div>
+                            <div class="fw-bold rate-calc-result">= {{ getAdjustedRateInRs(entry) | number:'1.4-4' }}</div>
+                          </ng-container>
+                          <ng-template #sorDirectRate>
+                            <div class="fw-bold rate-calc-result">{{ entry.item.rateInRs | number:'1.4-4' }}</div>
+                          </ng-template>
+                        </td>
+                        <td class="text-end">{{ entry.quantity * getAdjustedRateInRs(entry) | number:'1.2-2' }}</td>
+                        <td class="inventory-reference-col">
+                          <div class="d-flex flex-wrap gap-2 justify-content-center">
+                            <a href="javascript:void(0)" class="text-primary text-decoration-underline"
+                              style="cursor: pointer;" (click)="viewReferencePdf(entry.item)"
+                              [title]="entry.item.reference">
+                              1st Pg.
+                            </a>
+                            <a *ngIf="entry.item.reference" href="javascript:void(0)" class="text-primary text-decoration-underline"
+                              style="cursor: pointer;" (click)="viewReferencePdfSchedule(entry.item)"
+                              [title]="entry.item.reference">
+                              {{ getReferenceMiddlePageLabel(entry.item) }}
+                            </a>
+                            <a *ngIf="entry.item.reference" href="javascript:void(0)" class="text-primary text-decoration-underline"
+                              style="cursor: pointer;" (click)="viewReferencePdfItem(entry.item)"
+                              [title]="entry.item.reference">
+                              Item Pg.
+                            </a>
+                          </div>
+                        </td>
+                        <td class="text-center inventory-actions-col">
+                          <div class="d-flex justify-content-center gap-2">
+                            <ng-container *ngIf="editingIndex !== i; else editingActions">
+                              <button cButton color="info" variant="ghost" size="sm" (click)="moveInventoryItemUp(i)" title="Move Up" [disabled]="i === 0">
+                                <svg cIcon name="cilArrowTop"></svg>
+                              </button>
+                              <button cButton color="info" variant="ghost" size="sm" (click)="moveInventoryItemDown(i)" title="Move Down" [disabled]="i === addedInventoryItems.length - 1">
+                                <svg cIcon name="cilArrowBottom"></svg>
+                              </button>
+                              <button cButton color="warning" variant="ghost" size="sm" (click)="startEdit(i, entry.quantity)" title="Edit Quantity">
+                                <svg cIcon name="cilPencil"></svg>
+                              </button>
+                              <button cButton color="danger" variant="ghost" size="sm" (click)="deleteInventoryItem(i)" title="Delete Item">
+                                <svg cIcon name="cilTrash"></svg>
+                              </button>
+                            </ng-container>
+                            <ng-template #editingActions>
+                              <button cButton color="success" variant="ghost" size="sm" (click)="saveEdit(i)" title="Save">
+                                <svg cIcon name="cilCheck"></svg>
+                              </button>
+                              <button cButton color="secondary" variant="ghost" size="sm" (click)="cancelEdit()" title="Cancel">
+                                <svg cIcon name="cilArrowLeft"></svg>
+                              </button>
+                            </ng-template>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr class="table-light">
+                        <td colspan="4" class="text-end fw-bold">Grand Total Sum (₹)</td>
+                        <td class="fw-bold text-end">{{ totalAddedInventoryPrice | number:'1.2-2' }}</td>
+                        <td colspan="2" class="inventory-total-spacer"></td>
+                        <td class="inventory-actions-spacer"></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+
+            <div *ngIf="activeTab === 'drawing'">
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="mb-0">Drawing Information</h5>
+                <button cButton color="primary" size="sm" (click)="triggerDrawingUpload()">
+                  <svg cIcon name="cilPlus" class="me-1"></svg>
+                  Upload Document
+                </button>
+                <input
+                  #drawingFileInput
+                  type="file"
+                  class="d-none"
+                  multiple
+                  accept=".pdf,.doc,.docx,.dwg,.dxf,.xls,.xlsx,.jpg,.jpeg,.png"
+                  (change)="onDrawingFileUpload($event)" />
+              </div>
+              <c-row>
+                <c-col *ngFor="let doc of documents" md="6" lg="4" class="mb-3">
+                  <c-card class="h-100">
+                    <c-card-header class="d-flex justify-content-between align-items-center py-2">
+                      <div class="d-flex align-items-center">
+                        <svg cIcon [name]="getDocumentIcon(doc.type)" class="me-2 text-primary" size="lg"></svg>
+                        <span class="fw-semibold">{{ doc.type }}</span>
+                      </div>
+                      <c-badge [color]="getStatusColor(doc.status)" size="sm">{{ doc.status }}</c-badge>
+                    </c-card-header>
+                    <c-card-body class="py-2">
+                      <h6 class="card-title mb-2">{{ doc.name }}</h6>
+                      <div class="text-body-secondary small">
+                        <div><strong>Uploaded:</strong> {{ doc.uploadDate }}</div>
+                        <div><strong>Size:</strong> {{ doc.size }}</div>
+                      </div>
+                    </c-card-body>
+                    <div class="card-footer bg-transparent border-top-0 pt-0 pb-2">
+                      <button cButton color="info" size="sm" variant="ghost" class="me-1" (click)="onViewDocument(doc)"
+                        title="View">
+                        <svg cIcon name="cilSearch"></svg> View
+                      </button>
+                      <button cButton color="success" size="sm" variant="ghost" (click)="onDownloadDocument(doc)"
+                        title="Download">
+                        <svg cIcon name="cilCloudDownload"></svg> Download
+                      </button>
+                    </div>
+                  </c-card>
+                </c-col>
+              </c-row>
+            </div>
+
+            <div *ngIf="activeTab === 'covering'">
+              <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom">
+                <h5 class="mb-0 text-primary">
+                  <svg cIcon name="cilEnvelopeOpen" class="me-2"></svg>
+                  Covering Letter
+                </h5>
+                <div class="d-flex gap-2">
+                  <button cButton color="outline-secondary" size="sm" onclick="window.print()">
+                    <svg cIcon name="cilPrint" class="me-1"></svg> Print
+                  </button>
+                  <button cButton color="primary" size="sm" (click)="onSaveCoveringLetter()">
+                    <svg cIcon name="cilSave" class="me-1"></svg> Save
+                  </button>
+                </div>
+              </div>
+
+              <!-- Document Style Container -->
+              <div class="bg-white p-5 border shadow-lg mx-auto mb-4" 
+                   style="max-width: 900px; min-height: 800px; font-family: 'Times New Roman', Times, serif; color: #000; line-height: 1.6;">
+                
+                <!-- Office Header -->
+                <div class="text-center mb-4">
+                  <div class="fw-bold" 
+                       style="font-family: inherit; font-size: 1.1rem; white-space: pre-line;">{{ coveringLetter.officeHeader }}</div>
+                </div>
+
+                <!-- Letter No and Date Layout -->
+                <div class="d-flex justify-content-between mb-4">
+                  <div class="d-flex align-items-center gap-1">
+                    <span class="fw-bold">No:</span>
+                    <input type="text" class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none" 
+                           [(ngModel)]="coveringLetter.letterNo" 
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 250px;">
+                  </div>
+                  <div class="d-flex align-items-center gap-1">
+                    <span class="fw-bold">Dt:</span>
+                    <input type="text" class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none text-end" 
+                           [(ngModel)]="coveringLetter.date" 
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 150px;">
+                  </div>
+                </div>
+
+                <!-- To Section -->
+                <div class="mb-4">
+                  <input type="text" class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none fw-bold" 
+                           [(ngModel)]="coveringLetter.to" 
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 100%;">
+                </div>
+
+                <!-- Subject and Ref -->
+                <div class="mb-4 ps-4">
+                  <div class="d-flex gap-2 mb-2">
+                    <span class="fw-bold">Sub: -</span>
+                    <textarea cFormControl 
+                              [(ngModel)]="coveringLetter.subject" 
+                              rows="2" 
+                              class="border-0 p-0 bg-transparent shadow-none flex-grow-1"
+                              style="resize: none; font-family: inherit; font-size: 1.1rem; border-color: transparent !important;"></textarea>
+                  </div>
+                  <div class="d-flex gap-2 mb-2">
+                    <span class="fw-bold">Name of the work: -</span>
+                    <input type="text"
+                           class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none"
+                           [value]="coveringLetter.subject"
+                           readonly
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 100%;">
+                  </div>
+                  <div class="d-flex gap-2">
+                    <span class="fw-bold">Ref: -</span>
+                    <input type="text" class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none" 
+                           [(ngModel)]="coveringLetter.reference" 
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 100%;">
+                  </div>
+                </div>
+
+                <!-- Divider Stars -->
+                <div class="text-center my-3">
+                  <span class="fw-bold" style="letter-spacing: 5px;">*****</span>
+                </div>
+
+                <!-- Body Textarea -->
+                <div class="mb-4">
+                  <textarea cFormControl 
+                            [(ngModel)]="coveringLetter.body" 
+                            rows="6" 
+                            class="border-0 p-0 text-justify bg-transparent shadow-none"
+                            style="resize: none; font-family: inherit; font-size: 1.1rem; border-color: transparent !important;"></textarea>
+                </div>
+
+                <!-- Bottom Details: Enclosure and Signatory -->
+                <div class="d-flex justify-content-between align-items-end mt-5 pt-3">
+
+                  <!-- Enclosure (left) -->
+                  <div class="d-flex align-items-start gap-1" style="width: 45%;">
+                    <span class="fw-bold">Encl:</span>
+                    <input type="text" class="form-control form-control-sm border-0 bg-transparent text-dark p-0 m-0 shadow-none"
+                           [(ngModel)]="coveringLetter.enclosure"
+                           style="font-family: inherit; font-size: 1.1rem; border-color: transparent !important; width: 100%;">
+                  </div>
+
+                  <!-- Signature Block (right) -->
+                  <div class="text-center" style="width: 45%;">
+
+                    <!-- Signature drawing area -->
+                    <div class="border-bottom border-dark mx-auto mb-1" style="height: 70px; width: 100%; position: relative;">
+                      <span class="text-body-secondary" style="font-size: 0.7rem; position: absolute; bottom: 2px; left: 50%; transform: translateX(-50%); white-space: nowrap;">(Signature &amp; Stamp)</span>
+                    </div>
+
+                    <!-- Name (editable) -->
+                    <input type="text"
+                           [(ngModel)]="coveringLetter.signatoryName"
+                           class="form-control form-control-sm border-0 bg-transparent text-dark text-center p-0 m-0 shadow-none fw-bold"
+                           style="font-family: inherit; font-size: 1.05rem; border-color: transparent !important; width: 100%;">
+
+                    <!-- Designation (editable) -->
+                    <input type="text"
+                           [(ngModel)]="coveringLetter.signatoryDesignation"
+                           class="form-control form-control-sm border-0 bg-transparent text-dark text-center p-0 m-0 shadow-none"
+                           style="font-family: inherit; font-size: 0.9rem; border-color: transparent !important; width: 100%;">
+
+                    <!-- Place / Date row -->
+                    <div class="d-flex justify-content-center gap-3 mt-2">
+                      <div class="d-flex align-items-center gap-1">
+                        <span class="fw-semibold" style="font-size: 0.85rem; white-space: nowrap;">Place:</span>
+                        <input type="text"
+                               [(ngModel)]="coveringLetter.signatoryPlace"
+                               class="form-control form-control-sm border-0 border-bottom rounded-0 bg-transparent text-dark p-0 shadow-none"
+                               style="font-family: inherit; font-size: 0.85rem; width: 110px;">
+                      </div>
+                      <div class="d-flex align-items-center gap-1">
+                        <span class="fw-semibold" style="font-size: 0.85rem; white-space: nowrap;">Date:</span>
+                        <input type="text"
+                               [(ngModel)]="coveringLetter.signatoryDate"
+                               placeholder="DD-MM-YYYY"
+                               class="form-control form-control-sm border-0 border-bottom rounded-0 bg-transparent text-dark p-0 shadow-none"
+                               style="font-family: inherit; font-size: 0.85rem; width: 110px;">
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <div *ngIf="activeTab === 'justification'">
+              <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom">
+                <h5 class="mb-0 text-primary">
+                  <svg cIcon name="cilDescription" class="me-2"></svg>
+                  Justification
+                </h5>
+                <div class="d-flex gap-2">
+                  <button cButton color="outline-secondary" size="sm" (click)="onPrintJustification()">
+                    <svg cIcon name="cilPrint" class="me-1"></svg> Print
+                  </button>
+                  <button cButton color="primary" size="sm" (click)="onSaveJustification()">
+                    <svg cIcon name="cilSave" class="me-1"></svg> Save
+                  </button>
+                </div>
+              </div>
+              
+              <div class="bg-white p-5 border shadow-lg mx-auto mb-4" 
+                   style="max-width: 900px; min-height: 800px; font-family: 'Times New Roman', Times, serif; color: #000; line-height: 1.6;">
+                
+                <!-- Center Title -->
+                <div class="text-center mb-5">
+                  <h4 class="fw-bold text-decoration-underline mb-1" style="font-size: 1.4rem;">Justification</h4>
+                </div>
+
+                <!-- Name of Work Section -->
+                <div class="mb-4 text-justify">
+                  <span class="fw-bold" style="font-size: 1.1rem;">Name of the work:</span>
+                  <p class="mb-0 d-inline ms-1">{{ computedWorkName }}</p>
+                </div>
+
+                <!-- Divider Stars -->
+                <div class="text-center my-4">
+                  <span class="fw-bold" style="letter-spacing: 5px;">*******</span>
+                </div>
+
+                <!-- Body Content -->
+                <div class="mb-5">
+                  <textarea cFormControl 
+                            [(ngModel)]="justification.body" 
+                            rows="12" 
+                            class="border-0 p-0 text-justify bg-transparent shadow-none"
+                            style="resize: none; font-family: inherit; font-size: 1.1rem; border-color: transparent !important;"></textarea>
+                </div>
+
+                <!-- Signature Block -->
+                <div class="d-flex justify-content-end mt-5 pt-3">
+                  <div class="text-center" style="width: 45%;">
+
+                    <!-- Signature drawing area -->
+                    <div class="border-bottom border-dark mx-auto mb-1" style="height: 70px; width: 100%; position: relative;">
+                      <span class="text-body-secondary" style="font-size: 0.7rem; position: absolute; bottom: 2px; left: 50%; transform: translateX(-50%); white-space: nowrap;">(Signature &amp; Stamp)</span>
+                    </div>
+
+                    <!-- Name -->
+                    <input type="text"
+                           [(ngModel)]="justification.signatoryName"
+                           class="form-control form-control-sm border-0 bg-transparent text-dark text-center p-0 m-0 shadow-none fw-bold"
+                           style="font-family: inherit; font-size: 1.05rem; border-color: transparent !important; width: 100%;">
+
+                    <!-- Designation -->
+                    <input type="text"
+                           [(ngModel)]="justification.signatoryDesignation"
+                           class="form-control form-control-sm border-0 bg-transparent text-dark text-center p-0 m-0 shadow-none"
+                           style="font-family: inherit; font-size: 0.9rem; border-color: transparent !important; width: 100%;">
+
+                    <!-- Place / Date row -->
+                    <div class="d-flex justify-content-center gap-3 mt-2">
+                      <div class="d-flex align-items-center gap-1">
+                        <span class="fw-semibold" style="font-size: 0.85rem; white-space: nowrap;">Place:</span>
+                        <input type="text"
+                               [(ngModel)]="justification.signatoryPlace"
+                               class="form-control form-control-sm border-0 border-bottom rounded-0 bg-transparent text-dark p-0 shadow-none"
+                               style="font-family: inherit; font-size: 0.85rem; width: 110px;">
+                      </div>
+                      <div class="d-flex align-items-center gap-1">
+                        <span class="fw-semibold" style="font-size: 0.85rem; white-space: nowrap;">Date:</span>
+                        <input type="text"
+                               [(ngModel)]="justification.signatoryDate"
+                               placeholder="DD-MM-YYYY"
+                               class="form-control form-control-sm border-0 border-bottom rounded-0 bg-transparent text-dark p-0 shadow-none"
+                               style="font-family: inherit; font-size: 0.85rem; width: 110px;">
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <!-- Editor Tip -->
+              <div class="alert alert-light border small text-muted mx-auto" style="max-width: 900px;">
+                <svg cIcon name="cilLightbulb" class="me-2 text-warning"></svg>
+                Tip: Click on the justification text above to edit it directly. The work name is automatically read from source documents.
+              </div>
+            </div>
+
+            <div *ngIf="activeTab === 'drm'">
+              <div class="d-flex justify-content-end gap-2 mb-3">
+                <button cButton color="secondary" size="sm" (click)="printDrmApproval()" title="Print DRM approval">
+                  <svg cIcon name="cilPrint" class="me-1"></svg>
+                  Print
+                </button>
+                <button cButton color="success" size="sm" (click)="downloadDrmApproval()" title="Download DRM approval">
+                  <svg cIcon name="cilCloudDownload" class="me-1"></svg>
+                  Download
+                </button>
+              </div>
+
+              <div #drmApprovalPrintSection class="bg-white p-5 border shadow-sm mx-auto"
+                style="max-width: 900px; font-family: Arial, sans-serif;">
+                <div class="mb-4">
+                  <div>No: Y/SG/WP/2025-26</div>
+                  <div>Date: 09-04-2026</div>
+                </div>
+
+                <h5 class="fw-bold text-decoration-underline mb-3">NOTE</h5>
+
+                <div class="mb-4 d-flex">
+                  <span class="fw-bold me-2">Sub:</span>
+                  <p class="mb-0">Hyderabad Division: - Work proposals for inclusion in Umbrella 2024-25 under Plan head
+                    - 3300 (S&T)</p>
+                </div>
+
+                <div class="text-center mb-4">*****</div>
+
+                <p class="mb-4 text-justify">
+                  The following works have been proposed for inclusion in Umbrella - 2024-25 under
+                  Plan head –3300 as advised by PCSTE/SC office. Accordingly, abstract estimate has been
+                  prepared and submitted along with justification.
+                </p>
+
+                <table class="table table-bordered border-dark align-middle">
+                  <thead>
+                    <tr>
+                      <th scope="col" style="width: 5%">Sl No</th>
+                      <th scope="col" style="width: 35%">Name of the work</th>
+                      <th scope="col" style="width: 20%">Approx.<br>Cost Rs. (in 000's)</th>
+                      <th scope="col" style="width: 40%">Justification</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td></td>
+                      <td class="fw-bold text-nowrap">PH-3300</td>
+                      <td></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td colspan="4">
+                        Main Umbrella Work: South Central Railway- Provision of KAVACH with communication backbone of
+                        LTE on balance routes of Indian Railways (PB-302/NR/2024-25)
+                      </td>
+                    </tr>
+                    <tr style="background-color: #9bc2e6;">
+                      <td>1</td>
+                      <td>{{ estimation.workName }}</td>
+                      <td>{{ (totalAddedInventoryPrice / 1000) | number:'1.2-2' }}</td>
+                      <td style="white-space: pre-wrap;">{{ justification.body }}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div *ngIf="activeTab === 'tdc'">
+              <h5>TDC of Work</h5>
+              <p class="text-body-secondary">TDC of work content will be displayed here.</p>
+            </div>
+            <div *ngIf="activeTab === 'quotation'">
+              <h5>Quotation and Reff</h5>
+              <p class="text-body-secondary">Quotation and reference content will be displayed here.</p>
+            </div>
+          </div>
+        </div>
+
+        <ng-template #notFound>
+          <div class="text-center py-5">
+            <h4 class="text-body-secondary">Work not found</h4>
+            <p>The requested estimation with File No "{{ fileNo }}" could not be found.</p>
+            <button cButton color="primary" (click)="goBack()">Go Back</button>
+          </div>
+        </ng-template>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<!-- Reference PDF View Modal -->
+<c-modal id="referencePdfModal" [visible]="isPdfModalVisible" (visibleChange)="handlePdfModalChange($event)" size="xl">
+  <c-modal-header>
+    <h5 cModalTitle>{{ selectedDocumentType || 'Reference Document' }}</h5>
+    <button cButtonClose (click)="closePdfModal()"></button>
+  </c-modal-header>
+
+  <c-modal-body style="padding: 0; background: #525659; min-height: 480px; position: relative;">
+
+    <div class="pdf-reference-summary px-3 py-3 border-bottom bg-white">
+      <div class="row g-3 small align-items-start">
+        <div class="col-md-4">
+          <div class="text-body-secondary text-uppercase fw-semibold">Reference</div>
+          <div class="fw-semibold">{{ selectedReferenceItem?.reference || 'Not available' }}</div>
+        </div>
+        <div class="col-md-2">
+          <div class="text-body-secondary text-uppercase fw-semibold">Schedule</div>
+          <div class="fw-semibold">{{ selectedReferenceItem?.schedule || 'N/A' }}</div>
+        </div>
+        <div class="col-md-3">
+          <div class="text-body-secondary text-uppercase fw-semibold">Opened Page</div>
+          <div class="fw-semibold">Page {{ currentPdfPage }}</div>
+          <div class="text-body-secondary">{{ pdfPageReason }}</div>
+        </div>
+        <div class="col-md-3">
+          <div class="text-body-secondary text-uppercase fw-semibold">Highlight Status</div>
+          <div class="fw-semibold" [class.text-success]="pdfHighlightFound" [class.text-warning]="!pdfHighlightFound">
+            {{ pdfHighlightFound ? 'Match found' : 'No clear match yet' }}
+          </div>
+          <div class="text-body-secondary">{{ pdfHighlightStatus }}</div>
+        </div>
+      </div>
+      <div class="mt-3 small">
+        <div class="text-body-secondary text-uppercase fw-semibold">Description Used For Matching</div>
+        <div class="pdf-search-context">{{ referenceSearchTerm || 'No description available' }}</div>
+      </div>
+      <div class="mt-2 small" *ngIf="pdfMatchedSnippet">
+        <div class="text-body-secondary text-uppercase fw-semibold">Matched Text Preview</div>
+        <div class="pdf-match-preview">{{ pdfMatchedSnippet }}</div>
+      </div>
+    </div>
+
+    <!-- Canvas scroll area: always in DOM when modal is open so ViewChild can resolve -->
+    <div #pdfScrollContainer style="overflow-y: auto; max-height: 76vh; padding: 12px 16px;">
+      <div class="small fw-semibold text-body-secondary text-uppercase mb-2">Reference Page View</div>
+      <canvas #pdfCanvas style="display: block; margin: 0 auto; box-shadow: 0 2px 14px rgba(0,0,0,0.55);"></canvas>
+    </div>
+
+  </c-modal-body>
+
+  <!-- Page navigation footer -->
+  <c-modal-footer *ngIf="totalPdfPages > 0" class="d-flex justify-content-center align-items-center gap-3 py-2">
+    <button cButton color="outline-secondary" size="sm"
+            [disabled]="currentPdfPage <= 1"
+            (click)="navigatePdfPage(-1)">
+      ‹ Prev
+    </button>
+    <span class="text-body-secondary small fw-semibold">Page {{ currentPdfPage }} / {{ totalPdfPages }}</span>
+    <button cButton color="outline-secondary" size="sm"
+            [disabled]="currentPdfPage >= totalPdfPages"
+            (click)="navigatePdfPage(1)">
+      Next ›
+    </button>
+  </c-modal-footer>
+</c-modal>
+
+<!-- Calculation Modal -->
+<c-modal id="calculationModal" [visible]="calculationModalVisible" (visibleChange)="calculationModalVisible = $event" size="sm">
+  <c-modal-header>
+    <h5 cModalTitle>Amount Calculation</h5>
+    <button cButtonClose (click)="closeCalculationModal()"></button>
+  </c-modal-header>
+  <c-modal-body>
+    <div *ngIf="selectedCalculationEntry as entry" class="small">
+      <div class="mb-2"><strong>Item:</strong> {{ entry.item.description }}</div>
+      <div class="mb-2"><strong>Qty:</strong> {{ entry.quantity | number:'1.2-2' }}</div>
+      <div class="mb-2"><strong>Rate (Rs):</strong> {{ entry.item.rateInRs | number:'1.2-2' }}</div>
+      <div class="mb-2"><strong>Bid Rate:</strong> {{ calculationBidRateLabel }}</div>
+      <hr class="my-2" />
+      <div class="mb-1"><strong>Qty:</strong> {{ entry.quantity | number:'1.2-2' }} × {{ entry.item.rateInRs | number:'1.2-2' }} = {{ calculationBaseAmount | number:'1.2-2' }}</div>
+      <div class="mb-1"><strong>Rate:</strong> {{ calculationBidRateAdjustment | number:'1.4-4' }}</div>
+      <div class="mt-2 fs-6"><strong>Total in Rs:</strong> {{ calculationTotalAmount | number:'1.2-2' }}</div>
+    </div>
+  </c-modal-body>
+  <c-modal-footer>
+    <button cButton color="secondary" size="sm" (click)="closeCalculationModal()">Close</button>
+  </c-modal-footer>
+</c-modal>

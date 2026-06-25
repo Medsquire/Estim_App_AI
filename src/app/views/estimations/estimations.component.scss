@@ -1,0 +1,77 @@
+/* Estimations component styles */
+
+:host ::ng-deep .modal-backdrop.show {
+	backdrop-filter: none !important;
+	-webkit-backdrop-filter: none !important;
+	background-color: rgba(0, 0, 0, 0.45) !important;
+}
+
+.estimations-table-wrap {
+	width: 100%;
+	overflow-x: auto;
+}
+
+.estimations-table {
+	min-width: 1100px;
+	border-collapse: collapse;
+	margin-bottom: 0;
+	border: 1px solid #cfd6e6;
+
+	thead th {
+		position: sticky;
+		top: 0;
+		z-index: 2;
+		background: #f4f6fb;
+		color: #1f2a44;
+		font-weight: 700;
+		border: 1px solid #cfd6e6;
+		padding: 0.8rem 0.6rem;
+		text-transform: none;
+		white-space: nowrap;
+	}
+
+	tbody td,
+	tbody th {
+		vertical-align: top;
+		border: 1px solid #dbe1ef;
+		padding: 0.75rem 0.6rem;
+		background: #ffffff;
+		color: #1f2937;
+	}
+
+	tbody tr:hover td,
+	tbody tr:hover th {
+		background: #f8fbff;
+	}
+
+	td:nth-child(5) {
+		max-width: 560px;
+		line-height: 1.35;
+		word-break: break-word;
+	}
+
+	td:nth-child(6),
+	td:nth-child(7),
+	td:nth-child(8) {
+		white-space: nowrap;
+		font-variant-numeric: tabular-nums;
+	}
+}
+
+.actions-cell {
+	white-space: nowrap;
+
+	button {
+		min-width: 2.15rem;
+	}
+}
+
+@media (max-width: 992px) {
+	.estimations-table {
+		min-width: 980px;
+
+		td:nth-child(5) {
+			max-width: 420px;
+		}
+	}
+}

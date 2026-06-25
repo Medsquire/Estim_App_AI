@@ -1,0 +1,235 @@
+<c-row>
+  <c-col xs="12">
+    <c-card class="mb-4">
+      <c-card-header class="d-flex justify-content-between align-items-center">
+        <strong>Estimations</strong>
+        <button cButton color="primary" (click)="onNewWork()">
+          <svg cIcon name="cilPlus" class="me-2"></svg>
+          New Work
+        </button>
+      </c-card-header>
+      <c-card-body>
+        <div class="estimations-table-wrap">
+        <table cTable hover striped responsive class="estimations-table">
+          <thead>
+            <tr>
+              <th scope="col">S.No</th>
+              <th scope="col">Estim No</th>
+              <th scope="col">File No</th>
+              <th scope="col">PH</th>
+              <th scope="col">Work Name</th>
+              <th scope="col">S &amp; T Cost</th>
+              <th scope="col">Stores Cost</th>
+              <th scope="col">RCIL Provision</th>
+              <th scope="col">Status</th>
+              <th scope="col">Remarks</th>
+              <th scope="col">Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let estimation of paginatedEstimations; let i = index">
+              <th scope="row">{{ (currentPage - 1) * itemsPerPage + i + 1 }}</th>
+              <td>Y/AS/Est/26-27</td>
+              <td>{{ estimation.fileNo }}</td>
+              <td>{{ estimation.ph }}</td>
+              <td>{{ estimation.workName }}</td>
+              <td>{{ estimation.stCost > 0 ? ('₹ ' + (estimation.stCost | number)) : 'NA' }}</td>
+              <td>{{ estimation.storesCost > 0 ? ('₹ ' + (estimation.storesCost | number)) : 'NA' }}</td>
+              <td>{{ estimation.rcilProvision > 0 ? ('₹ ' + (estimation.rcilProvision | number)) : 'NA' }}</td>
+              <td>
+                <c-badge [color]="getStatusColor(estimation.status)">{{ estimation.status }}</c-badge>
+              </td>
+              <td>{{ estimation.remarks }}</td>
+              <td class="actions-cell">
+                <button cButton color="info" size="sm" class="me-1" (click)="onView(estimation)" title="View">
+                  <svg cIcon name="cilSearch"></svg>
+                </button>
+                <button cButton color="warning" size="sm" class="me-1" (click)="onEdit(estimation)" title="Edit">
+                  <svg cIcon name="cilPencil"></svg>
+                </button>
+                <button cButton color="danger" size="sm" (click)="onDelete(estimation)" title="Delete">
+                  <svg cIcon name="cilTrash"></svg>
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        </div>
+
+        <!-- Pagination -->
+        <div class="d-flex justify-content-between align-items-center mt-3">
+          <small class="text-body-secondary">
+            Showing {{ (currentPage - 1) * itemsPerPage + 1 }} to {{ currentPage * itemsPerPage > estimations.length ?
+            estimations.length : currentPage * itemsPerPage }} of {{ estimations.length }} entries
+          </small>
+          <c-pagination aria-label="Estimations pagination">
+            <li cPageItem [disabled]="currentPage === 1">
+              <a cPageLink (click)="goToPage(currentPage - 1)">Previous</a>
+            </li>
+            <li *ngFor="let page of pages" cPageItem [active]="page === currentPage">
+              <a cPageLink (click)="goToPage(page)" style="cursor: pointer;">{{ page }}</a>
+            </li>
+            <li cPageItem [disabled]="currentPage === totalPages">
+              <a cPageLink (click)="goToPage(currentPage + 1)">Next</a>
+            </li>
+          </c-pagination>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<!-- New Work Modal -->
+<c-modal [visible]="isModalVisible" (visibleChange)="onModalVisibilityChange($event)" alignment="center" size="xl">
+  <c-modal-header>
+    <h5 cModalTitle>New Work - Upload LOC</h5>
+    <button cButtonClose (click)="isModalVisible = false"></button>
+  </c-modal-header>
+  <c-modal-body>
+        <!-- LOC Upload Card with Tabs -->
+        <c-card class="mb-3">
+          <c-card-body>
+            <!-- Tab Toggle Buttons -->
+            <div class="d-flex gap-2 mb-4">
+              <button 
+                class="btn"
+                [class.btn-primary]="locEntryMode === 'upload'"
+                [class.btn-outline-primary]="locEntryMode !== 'upload'"
+                (click)="locEntryMode = 'upload'">
+                <svg cIcon name="cilCloudUpload" class="me-2"></svg>
+                Upload LOC
+              </button>
+              <button 
+                class="btn"
+                [class.btn-primary]="locEntryMode === 'manual'"
+                [class.btn-outline-primary]="locEntryMode !== 'manual'"
+                (click)="locEntryMode = 'manual'">
+                <svg cIcon name="cilNotes" class="me-2"></svg>
+                Manual Entry
+              </button>
+            </div>
+
+            <!-- UPLOAD MODE -->
+            <div *ngIf="locEntryMode === 'upload'">
+              <!-- Drag & Drop Zone -->
+              <div
+                class="upload-zone d-flex flex-column align-items-center justify-content-center p-5 border rounded bg-light"
+                [class.drag-over]="isLocDragOver" (dragover)="onLocDragOver($event)" (dragleave)="onLocDragLeave($event)"
+                (drop)="onLocDrop($event)" (click)="triggerLocFileInput()"
+                style="border-style: dashed !important; border-width: 2px; min-height: 200px; cursor: pointer; transition: all 0.2s;">
+
+                <svg cIcon name="cilCloudUpload" size="3xl" class="mb-3 text-primary"></svg>
+
+                <h5 class="mb-2">Drag & Drop or Click to Upload LOC</h5>
+                <p class="text-body-secondary small mb-0">Supported formats: PDF, DOC, DOCX</p>
+              </div>
+
+              <!-- Hidden File Input -->
+              <input #locFileInput type="file" (change)="onLocFileSelected($event)" accept=".pdf,.doc,.docx"
+                style="display: none;" />
+
+              <!-- Processing State -->
+              <div *ngIf="isLocProcessing" class="mt-3 p-4 text-center border rounded bg-white shadow-sm">
+                <div class="spinner-border text-primary" role="status">
+                  <span class="visually-hidden">Loading...</span>
+                </div>
+                <p class="mt-3 mb-0">{{ locProcessedText || 'Processing document...' }}</p>
+              </div>
+
+              <!-- Selected File Display -->
+              <div *ngIf="selectedLocFile && !isLocProcessing" class="mt-3">
+                <!-- File Info -->
+                <div class="p-3 border rounded bg-white shadow-sm mb-3">
+                  <div class="d-flex align-items-center">
+                    <svg cIcon name="cilFile" class="me-3 text-success" size="xl"></svg>
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">{{ selectedLocFile.name }}</h6>
+                      <small class="text-body-secondary">{{ (selectedLocFile.size / 1024 / 1024) | number:'1.2-2' }} MB</small>
+                    </div>
+                    <button class="btn btn-sm btn-outline-danger" (click)="clearLocFile($event)">Remove</button>
+                  </div>
+                </div>
+
+                <!-- Editable Extracted Metadata -->
+                <div class="row g-3 p-3 border rounded bg-white">
+                  <div class="col-md-4">
+                    <label class="form-label small fw-bold">Letter / File No</label>
+                    <input type="text" class="form-control" [(ngModel)]="locLetterNo" placeholder="Extracted Letter No">
+                  </div>
+                  <div class="col-md-3">
+                    <label class="form-label small fw-bold">Date</label>
+                    <input type="date" class="form-control" [(ngModel)]="locLetterDate">
+                  </div>
+                  <div class="col-md-5">
+                    <label class="form-label small fw-bold">Subject</label>
+                    <textarea class="form-control" [(ngModel)]="locSubject" (ngModelChange)="onSubjectChange()" rows="2" placeholder="Extracted Subject"></textarea>
+                  </div>
+                  
+                  <div class="col-md-6">
+                    <label class="form-label fw-bold">PH</label>
+                    <input type="text" class="form-control" [(ngModel)]="locEditData.ph" placeholder="e.g., PH-1">
+                  </div>
+                  <div class="col-md-6">
+                    <label class="form-label fw-bold">Work Name <span class="text-danger">*</span></label>
+                    <input type="text" class="form-control" [(ngModel)]="locEditData.workName" (ngModelChange)="onWorkNameChange()" placeholder="Enter work name">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- MANUAL ENTRY MODE -->
+            <div *ngIf="locEntryMode === 'manual'" class="row g-3">
+              <div class="col-md-4">
+                <label class="form-label fw-bold">Letter / File No</label>
+                <input type="text" class="form-control" [(ngModel)]="locLetterNo" placeholder="e.g., Y.M.153./PWP/2024-25">
+              </div>
+              <div class="col-md-3">
+                <label class="form-label fw-bold">Date</label>
+                <input type="date" class="form-control" [(ngModel)]="locLetterDate">
+              </div>
+              <div class="col-md-5">
+                <label class="form-label fw-bold">Subject</label>
+                <textarea class="form-control" [(ngModel)]="locSubject" (ngModelChange)="onSubjectChange()" rows="2" placeholder="Enter work subject"></textarea>
+              </div>
+              <div class="col-md-6">
+                <label class="form-label fw-bold">PH</label>
+                <input type="text" class="form-control" [(ngModel)]="locEditData.ph" placeholder="e.g., PH-1">
+              </div>
+              <div class="col-md-6">
+                <label class="form-label fw-bold">Work Name <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" [(ngModel)]="locEditData.workName" (ngModelChange)="onWorkNameChange()" placeholder="Enter work name">
+              </div>
+              <div class="col-md-6">
+                <label class="form-label fw-bold">Status</label>
+                <select class="form-select" [(ngModel)]="manualLocData.status">
+                  <option *ngFor="let status of statusOptions" [value]="status">{{ status }}</option>
+                </select>
+              </div>
+              <div class="col-md-6">
+                <label class="form-label fw-bold">Remarks</label>
+                <input type="text" class="form-control" [(ngModel)]="manualLocData.remarks" placeholder="Enter remarks">
+              </div>
+            </div>
+          </c-card-body>
+        </c-card>
+
+        <!-- Error Message -->
+        <div *ngIf="locErrorMessage" class="mt-3 alert alert-danger">
+          {{ locErrorMessage }}
+        </div>
+  </c-modal-body>
+  <c-modal-footer>
+    <button cButton color="secondary" (click)="isModalVisible = false">Cancel</button>
+
+    <!-- Save button (shown when Work Name is filled) -->
+    <button *ngIf="locEditData.workName" cButton color="primary" (click)="onSaveLocFromModal()">
+      <svg cIcon name="cilCheckAlt" class="me-2"></svg>
+      Save 
+    </button>
+
+    <!-- Disabled save button (shown when Work Name is empty) -->
+    <button *ngIf="!locEditData.workName" cButton color="primary" disabled class="opacity-50">
+      <svg cIcon name="cilCheckAlt" class="me-2"></svg>Save
+    </button>
+  </c-modal-footer>
+</c-modal>

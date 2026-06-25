@@ -1,0 +1,202 @@
+<c-row>
+  <c-col xs="12">
+    <c-card class="mb-4">
+      <c-card-header>
+        <div class="d-flex justify-content-between align-items-center">
+          <strong>Vendors List</strong>
+          <button cButton color="primary" size="sm" (click)="addNewVendor()">
+            <svg cIcon name="cilPlus" class="me-1"></svg>
+            New Vendor
+          </button>
+        </div>
+      </c-card-header>
+      <c-card-body>
+        <div class="table-responsive">
+          <table cTable hover striped>
+            <thead>
+              <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Alt Phone</th>
+                <th>Email</th>
+                <th>Contact Person 1</th>
+                <th>CP1 Phone</th>
+                <th>CP1 Email</th>
+                <th>CP1 Designation</th>
+                <th>Contact Person 2</th>
+                <th>CP2 Phone</th>
+                <th>CP2 Email</th>
+                <th>CP2 Designation</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let vendor of paginatedVendors">
+                <td>{{ vendor.vendorCode }}</td>
+                <td>{{ vendor.vendorName }}</td>
+                <td>{{ vendor.vendorAddress }}</td>
+                <td>{{ vendor.vendorPhone }}</td>
+                <td>{{ vendor.vendorAltPhone || '-' }}</td>
+                <td>{{ vendor.vendorEmail }}</td>
+                <td>{{ vendor.contactPerson1 }}</td>
+                <td>{{ vendor.contactPerson1Phone }}</td>
+                <td>{{ vendor.contactPerson1Email }}</td>
+                <td>{{ vendor.contactPerson1Designation }}</td>
+                <td>{{ vendor.contactPerson2 || '-' }}</td>
+                <td>{{ vendor.contactPerson2Phone || '-' }}</td>
+                <td>{{ vendor.contactPerson2Email || '-' }}</td>
+                <td>{{ vendor.contactPerson2Designation || '-' }}</td>
+                <td>
+                  <c-badge [color]="getStatusColor(vendor.status)">{{ vendor.status }}</c-badge>
+                </td>
+                <td>
+                  <button cButton color="info" size="sm" class="me-1" (click)="editVendor(vendor)">
+                    <svg cIcon name="cilPencil"></svg>
+                  </button>
+                  <button cButton color="danger" size="sm" (click)="deleteVendor(vendor)">
+                    <svg cIcon name="cilTrash"></svg>
+                  </button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Pagination -->
+        <div class="d-flex justify-content-between align-items-center mt-3">
+          <span>Showing {{ (currentPage - 1) * itemsPerPage + 1 }} to {{ currentPage * itemsPerPage > vendors.length ? vendors.length : currentPage * itemsPerPage }} of {{ vendors.length }} entries</span>
+          <c-pagination>
+            <li cPageItem [disabled]="currentPage === 1">
+              <a cPageLink (click)="goToPage(currentPage - 1)">Previous</a>
+            </li>
+            <li *ngFor="let page of pages" cPageItem [active]="page === currentPage">
+              <a cPageLink (click)="goToPage(page)">{{ page }}</a>
+            </li>
+            <li cPageItem [disabled]="currentPage === totalPages">
+              <a cPageLink (click)="goToPage(currentPage + 1)">Next</a>
+            </li>
+          </c-pagination>
+        </div>
+      </c-card-body>
+    </c-card>
+  </c-col>
+</c-row>
+
+<!-- New Vendor Modal -->
+<c-modal [visible]="modalVisible" (visibleChange)="handleModalVisibilityChange($event)" size="xl">
+  <c-modal-header>
+    <h5 cModalTitle>Add New Vendor</h5>
+    <button cButtonClose (click)="toggleModal()"></button>
+  </c-modal-header>
+  <c-modal-body>
+    <form cForm [formGroup]="vendorForm">
+      <c-row>
+        <c-col md="6">
+          <div class="mb-3">
+            <label cFormLabel>Name <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="vendorName" placeholder="Enter name" />
+          </div>
+        </c-col>
+        <c-col md="6">
+          <div class="mb-3">
+            <label cFormLabel>Code <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="vendorCode" placeholder="Enter code" />
+          </div>
+        </c-col>
+      </c-row>
+      <c-row>
+        <c-col md="12">
+          <div class="mb-3">
+            <label cFormLabel>Address <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="vendorAddress" placeholder="Enter address" />
+          </div>
+        </c-col>
+      </c-row>
+      <c-row>
+        <c-col md="4">
+          <div class="mb-3">
+            <label cFormLabel>Phone <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="vendorPhone" placeholder="Enter phone number" />
+          </div>
+        </c-col>
+        <c-col md="4">
+          <div class="mb-3">
+            <label cFormLabel>Alt Phone</label>
+            <input cFormControl formControlName="vendorAltPhone" placeholder="Enter alternate phone" />
+          </div>
+        </c-col>
+        <c-col md="4">
+          <div class="mb-3">
+            <label cFormLabel>Email <span class="text-danger">*</span></label>
+            <input cFormControl type="email" formControlName="vendorEmail" placeholder="Enter email" />
+          </div>
+        </c-col>
+      </c-row>
+
+      <hr class="my-3">
+      <h6 class="mb-3">Contact Person 1</h6>
+      <c-row>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Name <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="contactPerson1" placeholder="Enter name" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Phone <span class="text-danger">*</span></label>
+            <input cFormControl formControlName="contactPerson1Phone" placeholder="Enter phone" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Email</label>
+            <input cFormControl type="email" formControlName="contactPerson1Email" placeholder="Enter email" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Designation</label>
+            <input cFormControl formControlName="contactPerson1Designation" placeholder="Enter designation" />
+          </div>
+        </c-col>
+      </c-row>
+
+      <hr class="my-3">
+      <h6 class="mb-3">Contact Person 2</h6>
+      <c-row>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Name</label>
+            <input cFormControl formControlName="contactPerson2" placeholder="Enter name" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Phone</label>
+            <input cFormControl formControlName="contactPerson2Phone" placeholder="Enter phone" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Email</label>
+            <input cFormControl type="email" formControlName="contactPerson2Email" placeholder="Enter email" />
+          </div>
+        </c-col>
+        <c-col md="3">
+          <div class="mb-3">
+            <label cFormLabel>Designation</label>
+            <input cFormControl formControlName="contactPerson2Designation" placeholder="Enter designation" />
+          </div>
+        </c-col>
+      </c-row>
+    </form>
+  </c-modal-body>
+  <c-modal-footer>
+    <button cButton color="secondary" (click)="toggleModal()">Cancel</button>
+    <button cButton color="primary" [disabled]="!vendorForm.valid" (click)="saveVendor()">Save Vendor</button>
+  </c-modal-footer>
+</c-modal>

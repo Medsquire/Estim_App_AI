@@ -1,0 +1,3862 @@
+{
+  "document": "South Central Railway Signal & Telecommunication Schedule of Rates 2024",
+  "extraction_range": "Pages 7 to 97 (All Supply + Labour Chapters)",
+  "chapters": {
+    "1": {
+      "name": "SIGNAL UNIT",
+      "items": [
+        {
+          "item_no": "101 (a)",
+          "description": "Supply of CLS Post 140mm dia... (a) 4.5m",
+          "unit": "No.",
+          "rate": 4710,
+          "chapter": 1
+        },
+        {
+          "item_no": "101 (b)",
+          "description": "Supply of CLS Post 140mm dia... (b) 3.5m",
+          "unit": "No.",
+          "rate": 4442,
+          "chapter": 1
+        },
+        {
+          "item_no": "102 (a)",
+          "description": "Supply of CLS Ladder set... (a) 4.5m",
+          "unit": "Set",
+          "rate": 6432,
+          "chapter": 1
+        },
+        {
+          "item_no": "102 (b)",
+          "description": "Supply of CLS Ladder set... (b) 3.5m",
+          "unit": "Set",
+          "rate": 5226,
+          "chapter": 1
+        },
+        {
+          "item_no": "103",
+          "description": "Supply of Surface Base 140mm dia...",
+          "unit": "No.",
+          "rate": 3476,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (a)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit (a) 2 aspect",
+          "unit": "No.",
+          "rate": 12998,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (b)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit (b) 3 aspect",
+          "unit": "No.",
+          "rate": 17623,
+          "chapter": 1
+        },
+        {
+          "item_no": "104 (c)",
+          "description": "Supply of Metallic (MS) colour light Signal Unit (c) 4 aspect",
+          "unit": "No.",
+          "rate": 18820,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (a)",
+          "description": "Supply of FRP type colour light signal unit... (a) 2 aspect",
+          "unit": "No.",
+          "rate": 32681,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (b)",
+          "description": "Supply of FRP type colour light signal unit... (b) 3 aspect",
+          "unit": "No.",
+          "rate": 35227,
+          "chapter": 1
+        },
+        {
+          "item_no": "105 (c)",
+          "description": "Supply of FRP type colour light signal unit... (c) 4 aspect",
+          "unit": "No.",
+          "rate": 39820,
+          "chapter": 1
+        },
+        {
+          "item_no": "106",
+          "description": "Supply of Offset Bracket...",
+          "unit": "No.",
+          "rate": 4938,
+          "chapter": 1
+        },
+        {
+          "item_no": "107",
+          "description": "Supply of Calling On Signal Unit...",
+          "unit": "No.",
+          "rate": 4740,
+          "chapter": 1
+        },
+        {
+          "item_no": "108",
+          "description": "Supply of Ground type position light shunt signal...",
+          "unit": "No.",
+          "rate": 6083,
+          "chapter": 1
+        },
+        {
+          "item_no": "109",
+          "description": "Supply of Post type position light shunt signal...",
+          "unit": "No.",
+          "rate": 3502,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (a)",
+          "description": "Supply of Junction type route indicator... (a) One way",
+          "unit": "No.",
+          "rate": 15187,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (b)",
+          "description": "Supply of Junction type route indicator... (b) Two way",
+          "unit": "No.",
+          "rate": 20490,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (c)",
+          "description": "Supply of Junction type route indicator... (c) Three way",
+          "unit": "No.",
+          "rate": 24051,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (d)",
+          "description": "Supply of Junction type route indicator... (d) Four way",
+          "unit": "No.",
+          "rate": 27612,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (e)",
+          "description": "Supply of Junction type route indicator... (e) Five way",
+          "unit": "No.",
+          "rate": 31174,
+          "chapter": 1
+        },
+        {
+          "item_no": "110 (f)",
+          "description": "Supply of Junction type route indicator... (f) Six way",
+          "unit": "No.",
+          "rate": 34735,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (a)",
+          "description": "Supply of LED type (White Colour) route indicator (a) One way",
+          "unit": "No.",
+          "rate": 39589,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (b)",
+          "description": "Supply of LED type (White Colour) route indicator (b) Two way",
+          "unit": "No.",
+          "rate": 80476,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (c)",
+          "description": "Supply of LED type (White Colour) route indicator (c) Four way",
+          "unit": "No.",
+          "rate": 153424,
+          "chapter": 1
+        },
+        {
+          "item_no": "111 (d)",
+          "description": "Supply of LED type (White Colour) route indicator (d) Six way",
+          "unit": "No.",
+          "rate": 201190,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (a)",
+          "description": "Supply of Colour LED Signal... (a) RED",
+          "unit": "No.",
+          "rate": 9086,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (b)",
+          "description": "Supply of Colour LED Signal... (b) Yellow",
+          "unit": "No.",
+          "rate": 9263,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (c)",
+          "description": "Supply of Colour LED Signal... (c) Green",
+          "unit": "No.",
+          "rate": 10443,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (d)",
+          "description": "Supply of Colour LED Signal... (d) Calling on",
+          "unit": "No.",
+          "rate": 6844,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (e)",
+          "description": "Supply of Colour LED Signal... (e) Signal Route",
+          "unit": "No.",
+          "rate": 5575,
+          "chapter": 1
+        },
+        {
+          "item_no": "112 (f)",
+          "description": "Supply of Colour LED Signal... (f) Shunt",
+          "unit": "No.",
+          "rate": 5575,
+          "chapter": 1
+        },
+        {
+          "item_no": "113",
+          "description": "Supply of Housing rack for 1-9 Multi lamp Route Indicator...",
+          "unit": "No.",
+          "rate": 20309,
+          "chapter": 1
+        },
+        {
+          "item_no": "114",
+          "description": "Supply of vitreous enamel coated board...",
+          "unit": "No.",
+          "rate": 267,
+          "chapter": 1
+        },
+        {
+          "item_no": "115",
+          "description": "Supply of 280mmx102mmx2mm thickness vitreous enamel coating arrow markers...",
+          "unit": "No.",
+          "rate": 370,
+          "chapter": 1
+        }
+      ]
+    },
+    "2": {
+      "name": "LOCATION BOX",
+      "items": [
+        {
+          "item_no": "201 (a)",
+          "description": "Supply of GKP type Location Boxes (a) Full",
+          "unit": "No.",
+          "rate": 16216,
+          "chapter": 2
+        },
+        {
+          "item_no": "201 (b)",
+          "description": "Supply of GKP type Location Boxes (b) Half",
+          "unit": "No.",
+          "rate": 8083,
+          "chapter": 2
+        },
+        {
+          "item_no": "201 (c)",
+          "description": "Supply of GKP type Location Boxes (c) Quarter",
+          "unit": "No.",
+          "rate": 4330,
+          "chapter": 2
+        },
+        {
+          "item_no": "202",
+          "description": "Supply of 'E'-type lock...",
+          "unit": "No.",
+          "rate": 1051,
+          "chapter": 2
+        },
+        {
+          "item_no": "203",
+          "description": "Supply of relay fixing frame for full location box",
+          "unit": "No.",
+          "rate": 853,
+          "chapter": 2
+        },
+        {
+          "item_no": "204",
+          "description": "Supply of relay fixing frame for half location box",
+          "unit": "No.",
+          "rate": 427,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (a)",
+          "description": "Supply of Hylam sheet... (a) 2400x1200x6mm",
+          "unit": "No.",
+          "rate": 7124,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (b)",
+          "description": "Supply of Hylam sheet... (b) 2400x600x6mm",
+          "unit": "No.",
+          "rate": 3430,
+          "chapter": 2
+        },
+        {
+          "item_no": "205 (c)",
+          "description": "Supply of Hylam sheet... (c) 2400x600x3mm",
+          "unit": "No.",
+          "rate": 1888,
+          "chapter": 2
+        }
+      ]
+    },
+    "3": {
+      "name": "POINT MACHINE",
+      "items": [
+        {
+          "item_no": "301",
+          "description": "Supply of GI termination box...",
+          "unit": "No.",
+          "rate": 2902,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (a)",
+          "description": "Supply of Ground connections... (a) Universal 143mm",
+          "unit": "Set",
+          "rate": 8670,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (b)",
+          "description": "Supply of Ground connections... (b) High thrust 220mm",
+          "unit": "Set",
+          "rate": 58410,
+          "chapter": 3
+        },
+        {
+          "item_no": "302 (c)",
+          "description": "Supply of Ground connections... (c) Thick web switch",
+          "unit": "Set",
+          "rate": 14160,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (a)",
+          "description": "Supply of Insulations for Ground connections... (a) 'D' clamp",
+          "unit": "Set",
+          "rate": 729,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (b)",
+          "description": "Supply of Insulations for Ground connections... (b) Drive lug",
+          "unit": "Set",
+          "rate": 160,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (c)",
+          "description": "Supply of Insulations for Ground connections... (c) Ground connection",
+          "unit": "Set",
+          "rate": 2203,
+          "chapter": 3
+        },
+        {
+          "item_no": "303 (d)",
+          "description": "Supply of Insulations for Ground connections... (d) Thick web switch",
+          "unit": "Set",
+          "rate": 1074,
+          "chapter": 3
+        }
+      ]
+    },
+    "4": {
+      "name": "TRACK CIRCUIT",
+      "items": [
+        {
+          "item_no": "401",
+          "description": "Supply of Track feed battery charger",
+          "unit": "No.",
+          "rate": 8294,
+          "chapter": 4
+        },
+        {
+          "item_no": "402",
+          "description": "Supply of Track lead junction boxes...",
+          "unit": "No.",
+          "rate": 1546,
+          "chapter": 4
+        },
+        {
+          "item_no": "403",
+          "description": "Supply of Galvanised Wire rope 6mm...",
+          "unit": "Meter",
+          "rate": 80,
+          "chapter": 4
+        },
+        {
+          "item_no": "404",
+          "description": "Supply of Galvanised Wire rope with PVC...",
+          "unit": "Meter",
+          "rate": 120,
+          "chapter": 4
+        },
+        {
+          "item_no": "405",
+          "description": "Supply of B type chokes",
+          "unit": "No.",
+          "rate": 2313,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (a)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (a) 80AH",
+          "unit": "No.",
+          "rate": 3315,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (b)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (b) 120AH",
+          "unit": "No.",
+          "rate": 4709,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (c)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (c) 200AH",
+          "unit": "No.",
+          "rate": 5665,
+          "chapter": 4
+        },
+        {
+          "item_no": "406 (d)",
+          "description": "Supply of Stationary low maintenance secondary lead acid cells (d) 300AH",
+          "unit": "No.",
+          "rate": 7060,
+          "chapter": 4
+        },
+        {
+          "item_no": "407",
+          "description": "Supply of Hydrometer",
+          "unit": "No.",
+          "rate": 277,
+          "chapter": 4
+        },
+        {
+          "item_no": "408",
+          "description": "Supply of Distilled water",
+          "unit": "Ltr.",
+          "rate": 10,
+          "chapter": 4
+        },
+        {
+          "item_no": "409",
+          "description": "Supply of Porcelain insulators",
+          "unit": "No.",
+          "rate": 30,
+          "chapter": 4
+        },
+        {
+          "item_no": "410",
+          "description": "Supply of titanium coated drill bits",
+          "unit": "No.",
+          "rate": 146,
+          "chapter": 4
+        },
+        {
+          "item_no": "411",
+          "description": "Supply of Channel bond pins",
+          "unit": "No.",
+          "rate": 3,
+          "chapter": 4
+        },
+        {
+          "item_no": "412",
+          "description": "Supply of Track Feed Regulating Resistance",
+          "unit": "No.",
+          "rate": 358,
+          "chapter": 4
+        }
+      ]
+    },
+    "5": {
+      "name": "RELAYS",
+      "items": [
+        {
+          "item_no": "501 (a)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (a) QN1-8F/8B 24V",
+          "unit": "No.",
+          "rate": 4400,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (b)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (b) QN1-12F/4B 24V",
+          "unit": "No.",
+          "rate": 4283,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (c)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (c) QN1-8F/8B 50V",
+          "unit": "No.",
+          "rate": 6753,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (d)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (d) QN1-12F/4B 50V",
+          "unit": "No.",
+          "rate": 6544,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (e)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (e) QS3-4F/4B 12V",
+          "unit": "No.",
+          "rate": 3962,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (f)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (f) QB3-6F/2B 12V",
+          "unit": "No.",
+          "rate": 4485,
+          "chapter": 5
+        },
+        {
+          "item_no": "501 (g)",
+          "description": "Supply of Plug-in type miniature tractive armature Non-AC immune... (g) QNN1-4F/4B 24V",
+          "unit": "No.",
+          "rate": 4944,
+          "chapter": 5
+        },
+        {
+          "item_no": "502 (a)",
+          "description": "Supply of 24 V DC plug-in type miniature tractive armature, AC immune... (a) QBCA1",
+          "unit": "No.",
+          "rate": 8307,
+          "chapter": 5
+        },
+        {
+          "item_no": "502 (b)",
+          "description": "Supply of 24 V DC plug-in type miniature tractive armature, AC immune... (b) QNA1-8F/8B",
+          "unit": "No.",
+          "rate": 4738,
+          "chapter": 5
+        },
+        {
+          "item_no": "502 (c)",
+          "description": "Supply of 24 V DC plug-in type miniature tractive armature, AC immune... (c) QNA1-12F/4B",
+          "unit": "No.",
+          "rate": 4413,
+          "chapter": 5
+        },
+        {
+          "item_no": "502 (d)",
+          "description": "Supply of 24 V DC plug-in type miniature tractive armature, AC immune... (d) QNA1K-6F/6B",
+          "unit": "No.",
+          "rate": 5062,
+          "chapter": 5
+        },
+        {
+          "item_no": "502 (e)",
+          "description": "Supply of 24 V DC plug-in type miniature tractive armature, AC immune... (e) QSPA1",
+          "unit": "No.",
+          "rate": 6465,
+          "chapter": 5
+        },
+        {
+          "item_no": "503",
+          "description": "Supply of AC immune, plug-in type, Style 'QTA2'...",
+          "unit": "No.",
+          "rate": 4806,
+          "chapter": 5
+        },
+        {
+          "item_no": "504",
+          "description": "Supply of ECR 4F/4B...",
+          "unit": "No.",
+          "rate": 5841,
+          "chapter": 5
+        },
+        {
+          "item_no": "505",
+          "description": "Supply of Failsafe electronic flasher device...",
+          "unit": "No.",
+          "rate": 4349,
+          "chapter": 5
+        },
+        {
+          "item_no": "506 (a)",
+          "description": "Supply of Q series Magnetically Latched... (a) QL1-11F/4B",
+          "unit": "No.",
+          "rate": 5701,
+          "chapter": 5
+        },
+        {
+          "item_no": "506 (b)",
+          "description": "Supply of Q series Magnetically Latched... (b) QL1-8F/6B",
+          "unit": "No.",
+          "rate": 5427,
+          "chapter": 5
+        },
+        {
+          "item_no": "507 (a)",
+          "description": "Supply of Fail-Safe Electronic Time Delay Device... (a) 10 sec",
+          "unit": "No.",
+          "rate": 2161,
+          "chapter": 5
+        },
+        {
+          "item_no": "507 (b)",
+          "description": "Supply of Fail-Safe Electronic Time Delay Device... (b) 30 sec",
+          "unit": "No.",
+          "rate": 2544,
+          "chapter": 5
+        },
+        {
+          "item_no": "507 (c)",
+          "description": "Supply of Fail-Safe Electronic Time Delay Device... (c) 60 sec",
+          "unit": "No.",
+          "rate": 2544,
+          "chapter": 5
+        },
+        {
+          "item_no": "507 (d)",
+          "description": "Supply of Fail-Safe Electronic Time Delay Device... (d) 120 sec",
+          "unit": "No.",
+          "rate": 2332,
+          "chapter": 5
+        },
+        {
+          "item_no": "508",
+          "description": "Supply of Point chain group Siemens...",
+          "unit": "No.",
+          "rate": 38790,
+          "chapter": 5
+        },
+        {
+          "item_no": "509",
+          "description": "Supply of RRI point group...",
+          "unit": "No.",
+          "rate": 81472,
+          "chapter": 5
+        },
+        {
+          "item_no": "510",
+          "description": "Supply of PI point group...",
+          "unit": "No.",
+          "rate": 51162,
+          "chapter": 5
+        },
+        {
+          "item_no": "511",
+          "description": "Supply of route group...",
+          "unit": "No.",
+          "rate": 47501,
+          "chapter": 5
+        },
+        {
+          "item_no": "512",
+          "description": "Supply of signal group 2 aspect...",
+          "unit": "No.",
+          "rate": 44093,
+          "chapter": 5
+        },
+        {
+          "item_no": "513",
+          "description": "Supply of signal group 3 aspect...",
+          "unit": "No.",
+          "rate": 53569,
+          "chapter": 5
+        },
+        {
+          "item_no": "514",
+          "description": "Supply of shunt signal group...",
+          "unit": "No.",
+          "rate": 53228,
+          "chapter": 5
+        },
+        {
+          "item_no": "515",
+          "description": "Supply of plug-in type non-AC immune 60V...",
+          "unit": "No.",
+          "rate": 5022,
+          "chapter": 5
+        },
+        {
+          "item_no": "516",
+          "description": "Supply of plug-in type mechanically interlocked...",
+          "unit": "No.",
+          "rate": 5697,
+          "chapter": 5
+        },
+        {
+          "item_no": "517",
+          "description": "Supply of plug-in type AC immune 60V...",
+          "unit": "No.",
+          "rate": 5697,
+          "chapter": 5
+        }
+      ]
+    },
+    "6": {
+      "name": "RELAY RACKS, TERMINAL BLOCKS AND FUSES",
+      "items": [
+        {
+          "item_no": "601 (a)",
+          "description": "Supply of powder coated Relay rack... (a) 1 Way",
+          "unit": "No.",
+          "rate": 7474,
+          "chapter": 6
+        },
+        {
+          "item_no": "601 (b)",
+          "description": "Supply of powder coated Relay rack... (b) 2 Way",
+          "unit": "No.",
+          "rate": 14847,
+          "chapter": 6
+        },
+        {
+          "item_no": "601 (c)",
+          "description": "Supply of powder coated Relay rack... (c) 4 Way",
+          "unit": "No.",
+          "rate": 27712,
+          "chapter": 6
+        },
+        {
+          "item_no": "602",
+          "description": "Supply of powder coated Cable termination rack...",
+          "unit": "No.",
+          "rate": 7585,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (a)",
+          "description": "Supply of Terminal Block (a) 1 way",
+          "unit": "No.",
+          "rate": 97,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (b)",
+          "description": "Supply of Terminal Block (b) 6 way",
+          "unit": "No.",
+          "rate": 406,
+          "chapter": 6
+        },
+        {
+          "item_no": "603 (c)",
+          "description": "Supply of Terminal Block (c) Modular WAGO",
+          "unit": "Set",
+          "rate": 703,
+          "chapter": 6
+        },
+        {
+          "item_no": "604",
+          "description": "Supply of mini WSB markers...",
+          "unit": "Set",
+          "rate": 64,
+          "chapter": 6
+        },
+        {
+          "item_no": "605 (a)",
+          "description": "Supply of fuse holders... (a) 20A holder",
+          "unit": "No.",
+          "rate": 220,
+          "chapter": 6
+        },
+        {
+          "item_no": "605 (b)",
+          "description": "Supply of fuse holders... (b) Fuse link",
+          "unit": "No.",
+          "rate": 31,
+          "chapter": 6
+        },
+        {
+          "item_no": "606",
+          "description": "Supply of Fuse Auto Changeover system...",
+          "unit": "Set",
+          "rate": 46656,
+          "chapter": 6
+        }
+      ]
+    },
+    "7": {
+      "name": "WIRES & CABLES",
+      "items": [
+        {
+          "item_no": "701",
+          "description": "Supply of 60 core Indoor Cable...",
+          "unit": "Km.",
+          "rate": 191009,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (a)",
+          "description": "Supply of PVC insulated Wire Coils (a) 16/0.2",
+          "unit": "Coil",
+          "rate": 1153,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (b)",
+          "description": "Supply of PVC insulated Wire Coils (b) 28/0.3",
+          "unit": "Coil",
+          "rate": 2908,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (c)",
+          "description": "Supply of PVC insulated Wire Coils (c) 35 Sq.mm",
+          "unit": "Meter",
+          "rate": 391,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (d)",
+          "description": "Supply of PVC insulated Wire Coils (d) 16 Sq.mm",
+          "unit": "Meter",
+          "rate": 178,
+          "chapter": 7
+        },
+        {
+          "item_no": "702 (e)",
+          "description": "Supply of PVC insulated Wire Coils (e) 10 Sq.mm",
+          "unit": "Meter",
+          "rate": 124,
+          "chapter": 7
+        }
+      ]
+    },
+    "8": {
+      "name": "POWER SUPPLY AND EARTH LEAKAGE DETECTOR",
+      "items": [
+        {
+          "item_no": "801 (a)",
+          "description": "Supply of Battery Charger... (a) 110V 30A",
+          "unit": "No.",
+          "rate": 110464,
+          "chapter": 8
+        },
+        {
+          "item_no": "801 (b)",
+          "description": "Supply of Battery Charger... (b) 24-28V 30A",
+          "unit": "No.",
+          "rate": 55373,
+          "chapter": 8
+        },
+        {
+          "item_no": "801 (c)",
+          "description": "Supply of Battery Charger... (c) 24-28V 20A",
+          "unit": "No.",
+          "rate": 34433,
+          "chapter": 8
+        },
+        {
+          "item_no": "802 (a)",
+          "description": "Supply of Transformer-Rectifier... (a) 110V 1A",
+          "unit": "No.",
+          "rate": 19470,
+          "chapter": 8
+        },
+        {
+          "item_no": "802 (b)",
+          "description": "Supply of Transformer-Rectifier... (b) 230V 5A",
+          "unit": "No.",
+          "rate": 25960,
+          "chapter": 8
+        },
+        {
+          "item_no": "803",
+          "description": "Supply of ON/OFF Rotary Switches...",
+          "unit": "No.",
+          "rate": 500,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (a)",
+          "description": "Supply of Earth Leakage Detector... (a) Four channel",
+          "unit": "No.",
+          "rate": 78179,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (b)",
+          "description": "Supply of Earth Leakage Detector... (b) Eight channel",
+          "unit": "No.",
+          "rate": 88000,
+          "chapter": 8
+        },
+        {
+          "item_no": "804 (c)",
+          "description": "Supply of Earth Leakage Detector... (c) Twelve channel",
+          "unit": "No.",
+          "rate": 190261,
+          "chapter": 8
+        },
+        {
+          "item_no": "805",
+          "description": "Supply of Control and Distribution panel 10kVA...",
+          "unit": "No.",
+          "rate": 61666,
+          "chapter": 8
+        },
+        {
+          "item_no": "806",
+          "description": "Supply of Control and Distribution panel 25kVA...",
+          "unit": "No.",
+          "rate": 227480,
+          "chapter": 8
+        }
+      ]
+    },
+    "9": {
+      "name": "DOMINO PANEL AND DATALOGGER",
+      "items": [
+        {
+          "item_no": "901",
+          "description": "Supply of Domino type panel 3/4 road...",
+          "unit": "No.",
+          "rate": 173461,
+          "chapter": 9
+        },
+        {
+          "item_no": "902",
+          "description": "Supply of Domino type panel 5/6 road...",
+          "unit": "No.",
+          "rate": 197146,
+          "chapter": 9
+        },
+        {
+          "item_no": "903",
+          "description": "Supply of spare domino...",
+          "unit": "No.",
+          "rate": 694,
+          "chapter": 9
+        },
+        {
+          "item_no": "904",
+          "description": "Supply of spare counter block...",
+          "unit": "No.",
+          "rate": 2333,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (a)",
+          "description": "Supply of Data Logger... (a) 512 inputs",
+          "unit": "Set",
+          "rate": 497388,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (b)",
+          "description": "Supply of Data Logger... (b) 1024",
+          "unit": "Set",
+          "rate": 623709,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (c)",
+          "description": "Supply of Data Logger... (c) 2048",
+          "unit": "Set",
+          "rate": 856680,
+          "chapter": 9
+        },
+        {
+          "item_no": "905 (d)",
+          "description": "Supply of Data Logger... (d) 4096",
+          "unit": "Set",
+          "rate": 1200650,
+          "chapter": 9
+        },
+        {
+          "item_no": "906",
+          "description": "Supply of Front-End Processor...",
+          "unit": "No.",
+          "rate": 132521,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (a)",
+          "description": "Supply of Remote Terminal Unit... (a) 32 inputs",
+          "unit": "No.",
+          "rate": 146008,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (b)",
+          "description": "Supply of Remote Terminal Unit... (b) 64",
+          "unit": "No.",
+          "rate": 217980,
+          "chapter": 9
+        },
+        {
+          "item_no": "907 (c)",
+          "description": "Supply of Remote Terminal Unit... (c) 128",
+          "unit": "No.",
+          "rate": 382594,
+          "chapter": 9
+        }
+      ]
+    },
+    "10": {
+      "name": "TELECOM EQUIPMENT",
+      "items": [
+        {
+          "item_no": "1001",
+          "description": "Supply of Thermo shrink jointing kit...",
+          "unit": "No.",
+          "rate": 3715,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (a)",
+          "description": "Supply of Various Telephones... (a) Magneto",
+          "unit": "No.",
+          "rate": 4416,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (b)",
+          "description": "Supply of Various Telephones... (b) 4 wire train",
+          "unit": "No.",
+          "rate": 5617,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (c)",
+          "description": "Supply of Various Telephones... (c) Desk 12 way",
+          "unit": "No.",
+          "rate": 6282,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (d)",
+          "description": "Supply of Various Telephones... (d) Push button",
+          "unit": "No.",
+          "rate": 1495,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (e)",
+          "description": "Supply of Various Telephones... (e) Signal post",
+          "unit": "Set",
+          "rate": 10108,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (f)",
+          "description": "Supply of Various Telephones... (f) LC Gate Station",
+          "unit": "No.",
+          "rate": 6222,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (g)",
+          "description": "Supply of Various Telephones... (g) LC Gate",
+          "unit": "No.",
+          "rate": 5113,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (h)",
+          "description": "Supply of Various Telephones... (h) Centralised power",
+          "unit": "No.",
+          "rate": 5992,
+          "chapter": 10
+        },
+        {
+          "item_no": "1002 (i)",
+          "description": "Supply of Various Telephones... (i) Power Supply Unit",
+          "unit": "No.",
+          "rate": 4265,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (a)",
+          "description": "Supply of Various Telecom Cable (a) 5 Pair",
+          "unit": "Km",
+          "rate": 17649,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (b)",
+          "description": "Supply of Various Telecom Cable (b) 10 Pair",
+          "unit": "Meter",
+          "rate": 35,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (c)",
+          "description": "Supply of Various Telecom Cable (c) 20 Pair",
+          "unit": "Meter",
+          "rate": 88,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (d)",
+          "description": "Supply of Various Telecom Cable (d) 50 Pair",
+          "unit": "Meter",
+          "rate": 304,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (e)",
+          "description": "Supply of Various Telecom Cable (e) 100 Pair",
+          "unit": "Km",
+          "rate": 413592,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (f)",
+          "description": "Supply of Various Telecom Cable (f) PVC Twin",
+          "unit": "Km",
+          "rate": 9623,
+          "chapter": 10
+        },
+        {
+          "item_no": "1003 (g)",
+          "description": "Supply of Various Telecom Cable (g) UTP CAT6",
+          "unit": "Meter",
+          "rate": 37,
+          "chapter": 10
+        }
+      ]
+    },
+    "11": {
+      "name": "MECHANICAL SIGNALING ITEMS",
+      "items": [
+        {
+          "item_no": "1101",
+          "description": "Supply of Electric Key Transmitter...",
+          "unit": "No.",
+          "rate": 7027,
+          "chapter": 11
+        },
+        {
+          "item_no": "1102",
+          "description": "Supply of Electrical Point Detector...",
+          "unit": "No.",
+          "rate": 23724,
+          "chapter": 11
+        },
+        {
+          "item_no": "1103",
+          "description": "Supply of Point Indicator Lamp...",
+          "unit": "Set",
+          "rate": 3836,
+          "chapter": 11
+        },
+        {
+          "item_no": "1104",
+          "description": "Supply of Split Stretcher Bars...",
+          "unit": "Set",
+          "rate": 3821,
+          "chapter": 11
+        },
+        {
+          "item_no": "1105",
+          "description": "Supply of Hand plunger lock...",
+          "unit": "No.",
+          "rate": 4634,
+          "chapter": 11
+        },
+        {
+          "item_no": "1106",
+          "description": "Supply of ground connections for Electrical detector...",
+          "unit": "No.",
+          "rate": 4803,
+          "chapter": 11
+        }
+      ]
+    },
+    "13": {
+      "name": "BLOCK AND IB RELATED ITEMS",
+      "items": [
+        {
+          "item_no": "1301",
+          "description": "Supply of IB Resetting Panel...",
+          "unit": "No.",
+          "rate": 9297,
+          "chapter": 13
+        },
+        {
+          "item_no": "1302",
+          "description": "Supply of Filter Unit...",
+          "unit": "No.",
+          "rate": 15500,
+          "chapter": 13
+        },
+        {
+          "item_no": "1303",
+          "description": "Supply of Block Bell Equipment...",
+          "unit": "No.",
+          "rate": 2604,
+          "chapter": 13
+        },
+        {
+          "item_no": "1304",
+          "description": "Supply of Teak Wood Block Counter...",
+          "unit": "No.",
+          "rate": 14721,
+          "chapter": 13
+        }
+      ]
+    },
+    "14": {
+      "name": "DIGITAL AXLE COUNTER",
+      "items": [
+        {
+          "item_no": "1401",
+          "description": "Supply of Single Section Digital Axle Counter...",
+          "unit": "Set",
+          "rate": 674335,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (a)",
+          "description": "Supply of spare cards... (a) CPU",
+          "unit": "No.",
+          "rate": 51555,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (b)",
+          "description": "Supply of spare cards... (b) Modem",
+          "unit": "No.",
+          "rate": 34370,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (c)",
+          "description": "Supply of spare cards... (c) DC-DC",
+          "unit": "No.",
+          "rate": 17185,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (d)",
+          "description": "Supply of spare cards... (d) Signal conditioner",
+          "unit": "No.",
+          "rate": 34230,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (e)",
+          "description": "Supply of spare cards... (e) Relay driver",
+          "unit": "Set",
+          "rate": 30934,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (f)",
+          "description": "Supply of spare cards... (f) Axle detectors",
+          "unit": "Set",
+          "rate": 43669,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (g)",
+          "description": "Supply of spare cards... (g) Reset box",
+          "unit": "No.",
+          "rate": 47877,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (h)",
+          "description": "Supply of spare cards... (h) Event logger",
+          "unit": "No.",
+          "rate": 35876,
+          "chapter": 14
+        },
+        {
+          "item_no": "1402 (i)",
+          "description": "Supply of spare cards... (i) Reset card",
+          "unit": "No.",
+          "rate": 16415,
+          "chapter": 14
+        },
+        {
+          "item_no": "1403",
+          "description": "Supply of High Availability Single Section Digital Axle Counter...",
+          "unit": "Set",
+          "rate": 887832,
+          "chapter": 14
+        }
+      ]
+    },
+    "15": {
+      "name": "EARTHING",
+      "items": [
+        {
+          "item_no": "1501",
+          "description": "Supply of basic material to construct unit Maintenance Free Earth...",
+          "unit": "Set",
+          "rate": 16837,
+          "chapter": 15
+        },
+        {
+          "item_no": "1502",
+          "description": "Supply of lightning and surge arrestors...",
+          "unit": "Set",
+          "rate": 14999,
+          "chapter": 15
+        },
+        {
+          "item_no": "1503",
+          "description": "Supply of 50mm x 6mm GI tape...",
+          "unit": "Meter",
+          "rate": 546,
+          "chapter": 15
+        },
+        {
+          "item_no": "1504",
+          "description": "Real time Earth measuring Device...",
+          "unit": "Set",
+          "rate": 65725,
+          "chapter": 15
+        },
+        {
+          "item_no": "1505",
+          "description": "Supply of GI wire (8 SWG)...",
+          "unit": "Kg",
+          "rate": 175,
+          "chapter": 15
+        }
+      ]
+    },
+    "16": {
+      "name": "LC GATES",
+      "items": [
+        {
+          "item_no": "1601",
+          "description": "Supply of Electrically Operated Lifting Barrier...",
+          "unit": "Set",
+          "rate": 433500,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (a)",
+          "description": "Supply of Automatic Gate Warning System... (a) LED Station Master",
+          "unit": "Pair",
+          "rate": 27258,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (b)",
+          "description": "Supply of Automatic Gate Warning System... (b) LED Audio-Visual",
+          "unit": "No.",
+          "rate": 32450,
+          "chapter": 16
+        },
+        {
+          "item_no": "1602 (c)",
+          "description": "Supply of Automatic Gate Warning System... (c) Communication unit",
+          "unit": "Pair",
+          "rate": 179124,
+          "chapter": 16
+        }
+      ]
+    },
+    "17": {
+      "name": "STATIONARY AND MISCELLANEOUS",
+      "items": [
+        {
+          "item_no": "1701",
+          "description": "Supply of piezo buzzers...",
+          "unit": "No.",
+          "rate": 78,
+          "chapter": 17
+        },
+        {
+          "item_no": "1702",
+          "description": "Supply of PVC Pipe 110mm...",
+          "unit": "No.",
+          "rate": 1163,
+          "chapter": 17
+        },
+        {
+          "item_no": "1703",
+          "description": "Supply of PVC Conduit pipe...",
+          "unit": "No.",
+          "rate": 51,
+          "chapter": 17
+        },
+        {
+          "item_no": "1704",
+          "description": "Supply of Vulco Tape...",
+          "unit": "No.",
+          "rate": 2073,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (a)",
+          "description": "Supply of Lugs and Eyelets... (a) Aluminium 25 sq.mm",
+          "unit": "No.",
+          "rate": 25,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (b)",
+          "description": "Supply of Lugs and Eyelets... (b) Copper 10sq.mm",
+          "unit": "No.",
+          "rate": 12,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (c)",
+          "description": "Supply of Lugs and Eyelets... (c) Copper eyelets 16/0.2",
+          "unit": "No.",
+          "rate": 3,
+          "chapter": 17
+        },
+        {
+          "item_no": "1705 (d)",
+          "description": "Supply of Lugs and Eyelets... (d) Copper eyelets 10 sqmm",
+          "unit": "No.",
+          "rate": 6,
+          "chapter": 17
+        }
+      ]
+    },
+    "18": {
+      "name": "UFSBI",
+      "items": [
+        {
+          "item_no": "1801 (a)",
+          "description": "Supply of Spares and accessories for UFSBI... (a) Input card",
+          "unit": "No.",
+          "rate": 13424,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (b)",
+          "description": "Supply of Spares and accessories for UFSBI... (b) Output card",
+          "unit": "No.",
+          "rate": 34198,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (c)",
+          "description": "Supply of Spares and accessories for UFSBI... (c) CPU",
+          "unit": "No.",
+          "rate": 29439,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (d)",
+          "description": "Supply of Spares and accessories for UFSBI... (d) Control & Comm",
+          "unit": "No.",
+          "rate": 25233,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (e)",
+          "description": "Supply of Spares and accessories for UFSBI... (e) MODEM",
+          "unit": "No.",
+          "rate": 28878,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (f)",
+          "description": "Supply of Spares and accessories for UFSBI... (f) DC-DC",
+          "unit": "No.",
+          "rate": 48000,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (g)",
+          "description": "Supply of Spares and accessories for UFSBI... (g) SAM",
+          "unit": "No.",
+          "rate": 6435,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (h)",
+          "description": "Supply of Spares and accessories for UFSBI... (h) Mother board",
+          "unit": "No.",
+          "rate": 54634,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (i)",
+          "description": "Supply of Spares and accessories for UFSBI... (i) Reset box",
+          "unit": "No.",
+          "rate": 15929,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (j)",
+          "description": "Supply of Spares and accessories for UFSBI... (j) Flat cable",
+          "unit": "No.",
+          "rate": 2596,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (k)",
+          "description": "Supply of Spares and accessories for UFSBI... (k) MODEM backup",
+          "unit": "Pair",
+          "rate": 78970,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (l)",
+          "description": "Supply of Spares and accessories for UFSBI... (l) Industrial E1 Modem",
+          "unit": "No.",
+          "rate": 204130,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (m)",
+          "description": "Supply of Spares and accessories for UFSBI... (m) Block Telephone",
+          "unit": "No.",
+          "rate": 6308,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (n)",
+          "description": "Supply of Spares and accessories for UFSBI... (n) Automatic media changeover",
+          "unit": "Pair",
+          "rate": 35326,
+          "chapter": 18
+        },
+        {
+          "item_no": "1801 (o)",
+          "description": "Supply of Spares and accessories for UFSBI... (o) Key switch",
+          "unit": "No.",
+          "rate": 1233,
+          "chapter": 18
+        }
+      ]
+    },
+    "25": {
+      "name": "CABLE LAYING",
+      "items": [
+        {
+          "item_no": "2501",
+          "description": "Location survey...",
+          "unit": "RKM",
+          "rate": 1472,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (a)",
+          "description": "Excavation of trench... (a) 1200mm depth",
+          "unit": "RKM",
+          "rate": 98750,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (b)",
+          "description": "Excavation of trench... (b) 1000mm",
+          "unit": "RKM",
+          "rate": 82000,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (c)",
+          "description": "Excavation of trench... (c) 1000x600",
+          "unit": "RKM",
+          "rate": 164560,
+          "chapter": 25
+        },
+        {
+          "item_no": "2502 (d)",
+          "description": "Excavation of trench... (d) 600x600",
+          "unit": "RKM",
+          "rate": 98750,
+          "chapter": 25
+        }
+      ]
+    },
+    "26": {
+      "name": "LOCATION BOX",
+      "items": [
+        {
+          "item_no": "2601 (a)",
+          "description": "Location box foundation... (a) Full",
+          "unit": "No.",
+          "rate": 15324,
+          "chapter": 26
+        },
+        {
+          "item_no": "2601 (b)",
+          "description": "Location box foundation... (b) Half",
+          "unit": "No.",
+          "rate": 10809,
+          "chapter": 26
+        }
+      ]
+    },
+    "27": {
+      "name": "EARTHING",
+      "items": [
+        {
+          "item_no": "2701",
+          "description": "Fabrication, supply and erection of conventional Earth...",
+          "unit": "No.",
+          "rate": 6652,
+          "chapter": 27
+        },
+        {
+          "item_no": "2702",
+          "description": "Provision of ring earth...",
+          "unit": "No.",
+          "rate": 24286,
+          "chapter": 27
+        }
+      ]
+    },
+    "28": {
+      "name": "SIGNAL RELATED ITEMS",
+      "items": [
+        {
+          "item_no": "2801",
+          "description": "Foundation and erection of Colour light signal...",
+          "unit": "No.",
+          "rate": 15360,
+          "chapter": 28
+        },
+        {
+          "item_no": "2802",
+          "description": "Foundation & erection of Shunt signal...",
+          "unit": "No.",
+          "rate": 6805,
+          "chapter": 28
+        }
+      ]
+    },
+    "29": {
+      "name": "POINT MACHINE",
+      "items": [
+        {
+          "item_no": "2901",
+          "description": "Fixing of universal point machines...",
+          "unit": "No.",
+          "rate": 6460,
+          "chapter": 29
+        },
+        {
+          "item_no": "2902",
+          "description": "Installation of High Thrust point Machine...",
+          "unit": "Per Point Machine",
+          "rate": 12067,
+          "chapter": 29
+        }
+      ]
+    },
+    "30": {
+      "name": "TRACK CIRCUIT",
+      "items": [
+        {
+          "item_no": "3001",
+          "description": "Fixing of Track lead junction box...",
+          "unit": "No.",
+          "rate": 505,
+          "chapter": 30
+        },
+        {
+          "item_no": "3002",
+          "description": "Wiring of Track circuits...",
+          "unit": "No.",
+          "rate": 1509,
+          "chapter": 30
+        }
+      ]
+    },
+    "31": {
+      "name": "SIGHTING BOARD & CALLING BOARDS",
+      "items": [
+        {
+          "item_no": "3101",
+          "description": "Manufacture, supply and fixing of Sighting Board...",
+          "unit": "No.",
+          "rate": 11763,
+          "chapter": 31
+        }
+      ]
+    },
+    "32": {
+      "name": "INDOOR WORKS",
+      "items": [
+        {
+          "item_no": "3201 (a)",
+          "description": "Erection and concreting of SM's control panel... (a) Up to 5 roads",
+          "unit": "No.",
+          "rate": 33559,
+          "chapter": 32
+        },
+        {
+          "item_no": "3201 (b)",
+          "description": "Erection and concreting of SM's control panel... (b) More than 5",
+          "unit": "No.",
+          "rate": 48507,
+          "chapter": 32
+        }
+      ]
+    },
+    "33": {
+      "name": "TRANSPORTATION",
+      "items": [
+        {
+          "item_no": "3301 (a)",
+          "description": "Transportation of materials... (a) Lead up to 50 Km",
+          "unit": "PTPK",
+          "rate": 11,
+          "chapter": 33
+        },
+        {
+          "item_no": "3301 (b)",
+          "description": "Transportation of materials... (b) Above 50 Km",
+          "unit": "PTPK",
+          "rate": 7,
+          "chapter": 33
+        }
+      ]
+    },
+    "34": {
+      "name": "POWER SUPPLY",
+      "items": [
+        {
+          "item_no": "3401",
+          "description": "Installation and wiring of all power supply equipment viz DC Distribution system, chargers, Transformers, batteries etc.",
+          "unit": "LS",
+          "rate": 16629,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (a)",
+          "description": "Initial Charging of Secondary Cells... (a) 2 volts 80 AH",
+          "unit": "No.",
+          "rate": 328,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (b)",
+          "description": "Initial Charging of Secondary Cells... (b) 2 volts 120 AH",
+          "unit": "No.",
+          "rate": 394,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (c)",
+          "description": "Initial Charging of Secondary Cells... (c) 2 volts 200 AH",
+          "unit": "No.",
+          "rate": 658,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (d)",
+          "description": "Initial Charging of Secondary Cells... (d) 2 volts 300 AH",
+          "unit": "No.",
+          "rate": 987,
+          "chapter": 34
+        },
+        {
+          "item_no": "3402 (e)",
+          "description": "Initial Charging of Secondary Cells... (e) 12 Volts 13 plates Generator battery",
+          "unit": "No.",
+          "rate": 330,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (a)",
+          "description": "Installation of DG Set (a) two generators up to 20 KVA",
+          "unit": "LS",
+          "rate": 45819,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (b)",
+          "description": "Installation of DG Set (b) one DG Set up to 20 KVA",
+          "unit": "LS",
+          "rate": 34998,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (c)",
+          "description": "Installation of DG Set (c) Running charges",
+          "unit": "Per Hour",
+          "rate": 450,
+          "chapter": 34
+        },
+        {
+          "item_no": "3403 (d)",
+          "description": "Installation of DG Set (d) Service of the DG set",
+          "unit": "Per Service",
+          "rate": 2545,
+          "chapter": 34
+        },
+        {
+          "item_no": "3404",
+          "description": "Installation, wiring... of IPS system",
+          "unit": "No.",
+          "rate": 21746,
+          "chapter": 34
+        },
+        {
+          "item_no": "3405",
+          "description": "Installation... Earth Leakage detector...",
+          "unit": "No.",
+          "rate": 11802,
+          "chapter": 34
+        },
+        {
+          "item_no": "3406",
+          "description": "Supply and wiring of PPTC of 2A rating",
+          "unit": "No.",
+          "rate": 87,
+          "chapter": 34
+        }
+      ]
+    },
+    "35": {
+      "name": "TESTING",
+      "items": [
+        {
+          "item_no": "3501 (a)",
+          "description": "Arranging of sufficient staff... giving test (a) Stage -1",
+          "unit": "Per Sheet",
+          "rate": 677,
+          "chapter": 35
+        },
+        {
+          "item_no": "3501 (b)",
+          "description": "Arranging of sufficient staff... giving test (b) Stage -II",
+          "unit": "Per Road",
+          "rate": 3896,
+          "chapter": 35
+        },
+        {
+          "item_no": "3502",
+          "description": "Testing to check integrity of gears...",
+          "unit": "Each",
+          "rate": 103,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (a)",
+          "description": "Testing and commissioning the entire signalling installations... (a) Stations up to 5 roads",
+          "unit": "Per Station",
+          "rate": 29427,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (b)",
+          "description": "Testing and commissioning the entire signalling installations... (b) Stations more than 5 roads",
+          "unit": "Per Station",
+          "rate": 51415,
+          "chapter": 35
+        },
+        {
+          "item_no": "3503 (c)",
+          "description": "Testing and commissioning the entire signalling installations... (c) LC gates/IBS Hut/Auto Hut",
+          "unit": "Per LC/ Per Hut",
+          "rate": 11379,
+          "chapter": 35
+        }
+      ]
+    },
+    "36": {
+      "name": "LC GATE",
+      "items": [
+        {
+          "item_no": "3601",
+          "description": "Foundation, Erection, Testing and Commissioning of Electrically operated lifting barriers...",
+          "unit": "LS",
+          "rate": 30145,
+          "chapter": 36
+        },
+        {
+          "item_no": "3602",
+          "description": "Supply and Fixing of stop board...",
+          "unit": "No.",
+          "rate": 4554,
+          "chapter": 36
+        },
+        {
+          "item_no": "3603",
+          "description": "Supply and fixing of 'AHUJA' horn type loud speaker...",
+          "unit": "No.",
+          "rate": 1407,
+          "chapter": 36
+        },
+        {
+          "item_no": "3604",
+          "description": "Supply and installation of Electronic Flasher unit...",
+          "unit": "No.",
+          "rate": 2572,
+          "chapter": 36
+        },
+        {
+          "item_no": "3605",
+          "description": "Supply and fixing of Electronic Hooter unit...",
+          "unit": "No.",
+          "rate": 2732,
+          "chapter": 36
+        },
+        {
+          "item_no": "3606",
+          "description": "Supply and fixing of yellow retro reflective strips...",
+          "unit": "Per LC Gate",
+          "rate": 670,
+          "chapter": 36
+        },
+        {
+          "item_no": "3607",
+          "description": "Painting of gate protection diagram",
+          "unit": "No.",
+          "rate": 417,
+          "chapter": 36
+        },
+        {
+          "item_no": "3608",
+          "description": "Fabrication... gate control cum indication panel...",
+          "unit": "No.",
+          "rate": 14060,
+          "chapter": 36
+        },
+        {
+          "item_no": "3609",
+          "description": "Concreting foundation for Pedestal...",
+          "unit": "No.",
+          "rate": 6491,
+          "chapter": 36
+        },
+        {
+          "item_no": "3610",
+          "description": "Excavation... for 2 No. of lifting barrier gate meeting posts...",
+          "unit": "Set",
+          "rate": 1815,
+          "chapter": 36
+        },
+        {
+          "item_no": "3611",
+          "description": "Excavation of pit... for one lever frame...",
+          "unit": "No.",
+          "rate": 3501,
+          "chapter": 36
+        },
+        {
+          "item_no": "3612",
+          "description": "Excavation... for 1 No. of lifting barrier gate winch...",
+          "unit": "No.",
+          "rate": 2049,
+          "chapter": 36
+        },
+        {
+          "item_no": "3613",
+          "description": "Assembling, erection... mechanical lifting barrier...",
+          "unit": "Set",
+          "rate": 8807,
+          "chapter": 36
+        },
+        {
+          "item_no": "3614",
+          "description": "Carrying out lifting barrier boom locking arrangements...",
+          "unit": "LS",
+          "rate": 8506,
+          "chapter": 36
+        },
+        {
+          "item_no": "3615",
+          "description": "Assembling of roller trestles...",
+          "unit": "No.",
+          "rate": 158,
+          "chapter": 36
+        },
+        {
+          "item_no": "3616",
+          "description": "Foundation & fixing of Diversion Wheel/crank",
+          "unit": "No.",
+          "rate": 723,
+          "chapter": 36
+        },
+        {
+          "item_no": "3617",
+          "description": "Laying of point rodding...",
+          "unit": "RMT",
+          "rate": 18,
+          "chapter": 36
+        },
+        {
+          "item_no": "3618",
+          "description": "Fixing and wiring RKT/EKT...",
+          "unit": "No.",
+          "rate": 900,
+          "chapter": 36
+        },
+        {
+          "item_no": "3619",
+          "description": "Supply of paint... painting of Cranks/GF",
+          "unit": "No.",
+          "rate": 94,
+          "chapter": 36
+        },
+        {
+          "item_no": "3620",
+          "description": "Supply... painting of point rodding...",
+          "unit": "Per Mtr.",
+          "rate": 9,
+          "chapter": 36
+        },
+        {
+          "item_no": "3621",
+          "description": "Forge welding of point rodding...",
+          "unit": "Per Weld",
+          "rate": 157,
+          "chapter": 36
+        },
+        {
+          "item_no": "3622",
+          "description": "Fixing of E type locks...",
+          "unit": "Lump sum",
+          "rate": 1590,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (a)",
+          "description": "Sliding Boom Arrangements (a) M.S. Boom 65mm dia",
+          "unit": "No.",
+          "rate": 13607,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (b)",
+          "description": "Sliding Boom Arrangements (b) Resting stand",
+          "unit": "No.",
+          "rate": 6804,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (c)",
+          "description": "Sliding Boom Arrangements (c) Boom movement rectangular frame",
+          "unit": "No.",
+          "rate": 24180,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (d)",
+          "description": "Sliding Boom Arrangements (d) M.S. Plate for boom locking",
+          "unit": "No.",
+          "rate": 5193,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (e)",
+          "description": "Sliding Boom Arrangements (e) M.S Plate for fixing of 3 E type locks",
+          "unit": "No.",
+          "rate": 2417,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (f)",
+          "description": "Sliding Boom Arrangements (f) Supply of 20mm teak wood board",
+          "unit": "Set",
+          "rate": 8238,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (g)",
+          "description": "Sliding Boom Arrangements (g) Fabrication... M.S. of size 10'X 18'X9'",
+          "unit": "No.",
+          "rate": 4653,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (h)",
+          "description": "Sliding Boom Arrangements (h) Supply and fixing of retro reflective stop board",
+          "unit": "No.",
+          "rate": 4653,
+          "chapter": 36
+        },
+        {
+          "item_no": "3623 (i)",
+          "description": "Sliding Boom Arrangements (i) Excavation... foundations for resting stand",
+          "unit": "LS",
+          "rate": 28998,
+          "chapter": 36
+        },
+        {
+          "item_no": "3624",
+          "description": "Supply of paint... painting of complete sliding boom...",
+          "unit": "LS",
+          "rate": 7930,
+          "chapter": 36
+        },
+        {
+          "item_no": "3625 (a)",
+          "description": "Installation... Automatic Gate Warning System (a) LED Based Audio-Visual",
+          "unit": "No.",
+          "rate": 9735,
+          "chapter": 36
+        },
+        {
+          "item_no": "3625 (b)",
+          "description": "Installation... Automatic Gate Warning System (b) Communication unit",
+          "unit": "Pair",
+          "rate": 44781,
+          "chapter": 36
+        }
+      ]
+    },
+    "37": {
+      "name": "AXLE COUNTER",
+      "items": [
+        {
+          "item_no": "3701",
+          "description": "Fixing and erection of Axle Counter single entry type...",
+          "unit": "Set",
+          "rate": 8408,
+          "chapter": 37
+        },
+        {
+          "item_no": "3702",
+          "description": "Installation... of SSDAC/HASSDAC",
+          "unit": "Set",
+          "rate": 37152,
+          "chapter": 37
+        },
+        {
+          "item_no": "3703",
+          "description": "Fabrication... hard reset boxes...",
+          "unit": "Set",
+          "rate": 55166,
+          "chapter": 37
+        },
+        {
+          "item_no": "3704",
+          "description": "Fabrication... auto reset boxes...",
+          "unit": "Set",
+          "rate": 29127,
+          "chapter": 37
+        },
+        {
+          "item_no": "3705",
+          "description": "Supply... retro reflective type BPAC Warning boards...",
+          "unit": "No.",
+          "rate": 9564,
+          "chapter": 37
+        }
+      ]
+    },
+    "38": {
+      "name": "SOLAR PANEL",
+      "items": [
+        {
+          "item_no": "3801",
+          "description": "Fixing of Solar panels...",
+          "unit": "Per Panel",
+          "rate": 555,
+          "chapter": 38
+        },
+        {
+          "item_no": "3802",
+          "description": "Change over arrangements...",
+          "unit": "No.",
+          "rate": 386,
+          "chapter": 38
+        }
+      ]
+    },
+    "39": {
+      "name": "DOCUMENTATION",
+      "items": [
+        {
+          "item_no": "3901 (a)",
+          "description": "Design of SIP in Auto Cad (a) Two-Line Station",
+          "unit": "Set",
+          "rate": 16976,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (b)",
+          "description": "Design of SIP in Auto Cad (b) Three-Line Station",
+          "unit": "Set",
+          "rate": 20044,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (c)",
+          "description": "Design of SIP in Auto Cad (c) Four-Line Station",
+          "unit": "Set",
+          "rate": 31950,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (d)",
+          "description": "Design of SIP in Auto Cad (d) Five-Line Station",
+          "unit": "Set",
+          "rate": 54010,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (e)",
+          "description": "Design of SIP in Auto Cad (e) Six-Line Station",
+          "unit": "Set",
+          "rate": 64329,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (f)",
+          "description": "Design of SIP in Auto Cad (f) Seven-Line Station",
+          "unit": "Set",
+          "rate": 76115,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (g)",
+          "description": "Design of SIP in Auto Cad (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 80280,
+          "chapter": 39
+        },
+        {
+          "item_no": "3901 (h)",
+          "description": "Design of SIP in Auto Cad (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 6669,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (a)",
+          "description": "Design of SWRD in Auto Cad (a) Two-Line",
+          "unit": "Set",
+          "rate": 8110,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (b)",
+          "description": "Design of SWRD in Auto Cad (b) Three-Line",
+          "unit": "Set",
+          "rate": 10386,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (c)",
+          "description": "Design of SWRD in Auto Cad (c) Four-Line",
+          "unit": "Set",
+          "rate": 17070,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (d)",
+          "description": "Design of SWRD in Auto Cad (d) Five-Line",
+          "unit": "Set",
+          "rate": 28159,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (e)",
+          "description": "Design of SWRD in Auto Cad (e) Six-Line",
+          "unit": "Set",
+          "rate": 30436,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (f)",
+          "description": "Design of SWRD in Auto Cad (f) Seven-Line",
+          "unit": "Set",
+          "rate": 31978,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (g)",
+          "description": "Design of SWRD in Auto Cad (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 34254,
+          "chapter": 39
+        },
+        {
+          "item_no": "3902 (h)",
+          "description": "Design of SWRD in Auto Cad (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 4512,
+          "chapter": 39
+        },
+        {
+          "item_no": "3903",
+          "description": "Preparation of Table of Control based on SIP",
+          "unit": "Per Route",
+          "rate": 1000,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (a)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (a) Two-Line (Up to 25 LB)",
+          "unit": "Set",
+          "rate": 55611,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (b)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (b) Three-Line (Up to 40 LB)",
+          "unit": "Set",
+          "rate": 66799,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (c)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (c) Four-Line (Up to 60 LB)",
+          "unit": "Set",
+          "rate": 89345,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (d)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (d) Five-Line (Up to 70 LB)",
+          "unit": "Set",
+          "rate": 116448,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (e)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (e) Six-Line (Up to 90 LB)",
+          "unit": "Set",
+          "rate": 131648,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (f)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (f) Seven-Line (Up to 100 LB)",
+          "unit": "Set",
+          "rate": 146238,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (g)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (g) Eight-Line (Up to 110 LB)",
+          "unit": "Set",
+          "rate": 155906,
+          "chapter": 39
+        },
+        {
+          "item_no": "3904 (h)",
+          "description": "Design in AUTOCAD... Complete Outdoor Particular (h) Mid-Section LC Gate (Up to 15 LB)",
+          "unit": "Set",
+          "rate": 41465,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (a)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (a) Two-Line",
+          "unit": "Set",
+          "rate": 4599,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (b)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (b) Three-Line",
+          "unit": "Set",
+          "rate": 5225,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (c)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (c) Four-Line",
+          "unit": "Set",
+          "rate": 10154,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (d)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (d) Five-Line",
+          "unit": "Set",
+          "rate": 20574,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (e)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (e) Six-Line",
+          "unit": "Set",
+          "rate": 22865,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (f)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (f) Seven-Line",
+          "unit": "Set",
+          "rate": 25185,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (g)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 26714,
+          "chapter": 39
+        },
+        {
+          "item_no": "3905 (h)",
+          "description": "Design of Cable Route Plan (Distant to Distant) (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 2581,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (a)",
+          "description": "Design of Cable Distribution Plan (a) Two-Line",
+          "unit": "Set",
+          "rate": 4563,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (b)",
+          "description": "Design of Cable Distribution Plan (b) Three-Line",
+          "unit": "Set",
+          "rate": 5519,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (c)",
+          "description": "Design of Cable Distribution Plan (c) Four-Line",
+          "unit": "Set",
+          "rate": 8676,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (d)",
+          "description": "Design of Cable Distribution Plan (d) Five-Line",
+          "unit": "Set",
+          "rate": 15433,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (e)",
+          "description": "Design of Cable Distribution Plan (e) Six-Line",
+          "unit": "Set",
+          "rate": 16255,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (f)",
+          "description": "Design of Cable Distribution Plan (f) Seven-Line",
+          "unit": "Set",
+          "rate": 20779,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (g)",
+          "description": "Design of Cable Distribution Plan (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 22307,
+          "chapter": 39
+        },
+        {
+          "item_no": "3906 (h)",
+          "description": "Design of Cable Distribution Plan (h) Mid-Section LC Gate",
+          "unit": "Set",
+          "rate": 2581,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (a)",
+          "description": "Design of Track Bonding Plan (a) Two-Line",
+          "unit": "Set",
+          "rate": 4306,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (b)",
+          "description": "Design of Track Bonding Plan (b) Three-Line",
+          "unit": "Set",
+          "rate": 5152,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (c)",
+          "description": "Design of Track Bonding Plan (c) Four-Line",
+          "unit": "Set",
+          "rate": 7941,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (d)",
+          "description": "Design of Track Bonding Plan (d) Five-Line",
+          "unit": "Set",
+          "rate": 12018,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (e)",
+          "description": "Design of Track Bonding Plan (e) Six-Line",
+          "unit": "Set",
+          "rate": 12425,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (f)",
+          "description": "Design of Track Bonding Plan (f) Seven-Line",
+          "unit": "Set",
+          "rate": 14331,
+          "chapter": 39
+        },
+        {
+          "item_no": "3907 (g)",
+          "description": "Design of Track Bonding Plan (g) Eight-Line or more",
+          "unit": "Set",
+          "rate": 15102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (a)",
+          "description": "Design of Circuit Diagrams (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 66096,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (b)",
+          "description": "Design of Circuit Diagrams (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 80784,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (c)",
+          "description": "Design of Circuit Diagrams (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 110160,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (d)",
+          "description": "Design of Circuit Diagrams (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 139536,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (e)",
+          "description": "Design of Circuit Diagrams (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 168912,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (f)",
+          "description": "Design of Circuit Diagrams (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 205632,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (g)",
+          "description": "Design of Circuit Diagrams (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 257040,
+          "chapter": 39
+        },
+        {
+          "item_no": "3908 (h)",
+          "description": "Design of Circuit Diagrams (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 29376,
+          "chapter": 39
+        },
+        {
+          "item_no": "3909",
+          "description": "Design of Location Box Drawings",
+          "unit": "Per Location Box",
+          "rate": 584,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (a)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 13586,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (b)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 16891,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (c)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 22032,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (d)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 24676,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (e)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 27173,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (f)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 29376,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (g)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 33048,
+          "chapter": 39
+        },
+        {
+          "item_no": "3910 (h)",
+          "description": "Supply of Original Tracing of Circuit Diagrams (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 10282,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (a)",
+          "description": "Supply of Original Tracing of Location Box Drawings (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 1102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (b)",
+          "description": "Supply of Original Tracing of Location Box Drawings (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 1469,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (c)",
+          "description": "Supply of Original Tracing of Location Box Drawings (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 2203,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (d)",
+          "description": "Supply of Original Tracing of Location Box Drawings (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 2570,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (e)",
+          "description": "Supply of Original Tracing of Location Box Drawings (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 2938,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (f)",
+          "description": "Supply of Original Tracing of Location Box Drawings (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 3672,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (g)",
+          "description": "Supply of Original Tracing of Location Box Drawings (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 4406,
+          "chapter": 39
+        },
+        {
+          "item_no": "3911 (h)",
+          "description": "Supply of Original Tracing of Location Box Drawings (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 661,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (a)",
+          "description": "Alteration of Existing SWRD (a) Two-Line",
+          "unit": "Per Station",
+          "rate": 1102,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (b)",
+          "description": "Alteration of Existing SWRD (b) Three-Line",
+          "unit": "Per Station",
+          "rate": 1469,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (c)",
+          "description": "Alteration of Existing SWRD (c) Four-Line",
+          "unit": "Per Station",
+          "rate": 2203,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (d)",
+          "description": "Alteration of Existing SWRD (d) Five-Line",
+          "unit": "Per Station",
+          "rate": 3672,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (e)",
+          "description": "Alteration of Existing SWRD (e) Six-Line",
+          "unit": "Per Station",
+          "rate": 5508,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (f)",
+          "description": "Alteration of Existing SWRD (f) Seven-Line",
+          "unit": "Per Station",
+          "rate": 6059,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (g)",
+          "description": "Alteration of Existing SWRD (g) Eight-Line or more",
+          "unit": "Per Station",
+          "rate": 7344,
+          "chapter": 39
+        },
+        {
+          "item_no": "3912 (h)",
+          "description": "Alteration of Existing SWRD (h) Mid-Section LC Gate",
+          "unit": "Per LC Gate",
+          "rate": 441,
+          "chapter": 39
+        },
+        {
+          "item_no": "3913",
+          "description": "Alteration of Existing Circuit Diagrams",
+          "unit": "Per Sheet",
+          "rate": 294,
+          "chapter": 39
+        },
+        {
+          "item_no": "3914",
+          "description": "Alteration of Existing Location Box Drawings",
+          "unit": "Per Sheet",
+          "rate": 367,
+          "chapter": 39
+        },
+        {
+          "item_no": "3915",
+          "description": "Supply of drawings in Original Tracing (Matt Film), A-3 Size",
+          "unit": "Per Sheet",
+          "rate": 58,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (a)",
+          "description": "Supply of Ammonia Prints (a) A3 size",
+          "unit": "Per Sheet",
+          "rate": 17,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (b)",
+          "description": "Supply of Ammonia Prints (b) A2 size",
+          "unit": "Per Sheet",
+          "rate": 33,
+          "chapter": 39
+        },
+        {
+          "item_no": "3916 (c)",
+          "description": "Supply of Ammonia Prints (c) Signalling Plan U Size",
+          "unit": "Per Unit",
+          "rate": 170,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (a)",
+          "description": "Circuit Diagrams (a) A-2 size",
+          "unit": "Per sheet",
+          "rate": 320,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (b)",
+          "description": "Circuit Diagrams (b) A-3 size",
+          "unit": "Per sheet",
+          "rate": 140,
+          "chapter": 39
+        },
+        {
+          "item_no": "3917 (c)",
+          "description": "Circuit Diagrams (c) A-4 size",
+          "unit": "Per sheet",
+          "rate": 105,
+          "chapter": 39
+        },
+        {
+          "item_no": "3918 (a)",
+          "description": "Scanning of Documents (a) A3 Page",
+          "unit": "Per Page",
+          "rate": 8,
+          "chapter": 39
+        },
+        {
+          "item_no": "3918 (b)",
+          "description": "Scanning of Documents (b) A2 Page",
+          "unit": "Per Page",
+          "rate": 35,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (a)",
+          "description": "Fabrication and Supply of Different Boards (a) SWOD",
+          "unit": "Per Yard/Per Station",
+          "rate": 9391,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (b)",
+          "description": "Fabrication and Supply of Different Boards (b) Track Bonding Diagram",
+          "unit": "Per Yard/Per Station",
+          "rate": 9291,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (c)",
+          "description": "Fabrication and Supply of Different Boards (c) Board 36\" x 24\"",
+          "unit": "No.",
+          "rate": 4762,
+          "chapter": 39
+        },
+        {
+          "item_no": "3919 (d)",
+          "description": "Fabrication and Supply of Different Boards (d) Laminated board 45cm x 60cm",
+          "unit": "Per Board",
+          "rate": 2268,
+          "chapter": 39
+        },
+        {
+          "item_no": "3920",
+          "description": "Supply of thick Kodak photo paper with lamination",
+          "unit": "Sq.m",
+          "rate": 5679,
+          "chapter": 39
+        },
+        {
+          "item_no": "3921",
+          "description": "Making photocopies & binding of the SWR literature",
+          "unit": "Each Booklet",
+          "rate": 179,
+          "chapter": 39
+        }
+      ]
+    },
+    "40": {
+      "name": "ALTERATIONS",
+      "items": [
+        {
+          "item_no": "4001",
+          "description": "Removal of existing 'Q' style / K-50 contact clips...",
+          "unit": "Per Conductor",
+          "rate": 56,
+          "chapter": 40
+        },
+        {
+          "item_no": "4002",
+          "description": "Carrying out of alterations to the working circuits...",
+          "unit": "Per Sheet of Circuit Diagram",
+          "rate": 2091,
+          "chapter": 40
+        },
+        {
+          "item_no": "4003",
+          "description": "Shifting of existing working functions...",
+          "unit": "Per Cable",
+          "rate": 2123,
+          "chapter": 40
+        }
+      ]
+    },
+    "41": {
+      "name": "ELECTRONIC INTERLOCKING",
+      "items": [
+        {
+          "item_no": "4101",
+          "description": "Supply of Hot Standby Electronic Interlocking System...",
+          "unit": "Set",
+          "rate": 7832317,
+          "chapter": 41
+        },
+        {
+          "item_no": "4102",
+          "description": "Incremental rate for vital signalling functions...",
+          "unit": "Per Function",
+          "rate": 71250,
+          "chapter": 41
+        },
+        {
+          "item_no": "4103",
+          "description": "Supply of additional Electronic Interlocking miscellaneous items...",
+          "unit": "Per Goomty/IBH/Auto Hut",
+          "rate": 674202,
+          "chapter": 41
+        },
+        {
+          "item_no": "4104",
+          "description": "Supply of commercial grade operator VDU...",
+          "unit": "No.",
+          "rate": 226320,
+          "chapter": 41
+        },
+        {
+          "item_no": "4105",
+          "description": "Supply of fan less embedded industrial grade computers...",
+          "unit": "No.",
+          "rate": 182900,
+          "chapter": 41
+        },
+        {
+          "item_no": "4106",
+          "description": "Installation, wiring... of all EI equipments...",
+          "unit": "Per EI System",
+          "rate": 659159,
+          "chapter": 41
+        },
+        {
+          "item_no": "4107",
+          "description": "Design and Drawing of Interface and Application Logic...",
+          "unit": "Per EI",
+          "rate": 253418,
+          "chapter": 41
+        },
+        {
+          "item_no": "4108",
+          "description": "Design... for more than 200 Routes...",
+          "unit": "Per Route",
+          "rate": 1950,
+          "chapter": 41
+        },
+        {
+          "item_no": "4109",
+          "description": "Commissioning of Electronic Interlocking system",
+          "unit": "No.",
+          "rate": 25604,
+          "chapter": 41
+        },
+        {
+          "item_no": "4110",
+          "description": "Training of Railway Personnel...",
+          "unit": "Man Day",
+          "rate": 1246,
+          "chapter": 41
+        },
+        {
+          "item_no": "4111",
+          "description": "Training on application software...",
+          "unit": "Man Day",
+          "rate": 1368,
+          "chapter": 41
+        },
+        {
+          "item_no": "4112",
+          "description": "Supply of portable work station...",
+          "unit": "No.",
+          "rate": 126896,
+          "chapter": 41
+        },
+        {
+          "item_no": "4113",
+          "description": "Fabrication... aluminium ladder...",
+          "unit": "RMT",
+          "rate": 4098,
+          "chapter": 41
+        },
+        {
+          "item_no": "4114",
+          "description": "Supply, fabrication... panel operator consol...",
+          "unit": "No.",
+          "rate": 354447,
+          "chapter": 41
+        },
+        {
+          "item_no": "4115",
+          "description": "Supply and installation of offline UPS...",
+          "unit": "No.",
+          "rate": 11286,
+          "chapter": 41
+        }
+      ]
+    },
+    "42": {
+      "name": "UFSBI",
+      "items": [
+        {
+          "item_no": "4201",
+          "description": "Supply, Installation and commissioning of Universal Fail safe Block interface...",
+          "unit": "Set",
+          "rate": 960520,
+          "chapter": 42
+        },
+        {
+          "item_no": "4202",
+          "description": "Supply... Block proving by Axle Counter [BPAC]...",
+          "unit": "Set",
+          "rate": 1261656,
+          "chapter": 42
+        },
+        {
+          "item_no": "4203",
+          "description": "Supply... Universal Fail Safe Block Interface for Single line",
+          "unit": "Set",
+          "rate": 1259269,
+          "chapter": 42
+        }
+      ]
+    },
+    "43": {
+      "name": "FIRE ALARM",
+      "items": [
+        {
+          "item_no": "4301",
+          "description": "Supply... Fire Alarm Control Panel...",
+          "unit": "No.",
+          "rate": 261419,
+          "chapter": 43
+        },
+        {
+          "item_no": "4302",
+          "description": "Supply... GUI software...",
+          "unit": "No.",
+          "rate": 800672,
+          "chapter": 43
+        },
+        {
+          "item_no": "4303",
+          "description": "Supply... resettable Addressable multi sensor...",
+          "unit": "No.",
+          "rate": 6237,
+          "chapter": 43
+        },
+        {
+          "item_no": "4304",
+          "description": "Supply... Probe type bimetallic heat detector...",
+          "unit": "No.",
+          "rate": 6269,
+          "chapter": 43
+        },
+        {
+          "item_no": "4305",
+          "description": "Supply... Addressable resettable manual call point...",
+          "unit": "No.",
+          "rate": 8510,
+          "chapter": 43
+        },
+        {
+          "item_no": "4306",
+          "description": "Supply... analogue Addressable fault Isolator Modules...",
+          "unit": "No.",
+          "rate": 5889,
+          "chapter": 43
+        },
+        {
+          "item_no": "4307",
+          "description": "Supply... Aspiration type blue LED based aspiration system...",
+          "unit": "No.",
+          "rate": 312061,
+          "chapter": 43
+        },
+        {
+          "item_no": "4308",
+          "description": "Supply... 24V/2Amps power supply for aspiration detector...",
+          "unit": "No.",
+          "rate": 67603,
+          "chapter": 43
+        },
+        {
+          "item_no": "4309",
+          "description": "Supply... copper pipe with 25 mm Dia...",
+          "unit": "Meters",
+          "rate": 1189,
+          "chapter": 43
+        },
+        {
+          "item_no": "4310",
+          "description": "Supply... Analog Addressable Type input/output Modules...",
+          "unit": "No.",
+          "rate": 10558,
+          "chapter": 43
+        },
+        {
+          "item_no": "4311",
+          "description": "Supply... electronic hooter cum strobe...",
+          "unit": "No.",
+          "rate": 9595,
+          "chapter": 43
+        },
+        {
+          "item_no": "4312",
+          "description": "Supply and Installation of Auto Telephone Dialler (GSM)...",
+          "unit": "No.",
+          "rate": 9520,
+          "chapter": 43
+        },
+        {
+          "item_no": "4313",
+          "description": "Supply and Installation of isolator devices...",
+          "unit": "No.",
+          "rate": 3808,
+          "chapter": 43
+        },
+        {
+          "item_no": "4314",
+          "description": "Supply... 2X1.5sqmm ATC Fire survival flexible/armoured cable...",
+          "unit": "Lot",
+          "rate": 60016,
+          "chapter": 43
+        },
+        {
+          "item_no": "4315",
+          "description": "Supply and fixing of Fire Extinguisher CO2 type...",
+          "unit": "No.",
+          "rate": 8171,
+          "chapter": 43
+        },
+        {
+          "item_no": "4316",
+          "description": "Supply and installation of Four numbers 10 Litre... Buckets...",
+          "unit": "No.",
+          "rate": 8800,
+          "chapter": 43
+        }
+      ]
+    },
+    "44": {
+      "name": "MISCELLANEOUS",
+      "items": [
+        {
+          "item_no": "4401",
+          "description": "Fabrication and supply of wall mounted maintainer's Tool Kit frame...",
+          "unit": "No",
+          "rate": 18699,
+          "chapter": 44
+        },
+        {
+          "item_no": "4402",
+          "description": "Supply and fixing of Netlon wire mesh...",
+          "unit": "Per Square foot",
+          "rate": 424,
+          "chapter": 44
+        },
+        {
+          "item_no": "4403 (a)",
+          "description": "Providing and fixing fly proof galvanized M.S. wire gauge... (a) With 2nd class teak wood beading",
+          "unit": "Sqm",
+          "rate": 907,
+          "chapter": 44
+        },
+        {
+          "item_no": "4403 (b)",
+          "description": "Providing and fixing fly proof galvanized M.S. wire gauge... (b) With 12 mm mild steel U beading",
+          "unit": "Sqm",
+          "rate": 625,
+          "chapter": 44
+        },
+        {
+          "item_no": "4404",
+          "description": "Supply and Installation of HP/ OEM approved document Scanner...",
+          "unit": "No",
+          "rate": 72290,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (a)",
+          "description": "Calibration of Instruments (a) Analog Insulation Tester",
+          "unit": "No",
+          "rate": 3894,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (b)",
+          "description": "Calibration of Instruments (b) Digital Multimeter",
+          "unit": "No",
+          "rate": 3245,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (c)",
+          "description": "Calibration of Instruments (c) HV tester",
+          "unit": "No",
+          "rate": 7788,
+          "chapter": 44
+        },
+        {
+          "item_no": "4405 (d)",
+          "description": "Calibration of Instruments (d) Digital Micro ohm meter",
+          "unit": "No",
+          "rate": 3245,
+          "chapter": 44
+        },
+        {
+          "item_no": "4406",
+          "description": "Providing the services of Computer oriented Technical manpower...",
+          "unit": "Man Day",
+          "rate": 784,
+          "chapter": 44
+        },
+        {
+          "item_no": "4407",
+          "description": "Provision of Lookout person round the clock...",
+          "unit": "Man Day",
+          "rate": 640,
+          "chapter": 44
+        },
+        {
+          "item_no": "4408",
+          "description": "Arranging of skilled and unskilled workers...",
+          "unit": "Per Point",
+          "rate": 4102,
+          "chapter": 44
+        },
+        {
+          "item_no": "4409",
+          "description": "Provision of one skilled and 2 unskilled staff...",
+          "unit": "Per month",
+          "rate": 64951,
+          "chapter": 44
+        },
+        {
+          "item_no": "4410",
+          "description": "Installation, testing and commissioning of Distilled water plant...",
+          "unit": "No",
+          "rate": 3309,
+          "chapter": 44
+        }
+      ]
+    },
+    "45": {
+      "name": "RELEASING OF S&T GEARS",
+      "items": [
+        {
+          "item_no": "4501 (a)",
+          "description": "Releasing of the following equipments... (a) Hand plunger lock",
+          "unit": "Set",
+          "rate": 1808,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (b)",
+          "description": "Releasing of the following equipments... (b) LC Gate gadgets",
+          "unit": "Set",
+          "rate": 7232,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (c)",
+          "description": "Releasing of the following equipments... (c) Apparatus cases",
+          "unit": "No",
+          "rate": 2275,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (d)",
+          "description": "Releasing of the following equipments... (d) STOP board/Warning board",
+          "unit": "No",
+          "rate": 1196,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (e)",
+          "description": "Releasing of the following equipments... (e) Cable termination boxes",
+          "unit": "No",
+          "rate": 1518,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (f)",
+          "description": "Releasing of the following equipments... (f) Block Instruments",
+          "unit": "No",
+          "rate": 1342,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (g)",
+          "description": "Releasing of the following equipments... (g) Relay racks",
+          "unit": "Per Rack",
+          "rate": 1497,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (h)",
+          "description": "Releasing of the following equipments... (h) SM's control panel",
+          "unit": "Set",
+          "rate": 3979,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (i)",
+          "description": "Releasing of the following equipments... (i) Ground lever frame",
+          "unit": "No",
+          "rate": 4200,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (j)",
+          "description": "Releasing of the following equipments... (j) Axle Counter field equipment",
+          "unit": "Set",
+          "rate": 955,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (k)",
+          "description": "Releasing of the following equipments... (k) Colour light Signals",
+          "unit": "No",
+          "rate": 2333,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (l)",
+          "description": "Releasing of the following equipments... (l) Route Indicators",
+          "unit": "No",
+          "rate": 1167,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (m)",
+          "description": "Releasing of the following equipments... (m) Ground type shunt signals",
+          "unit": "No",
+          "rate": 1662,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (n)",
+          "description": "Releasing of the following equipments... (n) Point machines",
+          "unit": "No",
+          "rate": 2042,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (o)",
+          "description": "Releasing of the following equipments... (o) TLD boxes",
+          "unit": "No",
+          "rate": 121,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (p)",
+          "description": "Releasing of the following equipments... (p) Lever frames up to 40 levers",
+          "unit": "LS",
+          "rate": 6999,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (q)",
+          "description": "Releasing of the following equipments... (q) Secondary cells",
+          "unit": "Set",
+          "rate": 4083,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (r)",
+          "description": "Releasing of the following equipments... (r) Power equipments",
+          "unit": "Set",
+          "rate": 9565,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (s)",
+          "description": "Releasing of the following equipments... (s) Control equipments",
+          "unit": "Set",
+          "rate": 4550,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (t)",
+          "description": "Releasing of the following equipments... (t) Trestles 1/2 way",
+          "unit": "No",
+          "rate": 65,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (u)",
+          "description": "Releasing of the following equipments... (u) Trestles 3/4 way",
+          "unit": "No",
+          "rate": 89,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (v)",
+          "description": "Releasing of the following equipments... (v) Point rodding",
+          "unit": "Per Rod/Per meter",
+          "rate": 11,
+          "chapter": 45
+        },
+        {
+          "item_no": "4501 (w)",
+          "description": "Releasing of the following equipments... (w) 'A' type foundations",
+          "unit": "No",
+          "rate": 478,
+          "chapter": 45
+        }
+      ]
+    },
+    "46": {
+      "name": "TELECOM WORKS",
+      "items": [
+        {
+          "item_no": "4601",
+          "description": "Installation, wiring... of 2 wire DTMF Selective Calling Telephone...",
+          "unit": "No",
+          "rate": 922,
+          "chapter": 46
+        },
+        {
+          "item_no": "4602",
+          "description": "Straight through / derivation... joints",
+          "unit": "Joint",
+          "rate": 1449,
+          "chapter": 46
+        },
+        {
+          "item_no": "4603",
+          "description": "Supply and jointing of 5T/TSF-3 Transformer Joint",
+          "unit": "No",
+          "rate": 9558,
+          "chapter": 46
+        },
+        {
+          "item_no": "4604",
+          "description": "Supply and fixing of 20 pair CT box...",
+          "unit": "Location",
+          "rate": 2737,
+          "chapter": 46
+        },
+        {
+          "item_no": "4605",
+          "description": "Supply and fixing of 10 pair CT box...",
+          "unit": "Set",
+          "rate": 1729,
+          "chapter": 46
+        },
+        {
+          "item_no": "4606",
+          "description": "Fixing of 12/10 pair weather proof C.T. Box...",
+          "unit": "No",
+          "rate": 340,
+          "chapter": 46
+        },
+        {
+          "item_no": "4607",
+          "description": "Installation of 100/50/20 pair Krone terminal Box...",
+          "unit": "No",
+          "rate": 375,
+          "chapter": 46
+        },
+        {
+          "item_no": "4608",
+          "description": "Termination of telecom cable at cable hut...",
+          "unit": "LS",
+          "rate": 2670,
+          "chapter": 46
+        },
+        {
+          "item_no": "4609",
+          "description": "Installation and commissioning of 4 Wire way station control equipment",
+          "unit": "No",
+          "rate": 3922,
+          "chapter": 46
+        },
+        {
+          "item_no": "4610",
+          "description": "Testing and commissioning of the system",
+          "unit": "No",
+          "rate": 3292,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (a)",
+          "description": "Provision of Emergency Socket (a) Fabrication... emergency socket post",
+          "unit": "No",
+          "rate": 2046,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (b)",
+          "description": "Provision of Emergency Socket (b) Strengthening the foundation",
+          "unit": "No",
+          "rate": 222,
+          "chapter": 46
+        },
+        {
+          "item_no": "4611 (c)",
+          "description": "Provision of Emergency Socket (c) Painting and numbering",
+          "unit": "No",
+          "rate": 325,
+          "chapter": 46
+        },
+        {
+          "item_no": "4612",
+          "description": "Supply & installation of Rack 19\" wall mount 6U...",
+          "unit": "No",
+          "rate": 7739,
+          "chapter": 46
+        },
+        {
+          "item_no": "4613",
+          "description": "Supply & installation of Rack 19\" wall mount 17U...",
+          "unit": "No",
+          "rate": 17545,
+          "chapter": 46
+        },
+        {
+          "item_no": "4614",
+          "description": "Laying of HDPE duct 40/33 mm dia...",
+          "unit": "Km.",
+          "rate": 7410,
+          "chapter": 46
+        },
+        {
+          "item_no": "4615",
+          "description": "Blowing of armoured optic fibre cable...",
+          "unit": "KM",
+          "rate": 10956,
+          "chapter": 46
+        },
+        {
+          "item_no": "4616",
+          "description": "Carrying out Duct Integrity test...",
+          "unit": "Km",
+          "rate": 1750,
+          "chapter": 46
+        },
+        {
+          "item_no": "4617",
+          "description": "Excavation of jointing pit...",
+          "unit": "No",
+          "rate": 6344,
+          "chapter": 46
+        },
+        {
+          "item_no": "4618",
+          "description": "Supply and Installation of OFC joint enclosure...",
+          "unit": "No",
+          "rate": 9398,
+          "chapter": 46
+        },
+        {
+          "item_no": "4619",
+          "description": "Supply and installation of rack mounted 24 fibre FDMS...",
+          "unit": "No",
+          "rate": 23712,
+          "chapter": 46
+        },
+        {
+          "item_no": "4620",
+          "description": "Testing of all 24 fibres of OFC cable...",
+          "unit": "LS",
+          "rate": 21512,
+          "chapter": 46
+        },
+        {
+          "item_no": "4621",
+          "description": "Testing of fibres between short haul station...",
+          "unit": "LS",
+          "rate": 7769,
+          "chapter": 46
+        },
+        {
+          "item_no": "4622",
+          "description": "Supply and installation of 45mmx 45mm PVC channels...",
+          "unit": "Mtr.",
+          "rate": 102,
+          "chapter": 46
+        },
+        {
+          "item_no": "4623",
+          "description": "Supply and fixing of different sizes of PVC casing...",
+          "unit": "RMT",
+          "rate": 48,
+          "chapter": 46
+        },
+        {
+          "item_no": "4624",
+          "description": "Supply and installation of 230 volts AC / 48 volts... SMPS...",
+          "unit": "No",
+          "rate": 83721,
+          "chapter": 46
+        },
+        {
+          "item_no": "4625",
+          "description": "Supply and installation of 48 volts 200 AH... battery",
+          "unit": "Set",
+          "rate": 104042,
+          "chapter": 46
+        },
+        {
+          "item_no": "4626",
+          "description": "Supply and installation... voltage stabilizer 5 KVA...",
+          "unit": "No",
+          "rate": 16625,
+          "chapter": 46
+        },
+        {
+          "item_no": "4627",
+          "description": "Supply and installation of 19\" - 42 U Rack...",
+          "unit": "No",
+          "rate": 41962,
+          "chapter": 46
+        },
+        {
+          "item_no": "4628",
+          "description": "Supply, installation... of managed expandable rack type STM-4...",
+          "unit": "No",
+          "rate": 311694,
+          "chapter": 46
+        },
+        {
+          "item_no": "4629",
+          "description": "Supply, installation... of LI (Optical) card...",
+          "unit": "No",
+          "rate": 43247,
+          "chapter": 46
+        },
+        {
+          "item_no": "4630",
+          "description": "Supply and installation of programmable Primary Digital Drop Insert Multiplexer...",
+          "unit": "No",
+          "rate": 274869,
+          "chapter": 46
+        },
+        {
+          "item_no": "4631",
+          "description": "Supply, Installation... of LI Electrical card...",
+          "unit": "No",
+          "rate": 51411,
+          "chapter": 46
+        },
+        {
+          "item_no": "4632",
+          "description": "Supply of FXO...",
+          "unit": "No",
+          "rate": 71031,
+          "chapter": 46
+        },
+        {
+          "item_no": "4633",
+          "description": "Supply of FXS...",
+          "unit": "No",
+          "rate": 80730,
+          "chapter": 46
+        },
+        {
+          "item_no": "4634",
+          "description": "Supply of interface cards for 2wire/4wire E&M...",
+          "unit": "No",
+          "rate": 118752,
+          "chapter": 46
+        },
+        {
+          "item_no": "4635",
+          "description": "Installation of power supply unit...",
+          "unit": "Set",
+          "rate": 426,
+          "chapter": 46
+        },
+        {
+          "item_no": "4636",
+          "description": "Installation, testing and commissioning of TDM multiplexer",
+          "unit": "No",
+          "rate": 3700,
+          "chapter": 46
+        },
+        {
+          "item_no": "4637",
+          "description": "Digging of cable pit...",
+          "unit": "No",
+          "rate": 1142,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (a)",
+          "description": "Maintenance of 6 quad cables... (a) Replacement of EC socket",
+          "unit": "No",
+          "rate": 249,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (b)",
+          "description": "Maintenance of 6 quad cables... (b) Replacement of EC box",
+          "unit": "No",
+          "rate": 870,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (c)",
+          "description": "Maintenance of 6 quad cables... (c) Localisation... at EC socket",
+          "unit": "Per Location",
+          "rate": 7703,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (d)",
+          "description": "Maintenance of 6 quad cables... (d) Localisation... on main cable",
+          "unit": "Per Location",
+          "rate": 10041,
+          "chapter": 46
+        },
+        {
+          "item_no": "4638 (e)",
+          "description": "Maintenance of 6 quad cables... (e) Periodical testing...",
+          "unit": "Per Block Section",
+          "rate": 916,
+          "chapter": 46
+        },
+        {
+          "item_no": "4639",
+          "description": "Fixing of Driver's telephone box...",
+          "unit": "No",
+          "rate": 1011,
+          "chapter": 46
+        },
+        {
+          "item_no": "4640",
+          "description": "Supply & erection of lattice type tripod towers...",
+          "unit": "No",
+          "rate": 41930,
+          "chapter": 46
+        },
+        {
+          "item_no": "4641",
+          "description": "Supply and installation of ONVIF 4MP IR bullet camera...",
+          "unit": "No",
+          "rate": 19303,
+          "chapter": 46
+        },
+        {
+          "item_no": "4642",
+          "description": "Supply and installation of ONVIF 16 Channel NVR...",
+          "unit": "No",
+          "rate": 30887,
+          "chapter": 46
+        },
+        {
+          "item_no": "4643",
+          "description": "Installation and commissioning charges...",
+          "unit": "No",
+          "rate": 3000,
+          "chapter": 46
+        }
+      ]
+    },
+    "47": {
+      "name": "TCAS (KAVACH)",
+      "items": [
+        {
+          "item_no": "4701",
+          "description": "Supply... station TCAS Equipment...",
+          "unit": "Set",
+          "rate": 3813170,
+          "chapter": 47
+        },
+        {
+          "item_no": "4702",
+          "description": "Supply... RFID tags...",
+          "unit": "Set",
+          "rate": 1025892,
+          "chapter": 47
+        },
+        {
+          "item_no": "4703",
+          "description": "Supply... LC TCAS Equipment...",
+          "unit": "Set",
+          "rate": 2578300,
+          "chapter": 47
+        },
+        {
+          "item_no": "4704",
+          "description": "Supply... station TCAS RIU...",
+          "unit": "Set",
+          "rate": 1017750,
+          "chapter": 47
+        },
+        {
+          "item_no": "4705 (a)",
+          "description": "Locomotive Equipment (a) Supply... Locomotive (on board) TCAS Equipment",
+          "unit": "Set",
+          "rate": 3935300,
+          "chapter": 47
+        },
+        {
+          "item_no": "4705 (b)",
+          "description": "Locomotive Equipment (b) Supply... Brake Interface unit",
+          "unit": "Set",
+          "rate": 1302720,
+          "chapter": 47
+        },
+        {
+          "item_no": "4706",
+          "description": "Supply... Test Bench for Loco equipment...",
+          "unit": "Set",
+          "rate": 3830811,
+          "chapter": 47
+        },
+        {
+          "item_no": "4707",
+          "description": "Supply of kit for configuring... RFID Tag data",
+          "unit": "Set",
+          "rate": 882050,
+          "chapter": 47
+        },
+        {
+          "item_no": "4708",
+          "description": "Supply... Test Bench for Station TCAS...",
+          "unit": "Set",
+          "rate": 1723390,
+          "chapter": 47
+        },
+        {
+          "item_no": "4709",
+          "description": "Supply... Network Management System...",
+          "unit": "Set",
+          "rate": 7192100,
+          "chapter": 47
+        },
+        {
+          "item_no": "4710",
+          "description": "Supply... kit for configuring... Loco equipment",
+          "unit": "Set",
+          "rate": 240144,
+          "chapter": 47
+        },
+        {
+          "item_no": "4711",
+          "description": "Supply... kit for configuring... Stationary Station TCAS",
+          "unit": "Set",
+          "rate": 240144,
+          "chapter": 47
+        },
+        {
+          "item_no": "4712",
+          "description": "Testing, commissioning of TCAS system...",
+          "unit": "RKM",
+          "rate": 33294,
+          "chapter": 47
+        },
+        {
+          "item_no": "4713",
+          "description": "Supply and erection of 40m lattice tower...",
+          "unit": "No",
+          "rate": 1709726,
+          "chapter": 47
+        }
+      ]
+    }
+  },
+  "grand_total_items": "428 (including all sub-variants across all chapters)",
+  "note": "All single items and sub-variants (like 113, 114, 115, 108–110, etc.) are fully covered in the complete extraction."
+}

@@ -1,0 +1,57 @@
+{
+  "LOA_ABSS": {
+    "defaultPage": 3,
+    "calculationPage": 3,
+    "schedulePages": {
+      "A": 3,
+      "B": 4,
+      "C": 5,
+      "D": 8,
+      "E": 10,
+      "F": 16,
+      "G": 18
+    },
+    "descriptionHints": [
+      {
+        "contains": "8 way rj-45 jack suitable for computer fixed on the modular pvc top covers",
+        "page": 3
+      }
+    ]
+  },
+  "STTC": {
+    "defaultPage": 3,
+    "calculationPage": 55,
+    "schedulePages": {
+      "A": 3,
+      "B": 4,
+      "C": 5,
+      "D": 3,
+      "E": 7,
+      "F": 8,
+      "G": 9
+    },
+    "descriptionHints": [
+      {
+        "contains": "8 way rj-45 jack suitable for computer fixed on the modular pvc top covers",
+        "page": 3
+      }
+    ]
+  },
+  "ZONAL_2024": {
+    "defaultPage": 3,
+    "calculationPage": 3,
+    "schedulePages": {
+      "A": 3,
+      "B": 4,
+      "C": 5,
+      "D": 6,
+      "E": 7,
+      "F": 8,
+      "G": 9
+    }
+  },
+  "SOR_2024": {
+    "defaultPage": 3,
+    "calculationPage": 3
+  }
+}

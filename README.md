@@ -1,1 +1,7 @@
-# Estim_App_AI
+Estim app:
+
+
+
+
+
+

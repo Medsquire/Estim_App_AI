@@ -1,0 +1,133 @@
+<c-card class="mb-4">
+  <c-card-header class="d-flex justify-content-between align-items-center">
+    <strong>Reference Document: {{ documentType.replace('_', ' ') }}</strong>
+    <c-input-group class="w-50">
+      <button cButton color="primary" size="sm" class="me-2" 
+              *ngIf="isLoaDocument()"
+              (click)="scrollToTop()">
+        <svg cIcon name="cilFile" class="me-1"></svg> View LOA Cover Page
+      </button>
+      <span cInputGroupText id="basic-addon1">
+        <svg cIcon name="cilSearch"></svg>
+      </span>
+      <input
+        cFormControl
+        placeholder="Search description..."
+        aria-label="Search"
+        aria-describedby="basic-addon1"
+        [(ngModel)]="localSearch"
+        (ngModelChange)="onSearchChange()"
+      />
+    </c-input-group>
+  </c-card-header>
+  <c-card-body>
+    <div *ngIf="isLoading" class="loading-overlay">
+      <div class="text-center p-5">
+        <div class="spinner-grow text-primary" role="status" style="width: 3rem; height: 3rem;">
+          <span class="visually-hidden">Loading...</span>
+        </div>
+        <p class="mt-3 fw-semibold text-primary">Preparing Interactive View...</p>
+        <small class="text-muted">Extracting document structure for rapid navigation</small>
+      </div>
+    </div>
+
+    <div class="document-container" #tableContainer *ngIf="!isLoading">
+      <!-- LOA Cover Page (Only for LOA documents) -->
+      <div id="loa-top" class="loa-cover-page mb-5" *ngIf="isLoaDocument()">
+        <div class="loa-inner-border">
+          <div class="loa-header text-center mt-4">
+            <h5 class="fw-bold mb-0">SOUTH CENTRAL RLY</h5>
+            <div class="loa-division-info text-end mt-2">
+              <h6 class="fw-bold mb-0">{{ loaData.division }}</h6>
+              <div class="small">
+                <div *ngFor="let line of loaData.address">{{ line }}</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="loa-meta d-flex justify-content-between mt-5 px-4 small fw-bold">
+            <div class="letter-no w-75">
+              Letter No: {{ loaData.letterNo }}
+            </div>
+            <div class="dated text-nowrap">
+              Dated: {{ loaData.date }}
+            </div>
+          </div>
+
+          <div class="loa-recipient mt-5 px-4">
+            <h6 class="fw-bold mb-1">{{ loaData.recipient?.name }}</h6>
+            <div class="small">
+              <div *ngFor="let line of loaData.recipient?.address">{{ line }}</div>
+            </div>
+          </div>
+
+          <div class="loa-content mt-5 px-4 mb-5">
+            <div class="d-flex mb-3">
+              <span class="fw-bold me-2" style="min-width: 40px;">Sub:</span>
+              <span class="fw-bold text-decoration-underline">{{ loaData.subject }}</span>
+            </div>
+            
+            <div class="d-flex mb-4">
+              <span class="fw-bold me-2" style="min-width: 40px;">Ref:</span>
+              <div class="ref-list small">
+                <div *ngFor="let ref of loaData.references; let i = index" class="d-flex mb-1">
+                  <span class="me-2">{{ i + 1 }}.</span>
+                  <span>{{ ref }}</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="loa-body small text-justify mt-4">
+              <p class="mb-3" style="text-indent: 1.5rem; line-height: 1.6;">
+                The Competent Authority has accepted your offered rates in connection with the subject work. 
+                The total cost of the work at the accepted rates works out to 
+                <strong>Rs. {{ loaData.totalAmount }}</strong> 
+                ({{ loaData.amountInWords }}).
+              </p>
+              <p class="mb-3" style="text-indent: 1.5rem; line-height: 1.6;">
+                A sum of Rs. {{ loaData.earnestMoney }} deposited as Earnest Money vide reference ID 
+                <strong>{{ loaData.moneyRefId }}</strong> 
+                has been retained towards initial Security Money for due and faithful fulfillment of the contract, 
+                and the balance Security Money will be recovered from the progressive bills.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <ng-container *ngFor="let table of tables; let tIdx = index">
+        <!-- Show all tables if no search, or table 0 (1st page), or the table containing the match -->
+        <div class="table-responsive mb-4" *ngIf="!localSearch || tIdx === 0 || tIdx === highlightedRowIndex?.tableIdx">
+          <table cTable hover striped bordered caption="top">
+            <caption>{{ tIdx === 0 ? 'Summary / Page 1' : 'Item Details (Table Section ' + (tIdx + 1) + ')' }}</caption>
+            <tbody>
+              <!-- Show all rows if no search, or all rows of table 0, OR the exact matched row -->
+              <ng-container *ngFor="let row of table; let rIdx = index">
+                <tr [id]="'row-' + tIdx + '-' + rIdx"
+                    [class.row-matched]="highlightedRowIndex?.tableIdx === tIdx && highlightedRowIndex?.rowIdx === rIdx"
+                    *ngIf="!localSearch || tIdx === 0 || (tIdx === highlightedRowIndex?.tableIdx && rIdx === highlightedRowIndex?.rowIdx)">
+                  <td *ngFor="let cell of row">
+                    <ng-container *ngIf="cell?.isSchedule; else plainText">
+                      <a href="javascript:void(0)" 
+                         class="text-primary text-decoration-underline" 
+                         (click)="scrollToSchedule(cell.scheduleKey)">
+                        {{ cell.text }}
+                      </a>
+                    </ng-container>
+                    <ng-template #plainText>
+                      {{ cell?.text !== undefined ? cell.text : cell }}
+                    </ng-template>
+                  </td>
+                </tr>
+              </ng-container>
+            </tbody>
+          </table>
+        </div>
+      </ng-container>
+      
+      <div *ngIf="tables.length === 0" class="text-center p-5 text-muted">
+        No content found in this document.
+      </div>
+    </div>
+  </c-card-body>
+</c-card>

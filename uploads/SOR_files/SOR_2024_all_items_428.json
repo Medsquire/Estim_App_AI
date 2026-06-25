@@ -1,0 +1,3426 @@
+[
+  {
+    "item_no": "503",
+    "description": "coil resistance 9 ohm, complete wit h plug board, retaining",
+    "unit": "No.",
+    "rate": 4806,
+    "chapter": 5,
+    "page": 12
+  },
+  {
+    "item_no": "508",
+    "description": "Supply of Point chain gro up of Siemens m ake o r functional",
+    "unit": "No.",
+    "rate": 38790,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "509",
+    "description": "Supply of RRI p oint grou p of Siemens m ake or functional 0",
+    "unit": "No.",
+    "rate": 81472,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "510",
+    "description": "Supply of P1 p o int grou p of Siemens m ake or functional",
+    "unit": "No.",
+    "rate": 51162,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "511",
+    "description": "Supply of rout e group of S iemens m ake or functional",
+    "unit": "No.",
+    "rate": 47501,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "512",
+    "description": "Supply of signal g roup, 2 a spect of Siemens make or functional",
+    "unit": "No.",
+    "rate": 44093,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "513",
+    "description": "Supply of signal g roup, 3 a spect of Siemens make o r functional",
+    "unit": "No.",
+    "rate": 53569,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "514",
+    "description": "equivalent with base pl ate as per spe cificati ons RSSK",
+    "unit": "No.",
+    "rate": 53228,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "515",
+    "description": "with contact con fi guration 4 F/4B , 5F/3B, 6F/ 2B with base plate",
+    "unit": "No.",
+    "rate": 5022,
+    "chapter": 5,
+    "page": 13
+  },
+  {
+    "item_no": "516",
+    "description": "group housing with cont act configuration 4F/4B alon g with",
+    "unit": "No.",
+    "rate": 5697,
+    "chapter": 5,
+    "page": 14
+  },
+  {
+    "item_no": "517",
+    "description": "contact config uration 4 F/4B with base plate a s per",
+    "unit": "No.",
+    "rate": 5697,
+    "chapter": 5,
+    "page": 14
+  },
+  {
+    "item_no": "602",
+    "description": "supplied with stainles s steel nuts a nd bolts for fix ing the rack,",
+    "unit": "No.",
+    "rate": 7585,
+    "chapter": 6,
+    "page": 15
+  },
+  {
+    "item_no": "603 (a)",
+    "description": "size 60mm (link cen tre to centre) as per RDS O DRG. No.",
+    "unit": "No.",
+    "rate": 97,
+    "chapter": 6,
+    "page": 15
+  },
+  {
+    "item_no": "604",
+    "description": "Supply of mini WSB markers for modular term inals WAGO",
+    "unit": "Set",
+    "rate": 64,
+    "chapter": 6,
+    "page": 15
+  },
+  {
+    "item_no": "606",
+    "description": "fuses with audio visua l indication as per specif ic ati on",
+    "unit": "Set",
+    "rate": 46656,
+    "chapter": 6,
+    "page": 16
+  },
+  {
+    "item_no": "801 (a)",
+    "description": "230V AC / 110V DC, 30A singl e ph ase, signal ling! telecom.",
+    "unit": "No.",
+    "rate": 110464,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "801 (b)",
+    "description": "230V AC ! 24-26-28V DC, 30A capa city as per specification",
+    "unit": "No.",
+    "rate": 55373,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "801 (c)",
+    "description": "230V AC / 24-26-28V DC, 20A capa city as per specification",
+    "unit": "No.",
+    "rate": 34433,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "802 (a)",
+    "description": "Transformer-rectifier set with 1 1OV AC input, 24V-30V DC",
+    "unit": "No.",
+    "rate": 19470,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "802 (b)",
+    "description": "Transformer-rectifier set with 2 30V AC input, 24V-30V DC",
+    "unit": "No.",
+    "rate": 25960,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "803",
+    "description": "Supply of ON ! OFF Rotary Swit ches of 16A rati ng 2/1 pole of",
+    "unit": "No.",
+    "rate": 500,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "804 (a)",
+    "description": "Four channel Earth Leakage De tecto r.",
+    "unit": "No.",
+    "rate": 78179,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "804 (b)",
+    "description": "Eight channel Earth Leakage De tect or.",
+    "unit": "No.",
+    "rate": 88000,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "804 (c)",
+    "description": "Twelve channel Earth Leakage Dete ctor.",
+    "unit": "No.",
+    "rate": 190261,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "805",
+    "description": "60A capacity as per specification TI/S PC/PSI!CL S/0020 with A",
+    "unit": "No.",
+    "rate": 61666,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "806",
+    "description": "on 3 supplies 25kVA AT, 240V A C si ngle phase , 50Hz, 150A",
+    "unit": "No.",
+    "rate": 227480,
+    "chapter": 8,
+    "page": 18
+  },
+  {
+    "item_no": "1403",
+    "description": "Nos Tx coils and 2 nu mber s Rx coils) - 2 sets",
+    "unit": "Set",
+    "rate": 887832,
+    "chapter": 14,
+    "page": 27
+  },
+  {
+    "item_no": "1404 (a)",
+    "description": "Signal Conditioner Card or Phase D etectio n Card for",
+    "unit": "No.",
+    "rate": 41220,
+    "chapter": 14,
+    "page": 27
+  },
+  {
+    "item_no": "1404 (a)",
+    "description": "HASSDAC D etectio n Card for",
+    "unit": "No.",
+    "rate": 41141,
+    "chapter": 14,
+    "page": 27
+  },
+  {
+    "item_no": "1404 (d)",
+    "description": "Dual micro controller logic card or CPU Car d for H ASSDAC",
+    "unit": "No.",
+    "rate": 110256,
+    "chapter": 14,
+    "page": 27
+  },
+  {
+    "item_no": "1404 (e)",
+    "description": "Relay Driver card for HAS SDA C",
+    "unit": "No.",
+    "rate": 41141,
+    "chapter": 14,
+    "page": 27
+  },
+  {
+    "item_no": "1404 (f)",
+    "description": "DC- DC convert er card for HASSDA C",
+    "unit": "No.",
+    "rate": 24684,
+    "chapter": 14,
+    "page": 28
+  },
+  {
+    "item_no": "1404 (g)",
+    "description": "Axl e detectors (each set consist s of 2 nu mbers T x and 2",
+    "unit": "No.",
+    "rate": 55951,
+    "chapter": 14,
+    "page": 28
+  },
+  {
+    "item_no": "1404 (h)",
+    "description": "Res et box for H ASSOAC",
+    "unit": "No.",
+    "rate": 59243,
+    "chapter": 14,
+    "page": 28
+  },
+  {
+    "item_no": "1406",
+    "description": "v ers ion or simila r. The earth tester shall be n on-con tact type",
+    "unit": "No.",
+    "rate": 83799,
+    "chapter": 14,
+    "page": 28
+  },
+  {
+    "item_no": "1502",
+    "description": "for single ph ase supply in TT networ k as per specification",
+    "unit": "Set",
+    "rate": 14999,
+    "chapter": 15,
+    "page": 29
+  },
+  {
+    "item_no": "1504",
+    "description": "KOB LE 2800 KB VER 3.0 o r similar):",
+    "unit": "Set",
+    "rate": 65725,
+    "chapter": 15,
+    "page": 29
+  },
+  {
+    "item_no": "1505",
+    "description": "Sup ply of GI wire (8 SWG).",
+    "unit": "Kg",
+    "rate": 175,
+    "chapter": 15,
+    "page": 29
+  },
+  {
+    "item_no": "1601 (d)",
+    "description": "Supply of GI Octagonal B oom 32 feet su itable t o MFT make",
+    "unit": "No.",
+    "rate": 16082,
+    "chapter": 15,
+    "page": 30
+  },
+  {
+    "item_no": "1602 (a)",
+    "description": "Supply of LED Based Station Master i ndication to show the",
+    "unit": "Pair",
+    "rate": 27258,
+    "chapter": 15,
+    "page": 31
+  },
+  {
+    "item_no": "1602 (b)",
+    "description": "Supply of LED Based Audio-Visual appr oach warning unit with",
+    "unit": "No.",
+    "rate": 32450,
+    "chapter": 15,
+    "page": 31
+  },
+  {
+    "item_no": "1602 (c)",
+    "description": "Supply of Communic ation unit for rece iving unit for receiving",
+    "unit": "Pair",
+    "rate": 179124,
+    "chapter": 15,
+    "page": 31
+  },
+  {
+    "item_no": "1009",
+    "description": "(e) HDPE pipe of 180mm D ia.",
+    "unit": "Meter",
+    "rate": 1009,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "1080",
+    "description": "0 (b) Bend to suit DWC of 12 0mm out er diameter, 1 03mm inner",
+    "unit": "No.",
+    "rate": 1080,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "1523",
+    "description": "(d) Bend for HDPE pipe of 160mm Dia.",
+    "unit": "No.",
+    "rate": 1523,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "154",
+    "description": "(i) upply of H DPE jerr y can of 20 litres capacity. The jer ry can",
+    "unit": "No.",
+    "rate": 154,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "1701",
+    "description": "Supply of piezo buzzers working on 24 V DC r eputed m ake.",
+    "unit": "No.",
+    "rate": 78,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1702",
+    "description": "Supplyof PVC Pipe 110mm dia, 6m l ength inc luding jo ints.",
+    "unit": "No.",
+    "rate": 1163,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1703",
+    "description": "Supply of PVC Conduit pipe 3m lengt h, 25mm dia with r equired",
+    "unit": "No.",
+    "rate": 51,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1704",
+    "description": "Supply of Vulco Tape of size 45mm width x 1. 5mm thic kness x",
+    "unit": "No.",
+    "rate": 2073,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1705 (a)",
+    "description": "Aluminium lugs 25 sq.mm of reputed make.",
+    "unit": "No.",
+    "rate": 25,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1705 (b)",
+    "description": "Copper lugs l0sq.mm of reputed ma ke.",
+    "unit": "No.",
+    "rate": 12,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1706",
+    "description": "Supply of Corium Z 105 Battery cleaner and term inal",
+    "unit": "No.",
+    "rate": 5274,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1707",
+    "description": "Supply of LED holders with LEDs of size 5 m m with 0. 5 Watt",
+    "unit": "No.",
+    "rate": 18,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1708",
+    "description": "Supply of Solid State Buzzers with different frequen cies in",
+    "unit": "No.",
+    "rate": 300,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1709",
+    "description": "Supply of 2N/2R Micro switch of L&T or Sieme ns make",
+    "unit": "No.",
+    "rate": 557,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1710",
+    "description": "Supply of 6 digit 24V non resettable i mpulse c ounter.",
+    "unit": "No.",
+    "rate": 1390,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1712",
+    "description": "locksorpartthereof(Forexample, if l ocks ord ered is 1 0,1 key",
+    "unit": "No.",
+    "rate": 195,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1714",
+    "description": "Supply of 50V, 10000pF electrolyti c conden ser of re puted",
+    "unit": "No.",
+    "rate": 486,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1715",
+    "description": "RPM shall be 1900 / 1000 and th e power input is 550W.",
+    "unit": "No.",
+    "rate": 22602,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "1716",
+    "description": "Su pply of fol lowing ite ms for Station:",
+    "unit": "No.",
+    "rate": 29573,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "1717 (a)",
+    "description": "A 2 size circu it diagra m sheets.",
+    "unit": "No.",
+    "rate": 59,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "1717 (b)",
+    "description": "A 3 size circu it diagra m sheets.",
+    "unit": "No.",
+    "rate": 30,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "1724",
+    "description": "Supply of Cabl e Route L ocator set consis ting of rec eiver with active line trac e frequen cy, passive lin e trace a nd depth measurement on active line tracing with 5 watts cable line transmitter with frequency indicator, power indicator, frequency mode sheet, power 'O N' & 'OFF' indic ator mo de toggle. I",
+    "unit": "No",
+    "rate": 377600,
+    "chapter": 17,
+    "page": 37
+  },
+  {
+    "item_no": "1725",
+    "description": "all accessories for locatin g faults such as loop and break in various twisted pair cables such as undergr ound tele com quad",
+    "unit": "No.",
+    "rate": 317822,
+    "chapter": 17,
+    "page": 37
+  },
+  {
+    "item_no": "2285",
+    "description": "(e) Bend for HDPE pipe of 18 0mm Dia.",
+    "unit": "No.",
+    "rate": 2285,
+    "chapter": 17,
+    "page": 37
+  },
+  {
+    "item_no": "2401",
+    "description": "(p) Su pply of pri nted bilin gual fibre boards of size 4.5 \" X 12\" . The",
+    "unit": "No.",
+    "rate": 2401,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "2401 (q)",
+    "description": "upply of Pr inter for maintenance ter minal at s tation - HP",
+    "unit": "No.",
+    "rate": 16135,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "358",
+    "description": "(a) HDPE pipe of 110mm D ia.",
+    "unit": "Meter",
+    "rate": 358,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "3766",
+    "description": "b) 50V, 1000pF electrolytic capacito r —20 N os.",
+    "unit": "Set",
+    "rate": 3766,
+    "chapter": 17,
+    "page": 32
+  },
+  {
+    "item_no": "377",
+    "description": "(a) Bend for HDPE pipe of 110mm Dia.",
+    "unit": "No.",
+    "rate": 377,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "3827",
+    "description": "(b) DWC of outer Diameter 180mm and inner Dia meter 153mm",
+    "unit": "No.",
+    "rate": 3827,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "4018",
+    "description": "(b) upply of Go drej CH7 model or similar",
+    "unit": "No.",
+    "rate": 4018,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "4245",
+    "description": "(d) Supply of Surveyor's W heel (rod ometer).",
+    "unit": "No.",
+    "rate": 4245,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "488",
+    "description": "C (b) HDPE pipe of 125mm D ia.",
+    "unit": "Meter",
+    "rate": 488,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "489",
+    "description": "(f) upply of ste el stools 18\" height neatly finished a nd pain ted.",
+    "unit": "No.",
+    "rate": 489,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "4961",
+    "description": "(g) Supply of Analog Insula tion Test er of model N o. Meco MC",
+    "unit": "No.",
+    "rate": 4961,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "5516",
+    "description": "(c) upply of Go drej PCH 5d13R model or similar",
+    "unit": "No.",
+    "rate": 5516,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "5516 (d)",
+    "description": "upply of Go drej PCH 5002T model or similar",
+    "unit": "No.",
+    "rate": 10671,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "5516 (e)",
+    "description": "upply of G odrej sh elf storage of 91 6 x 486 x 1981 m m or",
+    "unit": "No.",
+    "rate": 26479,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "563",
+    "description": "(j) Su pply of Go drej Nav tal Locks with dia meter of 5 0mm w ith 3",
+    "unit": "No.",
+    "rate": 563,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "563 (k)",
+    "description": "di mensions 60mm x 20mm x 3mm. The plasti c name plate",
+    "unit": "No.",
+    "rate": 34,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "5884",
+    "description": "(h) Supply of Analog Earth Tester o f WACO make or similar",
+    "unit": "No.",
+    "rate": 5884,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "5884 (i)",
+    "description": "C Supply of Digital Trans mission M easuring Set as per",
+    "unit": "No.",
+    "rate": 27853,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "6055",
+    "description": "(a) Bend to suit DWC of 63 mm oute r diameter, 50 mm inner dia.",
+    "unit": "No.",
+    "rate": 6055,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "615",
+    "description": "(c) HDPE pipe of 140mm D ia.",
+    "unit": "Meter",
+    "rate": 615,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "6561",
+    "description": "(c) DWC of outer Diameter 250mm and inner Dia meter 217mm",
+    "unit": "No.",
+    "rate": 6561,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "658",
+    "description": "(h) upply of rot ary barre l hand pump of c apacity 5 l itres /20 turns",
+    "unit": "No.",
+    "rate": 658,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "800",
+    "description": "(d) HDPE pipe of 160mm D ia.",
+    "unit": "Meter",
+    "rate": 800,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "8311",
+    "description": "(d) DWC of outer Diameter 315mm and inner Dia meter 271 mm",
+    "unit": "No.",
+    "rate": 8311,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "875",
+    "description": "(a) DWC of outer Diameter 63mm a nd inner Diam eter 50mm",
+    "unit": "No.",
+    "rate": 875,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "9122",
+    "description": "(m) upply of A luminium Step ladder of 5 feet heig ht of B athla",
+    "unit": "No.",
+    "rate": 9122,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "918",
+    "description": "(b) Bend for HDPE pipe of 125mm Dia.",
+    "unit": "No.",
+    "rate": 918,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "9281",
+    "description": "(o) upply of Al kosign fe lt notice board of size 4 x 3 with gl ossy",
+    "unit": "No.",
+    "rate": 9281,
+    "chapter": 17,
+    "page": 33
+  },
+  {
+    "item_no": "979",
+    "description": "(c) Bend for HDPE pipe of 140mm Dia.",
+    "unit": "No.",
+    "rate": 979,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "999",
+    "description": "(e) grade titanium electrod e with au to temperatur e correction for",
+    "unit": "No.",
+    "rate": 999,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "999 (f)",
+    "description": "Supply of Distilled wate r plant/D emineralised plant of 10",
+    "unit": "No.",
+    "rate": 27468,
+    "chapter": 17,
+    "page": 36
+  },
+  {
+    "item_no": "1204",
+    "description": "instructions of engineer in ch arge as per drawi ng no. SK",
+    "unit": "No.",
+    "rate": 1204,
+    "chapter": 18,
+    "page": 42
+  },
+  {
+    "item_no": "1233",
+    "description": "(o) ESBEE make, suitable to work wi th Block Panel of Deltron or",
+    "unit": "No.",
+    "rate": 1233,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1239",
+    "description": "(a) Alteration to painti ng particul ars (appara tus case - Full",
+    "unit": "No.",
+    "rate": 1239,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "1645",
+    "description": "0 concreting the sa me with 1 :3:6 aggre gate 20mm for",
+    "unit": "No.",
+    "rate": 1645,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "1791",
+    "description": "(a) Painting of existing apparatus case - Full s ize",
+    "unit": "No.",
+    "rate": 1791,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "1796",
+    "description": "meter for providin g coil at location box, point, signals etc.,",
+    "unit": "No.",
+    "rate": 1796,
+    "chapter": 18,
+    "page": 40
+  },
+  {
+    "item_no": "1801 (a)",
+    "description": "Input card comp atible with existing UFSBI system",
+    "unit": "No.",
+    "rate": 13424,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1801 (b)",
+    "description": "Output card com patible with existi ng UFS BI system",
+    "unit": "No.",
+    "rate": 34198,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1801 (c)",
+    "description": "CPU card comp atible with existing UFSBI system",
+    "unit": "No.",
+    "rate": 29439,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1801 (d)",
+    "description": "Control & Comm unication card co mpatible with exis ting UFSBI",
+    "unit": "No.",
+    "rate": 25233,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1801 (e)",
+    "description": "MODEM compa tible with existing UFSBI s ystem",
+    "unit": "No.",
+    "rate": 28878,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "1801 (f)",
+    "description": "DC-DC Convert er (Hot standby Ty pe)",
+    "unit": "No.",
+    "rate": 48000,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "2217",
+    "description": "(c) Shifting of apparatu s case (Qu arter)",
+    "unit": "No.",
+    "rate": 2217,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "2501",
+    "description": "Location survey for cable ro ute and p reparation of tentative",
+    "unit": "RKM",
+    "rate": 1472,
+    "chapter": 18,
+    "page": 39
+  },
+  {
+    "item_no": "2502 (a)",
+    "description": "Depth of 1200mm a nd widt h of 300m m",
+    "unit": "RKM",
+    "rate": 98750,
+    "chapter": 18,
+    "page": 39
+  },
+  {
+    "item_no": "2502 (b)",
+    "description": "Depth of 1000mm a nd widt h of 300m m",
+    "unit": "RKM",
+    "rate": 82000,
+    "chapter": 18,
+    "page": 39
+  },
+  {
+    "item_no": "2502 (c)",
+    "description": "Depth of 1000mm a nd widt h of 600m m",
+    "unit": "RKM",
+    "rate": 164560,
+    "chapter": 18,
+    "page": 39
+  },
+  {
+    "item_no": "2502 (d)",
+    "description": "Depth of 600mm an d width of 600mm",
+    "unit": "RKM",
+    "rate": 98750,
+    "chapter": 18,
+    "page": 39
+  },
+  {
+    "item_no": "2512",
+    "description": "Supply and Fill ing s and in trench/under floors/OFC",
+    "unit": "cum",
+    "rate": 1562,
+    "chapter": 18,
+    "page": 40
+  },
+  {
+    "item_no": "2526",
+    "description": "Supply and laying of pow der coated MS Ladde r of 400mm",
+    "unit": "Meter",
+    "rate": 4500,
+    "chapter": 18,
+    "page": 43
+  },
+  {
+    "item_no": "2528",
+    "description": "Videography of w ork spo ts such as Signal/LB foundation,",
+    "unit": "RKM",
+    "rate": 460,
+    "chapter": 18,
+    "page": 43
+  },
+  {
+    "item_no": "2530",
+    "description": "Supply and layin g of PV C Warning Tape colo ur Orange,",
+    "unit": "KM",
+    "rate": 11682,
+    "chapter": 18,
+    "page": 43
+  },
+  {
+    "item_no": "2596",
+    "description": "(j) Flat cable set",
+    "unit": "No.",
+    "rate": 2596,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "2596 (i)",
+    "description": "channel (indivi dually configurabl e to 2 /4 wire by simple",
+    "unit": "No.",
+    "rate": 204130,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "2596 (k)",
+    "description": "work on backup media (either VF- channel on OFC P/Mux or 2",
+    "unit": "Pair",
+    "rate": 78970,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "2601 (a)",
+    "description": "Excavation of pit, casting c oncrete foundati on and erection of apparatus case Full siz e as per SCR Or g. No. 5781 and No.of ' E' type l ock for the fron t door, latching fixing of 1 0 arrangement for b ackdoo r, fixing of Hylam sheet (Hylam sheet supply is co vered el sewhere and W ooden Reapers",
+    "unit": "No.",
+    "rate": 15324,
+    "chapter": 18,
+    "page": 44
+  },
+  {
+    "item_no": "2601 (b)",
+    "description": "Excavation of pit, casting c oncrete foundati on and erection of apparatus case half size a s per Org. No.SK/CN/1/89/B/ 1, fixing one E type lo ck for the front",
+    "unit": "No.",
+    "rate": 10809,
+    "chapter": 18,
+    "page": 44
+  },
+  {
+    "item_no": "2602",
+    "description": "Installation in loca tion box at RE cuttings and wiring of all",
+    "unit": "No.",
+    "rate": 559,
+    "chapter": 18,
+    "page": 44
+  },
+  {
+    "item_no": "2683",
+    "description": "(b) Shifting of apparatu s case (Hal f)",
+    "unit": "No.",
+    "rate": 2683,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "368",
+    "description": "(d) Basement plaster ing of Full/Half locatio n box. All the",
+    "unit": "No.",
+    "rate": 368,
+    "chapter": 18,
+    "page": 44
+  },
+  {
+    "item_no": "388",
+    "description": "(b) Half Location Bo x",
+    "unit": "No.",
+    "rate": 388,
+    "chapter": 18,
+    "page": 45
+  },
+  {
+    "item_no": "405",
+    "description": "width of 0.5m on a ll sides, up to a level 15 0mm below the",
+    "unit": "cum",
+    "rate": 405,
+    "chapter": 18,
+    "page": 44
+  },
+  {
+    "item_no": "4053",
+    "description": "(a) Shifting of apparatu s case (Ful l)",
+    "unit": "No.",
+    "rate": 4053,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "452 (h)",
+    "description": "Supply and fix ing of Tea k Wood planks o f sizes as instructed by th e site in-c ha rge wi th smoot h finishing e surface to be p rovided wh ere ever required such as in",
+    "unit": "cum",
+    "rate": 65659,
+    "chapter": 18,
+    "page": 45
+  },
+  {
+    "item_no": "452 (i)",
+    "description": "Supply & fixing Hard Wood pla nks of 40mm thi ck and not less than 200 m m width with s mooth surface, a nd painting",
+    "unit": "cum",
+    "rate": 28005,
+    "chapter": 18,
+    "page": 45
+  },
+  {
+    "item_no": "5007",
+    "description": "grade including the cost of cen tring and shuttering :- 1:3:6 (1",
+    "unit": "cum",
+    "rate": 5007,
+    "chapter": 18,
+    "page": 42
+  },
+  {
+    "item_no": "6308",
+    "description": "(m) UFSBI Block Te lephone (Complet e with P TT Hand set)",
+    "unit": "No.",
+    "rate": 6308,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "6308 (n)",
+    "description": "Automatic me dia changeover of Mo dems w orking on",
+    "unit": "Pair",
+    "rate": 35326,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "6435 (h)",
+    "description": "Mother board c ompatible with exi sting UF SBI syst em fitted in",
+    "unit": "No.",
+    "rate": 54634,
+    "chapter": 18,
+    "page": 38
+  },
+  {
+    "item_no": "650",
+    "description": "(b) Alteration to painti ng particul ars (appara tus case - Half",
+    "unit": "No.",
+    "rate": 650,
+    "chapter": 18,
+    "page": 46
+  },
+  {
+    "item_no": "734",
+    "description": "bridge/culvert entries duly prov iding GI b end/ flexib le conduit",
+    "unit": "No.",
+    "rate": 734,
+    "chapter": 18,
+    "page": 42
+  },
+  {
+    "item_no": "766",
+    "description": "drawing No. S &TI RE/78/2/76 and fitting of GI pip e supplied",
+    "unit": "No.",
+    "rate": 766,
+    "chapter": 18,
+    "page": 42
+  },
+  {
+    "item_no": "776",
+    "description": "(a) Full Location Bo x",
+    "unit": "No.",
+    "rate": 776,
+    "chapter": 18,
+    "page": 45
+  },
+  {
+    "item_no": "9924",
+    "description": "of sand filling cover ed wit h concreting of size 1.3 m eter dia. and",
+    "unit": "Each",
+    "rate": 9924,
+    "chapter": 18,
+    "page": 40
+  },
+  {
+    "item_no": "103",
+    "description": "(a) Colour Light Sig nals each LED",
+    "unit": "No.",
+    "rate": 103,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "103 (b)",
+    "description": "Route Indicator Junction type o n each LED",
+    "unit": "No.",
+    "rate": 72,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "1053",
+    "description": "(f) Fixing and w irin g of additi onal limb to existing ro ute indicator 0",
+    "unit": "No.",
+    "rate": 1053,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "156",
+    "description": "E arth pits of dimension s as shown in IRSEM drg no 19-D6.",
+    "unit": "No.",
+    "rate": 156,
+    "chapter": 27,
+    "page": 49
+  },
+  {
+    "item_no": "1848",
+    "description": "of Aluminium! e namel paint on t he Signals & W hite paint inside",
+    "unit": "No.",
+    "rate": 1848,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "2156",
+    "description": "(a) 1 way route indi cator",
+    "unit": "No.",
+    "rate": 2156,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "2364",
+    "description": "painting of o ne coat of red oxide and two coats of aluminium /",
+    "unit": "No.",
+    "rate": 2364,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "2554",
+    "description": "(b) 2 way route indi cator",
+    "unit": "No.",
+    "rate": 2554,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "2702",
+    "description": "Provision of ring earth by providi ng & connecting conventional earths w ith copper catenary wire as required at site as per instructio ns site in charge. E xcavation of earth and providing earth pi pe of size 50mm dia , 3.5mm thickness, 2.0m long GI pipe of heavy quality alon g with masonry tub constructed around at earth locations a s specified by site Engineer. Alternate l ayers of charcoal (3 0 kg) and common salt (30 kg) to be fill ed in each pit whil e closing the pipe perforation etc., to be carried out as per drawing no.",
+    "unit": "No.",
+    "rate": 24286,
+    "chapter": 27,
+    "page": 48
+  },
+  {
+    "item_no": "2705",
+    "description": "upply and Installation of \"A\"-Type LPS (ERIC O or similar make) Model No: Syste m 3000 or si milar. a) Air Terminal - iN o. b) Insulated 2m FRP Mast Black -1 c) Upper Termination Kit -1 No. d) Lower Termination Kit -1 No. e) Lightning Event C ounter -iNo. I",
+    "unit": "No.",
+    "rate": 315000,
+    "chapter": 27,
+    "page": 49
+  },
+  {
+    "item_no": "2706",
+    "description": "upply and installation of \"FRANKL IN ROD\" as per NFPA- 7 80 Standards. Installa tion to be don e as per SC R Drawing N o.5777. It also include s connection of down con ductor with",
+    "unit": "No.",
+    "rate": 66720,
+    "chapter": 27,
+    "page": 49
+  },
+  {
+    "item_no": "2711",
+    "description": "tape of 150X2 5X6mm on earth electr ode for connecting",
+    "unit": "Set",
+    "rate": 6338,
+    "chapter": 27,
+    "page": 50
+  },
+  {
+    "item_no": "2750",
+    "description": "s eparation distance s = < 75 cm (in ai r) or s =< 15 0 cm (solid",
+    "unit": "Meter",
+    "rate": 2750,
+    "chapter": 27,
+    "page": 49
+  },
+  {
+    "item_no": "2951",
+    "description": "(c) 3 way route indi cator",
+    "unit": "No.",
+    "rate": 2951,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "3627",
+    "description": "approximately im to a n earby positi on so as to clear the",
+    "unit": "No.",
+    "rate": 3627,
+    "chapter": 27,
+    "page": 55
+  },
+  {
+    "item_no": "4194",
+    "description": "from the live co nductor by ex panding meta l (size 20mm x",
+    "unit": "No.",
+    "rate": 4194,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "4456",
+    "description": "(d) 4 way route indi cator",
+    "unit": "No.",
+    "rate": 4456,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "469",
+    "description": "G/P/C/A/AG/IB Markers as per IRSEM Drg.No .19-D1O on MS",
+    "unit": "Each",
+    "rate": 469,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "487",
+    "description": "made of hard w ood of size 10 00mm x 100m m x 20mm. The",
+    "unit": "No.",
+    "rate": 487,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "5152",
+    "description": "(e) 6 way route indi cator",
+    "unit": "No.",
+    "rate": 5152,
+    "chapter": 27,
+    "page": 53
+  },
+  {
+    "item_no": "5162",
+    "description": "instructions of R ailway represe ntative at site. The signal shall",
+    "unit": "No.",
+    "rate": 5162,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "6652",
+    "description": "around at earth loca tions as specified by site Engineer.",
+    "unit": "No.",
+    "rate": 6652,
+    "chapter": 27,
+    "page": 48
+  },
+  {
+    "item_no": "6805",
+    "description": "the work shall b e supp lied by the contr actor).",
+    "unit": "No.",
+    "rate": 6805,
+    "chapter": 27,
+    "page": 52
+  },
+  {
+    "item_no": "721",
+    "description": "(d) Box type mesh f or ground type shunt signal",
+    "unit": "No",
+    "rate": 721,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "736",
+    "description": "m m x 300mm with 50 mm wall thic kness as p er Drg. no.",
+    "unit": "No.",
+    "rate": 736,
+    "chapter": 27,
+    "page": 49
+  },
+  {
+    "item_no": "8400",
+    "description": "brackets duly d rilling holes on the signal pol es, provision of",
+    "unit": "No.",
+    "rate": 8400,
+    "chapter": 27,
+    "page": 54
+  },
+  {
+    "item_no": "1355",
+    "description": "near electrica l detector and c arr ying out wirin g by neatly",
+    "unit": "No.",
+    "rate": 1355,
+    "chapter": 29,
+    "page": 56
+  },
+  {
+    "item_no": "149",
+    "description": "charge. Before p aintin g on surface of the Glue d Joint",
+    "unit": "No.",
+    "rate": 149,
+    "chapter": 29,
+    "page": 57
+  },
+  {
+    "item_no": "1509",
+    "description": "wires, providing insula tion etc,. Co nnected wit h track",
+    "unit": "No.",
+    "rate": 1509,
+    "chapter": 29,
+    "page": 57
+  },
+  {
+    "item_no": "505",
+    "description": "drilling 4 holes of 7.2 m m dia. on Rail, connecting double",
+    "unit": "No.",
+    "rate": 505,
+    "chapter": 29,
+    "page": 57
+  },
+  {
+    "item_no": "6460",
+    "description": "frames and co ntrolling relay s, fi xing and wiri ng of point",
+    "unit": "No.",
+    "rate": 6460,
+    "chapter": 29,
+    "page": 56
+  },
+  {
+    "item_no": "920",
+    "description": "fixing of point /trap indicator and commissioni ng of hand",
+    "unit": "No.",
+    "rate": 920,
+    "chapter": 29,
+    "page": 56
+  },
+  {
+    "item_no": "103",
+    "description": "i.e. One Signal Unit ( with or with out route) /Track Circuit/LC",
+    "unit": "Each",
+    "rate": 103,
+    "chapter": 31,
+    "page": 66
+  },
+  {
+    "item_no": "155",
+    "description": "to suit to I way re lay rack and fixing the fo llowing with",
+    "unit": "LS",
+    "rate": 155,
+    "chapter": 31,
+    "page": 60
+  },
+  {
+    "item_no": "1563",
+    "description": "on boards/all t ypes of boards . (A pit of s ize 4 00 mm x 400",
+    "unit": "No.",
+    "rate": 1563,
+    "chapter": 31,
+    "page": 58
+  },
+  {
+    "item_no": "158",
+    "description": "bottom and t op roll er, MS pin for top rol ler, split pin.",
+    "unit": "No.",
+    "rate": 158,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "1815",
+    "description": "lifting barrier gate meeti ng po sts, using an chor b olts of size",
+    "unit": "Set",
+    "rate": 1815,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "2417",
+    "description": "at in the side gate lodge. It sho uld be drille d 18 holes and",
+    "unit": "No.",
+    "rate": 2417,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "2545",
+    "description": "Service of the DG set as per the manu facturer's instructions. Per ' ' All the consumab les are to be arrange d by con tractor. ervice Installation, wiring , earth connections w ith SEE B, testing and commissioning of IPS system. W ires/cabl es shall be supplied by Rai lways, Charging of battery is covered",
+    "unit": "No.",
+    "rate": 21746,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "2870",
+    "description": "Supply & Fixing o f Contro l Equipment Panel of Teak Wood",
+    "unit": "No.",
+    "rate": 2870,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "319",
+    "description": "(a) Fabrication, fixing o f r equired confi guration of key for point",
+    "unit": "No.",
+    "rate": 319,
+    "chapter": 31,
+    "page": 62
+  },
+  {
+    "item_no": "3201",
+    "description": "\"a' ' / to 5 roads) Erection, concr eting an d wiring of SM's control panel",
+    "unit": "No.",
+    "rate": 48507,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "3214",
+    "description": "Installation, testing and com missioning of D ata Logger which includes th e softwa re configuration, validation,",
+    "unit": "No.",
+    "rate": 36208,
+    "chapter": 31,
+    "page": 61
+  },
+  {
+    "item_no": "3215",
+    "description": "Installation, testing and com missioning of RT U 32!64!128 inputs which includ es the so ftware configura tion needed",
+    "unit": "No.",
+    "rate": 23797,
+    "chapter": 31,
+    "page": 61
+  },
+  {
+    "item_no": "3216",
+    "description": "Alteration of databa se, faults , simulations in D ata Loggers I",
+    "unit": "No.",
+    "rate": 28114,
+    "chapter": 31,
+    "page": 61
+  },
+  {
+    "item_no": "3218",
+    "description": "Alteration to statio n panels to incorporate l B signalling",
+    "unit": "LS",
+    "rate": 7616,
+    "chapter": 31,
+    "page": 61
+  },
+  {
+    "item_no": "3220",
+    "description": "1. Supply and f ixing of diff erent si zes of PVC",
+    "unit": "No.",
+    "rate": 1798,
+    "chapter": 31,
+    "page": 62
+  },
+  {
+    "item_no": "3222",
+    "description": "Provision of tempor ar y signalling a rrangeme nt during Non Interlocked workin g of Signals and Poi nts, such as erection and wiring o f temporary r elay rack s and wiring of",
+    "unit": "LS",
+    "rate": 25451,
+    "chapter": 31,
+    "page": 62
+  },
+  {
+    "item_no": "3225",
+    "description": "Fabrication, su pply a nd in stallation of NI p anel of size 12\"",
+    "unit": "No.",
+    "rate": 12397,
+    "chapter": 31,
+    "page": 63
+  },
+  {
+    "item_no": "3227",
+    "description": "Fixing of LEDs along with Jewels, Resisto rs, Sleeves duly",
+    "unit": "No.",
+    "rate": 19,
+    "chapter": 31,
+    "page": 63
+  },
+  {
+    "item_no": "328",
+    "description": "(a) 2 volts 80 AH",
+    "unit": "No.",
+    "rate": 328,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "330",
+    "description": "(e) 12 Volts 13 plates Gene rator battery",
+    "unit": "No.",
+    "rate": 330,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "3301 (a)",
+    "description": "Lead up to 50 Kms",
+    "unit": "PTPK",
+    "rate": 11,
+    "chapter": 31,
+    "page": 64
+  },
+  {
+    "item_no": "3403",
+    "description": "Installation of DG Foundation, Erec tion, W iring, change over arra ngements in",
+    "unit": "LS",
+    "rate": 45819,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "3403",
+    "description": "Generator room and commissionin g as p er Technical , a, Specification for I nstallat ion of two gen erators o f capacity up to 20 KVA. Foundation, Erect ion, Wi ring & change over arr angements in Generator room and commissionin g as p er Technical",
+    "unit": "LS",
+    "rate": 34998,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "3601",
+    "description": "Foundation, Erection ,T esti ng and Co mmis sioning of Electrically operated li fting barriers assem bly, drive mechanism, motors etc. a s pe r technical s pecifi cation, with control panel, boom loc kin g ar rangements & cra nk handles complete with Hand g ene rator .The work includes",
+    "unit": "LS",
+    "rate": 30145,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3603",
+    "description": "Supply and fixing of 'AH UJ A' o r similar mak e hor n type loud",
+    "unit": "No.",
+    "rate": 1407,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3604",
+    "description": "Supply and installation o f Ele ctronic Flas her u nit, able to",
+    "unit": "No.",
+    "rate": 2572,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3605",
+    "description": "Supply and fixing of El ec tron ic Hooter u nit 24 /110 DC of",
+    "unit": "No.",
+    "rate": 2732,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3607",
+    "description": "Painting of gate protecti on dia gram.",
+    "unit": "No.",
+    "rate": 417,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3608",
+    "description": "Fabrication, supply an d inst allation of g ate c ontrol cum indication panel of size \" X 12\" (MS shee t type ) complete",
+    "unit": "No.",
+    "rate": 14060,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "3611",
+    "description": "Excavation of pit and casting foundation for o ne lever frame",
+    "unit": "No.",
+    "rate": 3501,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "3612",
+    "description": "Excavation of a pit a nd concreting foundatio n for 1 No. of",
+    "unit": "No.",
+    "rate": 2049,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "3616",
+    "description": "Foundation & f ixing of Diversion Wheel/cranks",
+    "unit": "No.",
+    "rate": 723,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "3618",
+    "description": "Fixing and w iring RKT/EKT for siding o r L.C. Gate",
+    "unit": "No.",
+    "rate": 900,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "3619",
+    "description": "Supply of pai nt blac k enamel of approved quality and painting of Cr anks/ GF in 2 coats. Painting the function",
+    "unit": "No.",
+    "rate": 94,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "3623 (a)",
+    "description": "M.S. Boom 65 mm dia 10 mtrs lon g (d ividing in two equivalent I pieces) with n ut & bolts arrang em ents, pu lling hand and",
+    "unit": "No.",
+    "rate": 13607,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "3702",
+    "description": "Installation (inc luding p ower supply arrangements if required), testing and com missioning of SSDAC/HASSDAC. The work consis ts of: a) Fixing of axle counter tr ack device co nsisting of Tx-Rx coil assembly for eac h detectio n point drilling holes in the rails as per the marking given by t he site in char ge.",
+    "unit": "Set",
+    "rate": 37152,
+    "chapter": 31,
+    "page": 71
+  },
+  {
+    "item_no": "3703",
+    "description": "Fabrication and supply o f 2 no's of h ard reset boxes for",
+    "unit": "Set",
+    "rate": 55166,
+    "chapter": 31,
+    "page": 71
+  },
+  {
+    "item_no": "3704",
+    "description": "Fabrication and supply o f 2 No's of a uto reset boxes for",
+    "unit": "Set",
+    "rate": 29127,
+    "chapter": 31,
+    "page": 71
+  },
+  {
+    "item_no": "386",
+    "description": "3N0/3NC 25 Amps contact rating ( L&T/Si emens contactor",
+    "unit": "No.",
+    "rate": 386,
+    "chapter": 31,
+    "page": 72
+  },
+  {
+    "item_no": "3893",
+    "description": "of size 2.Om X O.55 m X 3mm made of Hylam sheet on",
+    "unit": "No.",
+    "rate": 3893,
+    "chapter": 31,
+    "page": 63
+  },
+  {
+    "item_no": "394",
+    "description": "(b) 2 volts 120 AH",
+    "unit": "No.",
+    "rate": 394,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "439",
+    "description": "colour) MS frames for Location b oxes of size 955X155 mm",
+    "unit": "No.",
+    "rate": 439,
+    "chapter": 31,
+    "page": 60
+  },
+  {
+    "item_no": "4554",
+    "description": "three languages English , Hind i and local la nguag e in as per",
+    "unit": "No.",
+    "rate": 4554,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "4653",
+    "description": "(g) Fabrication, s upply, fixing of M .S. o f size 1 0'X 18'X9' with",
+    "unit": "No.",
+    "rate": 4653,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "4653 (i)",
+    "description": "Excavation of pit and concreti ng f oundati ons for resting",
+    "unit": "LS",
+    "rate": 28998,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "4897",
+    "description": "thickness (61 x 38 x 18 C ms) with glass doo r. This includes",
+    "unit": "No.",
+    "rate": 4897,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "5193",
+    "description": "(d) M.S. Plate o f size 20\" X20' X6m m for boom locking",
+    "unit": "No.",
+    "rate": 5193,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "5314",
+    "description": "section board or any other b oard with engin eering grade",
+    "unit": "No.",
+    "rate": 5314,
+    "chapter": 31,
+    "page": 58
+  },
+  {
+    "item_no": "5406",
+    "description": "through the sam e up to f unctions like cont rol telephone,",
+    "unit": "LS",
+    "rate": 5406,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "5822",
+    "description": "Providing teak w ood cra nk handle box, f ixing of LEDs,",
+    "unit": "No.",
+    "rate": 5822,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "5822",
+    "description": "EKT, Counter, w elding o f EKT to Crank H andle, wiring, '4) 'a' ' / testing as per tec hnical s pecification includ ing concealed wiring in the wall. Supply, installatio n and w iring of KLCR rel ay 24V DC AC '4)",
+    "unit": "No.",
+    "rate": 10740,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "5822 (c)",
+    "description": "Fabrication and S upply of Box suitable for 8 No's KLCRs",
+    "unit": "No.",
+    "rate": 17700,
+    "chapter": 31,
+    "page": 59
+  },
+  {
+    "item_no": "6491",
+    "description": "(electrical/mechanical) as per Drg. No. SK/ SC/C N/33/85 (all",
+    "unit": "No.",
+    "rate": 6491,
+    "chapter": 31,
+    "page": 67
+  },
+  {
+    "item_no": "6804",
+    "description": "(b) Resting stand made up of C cha nnel 150mm X 75mmX6mm I",
+    "unit": "No.",
+    "rate": 6804,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "6804 (c)",
+    "description": "Boom movem ent rectangular fr ame made u p by C channel 75mmX 37m mX6mm 9.5mtrs long and 25 0mm width (it",
+    "unit": "No.",
+    "rate": 24180,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "701",
+    "description": "scaffolding suitabl y concreting tn -pod bases using J-bolts, wa y Rack fixing rack suppor t of size 50 x 50 x 6 mm o n to the wall. Reel insulators ar e to be provid ed for insula ting the rack from the scaffoldin g & tn-pod ba ses. Alterations to Op erating Panel, wiring, term ination of all new alteration wir es in the existi ng Operating Panels duly",
+    "unit": "LS",
+    "rate": 32158,
+    "chapter": 31,
+    "page": 60
+  },
+  {
+    "item_no": "701",
+    "description": "shall be provided f or each wire. D ifferent colo ur codes and",
+    "unit": "No.",
+    "rate": 701,
+    "chapter": 31,
+    "page": 60
+  },
+  {
+    "item_no": "735",
+    "description": "block horizontally on 6mm Hyla m sheets wh ich in turn to",
+    "unit": "Set",
+    "rate": 735,
+    "chapter": 31,
+    "page": 60
+  },
+  {
+    "item_no": "7930",
+    "description": "Nicholson) and p ainting of complete sliding boom",
+    "unit": "LS",
+    "rate": 7930,
+    "chapter": 31,
+    "page": 70
+  },
+  {
+    "item_no": "8238",
+    "description": "for fixing 2 No' s of EKTs, with 2 No's of push button, 6 No's",
+    "unit": "Set",
+    "rate": 8238,
+    "chapter": 31,
+    "page": 69
+  },
+  {
+    "item_no": "8408",
+    "description": "wiring as per th e circuit. Placement o f evaluator, relays,",
+    "unit": "Set",
+    "rate": 8408,
+    "chapter": 31,
+    "page": 71
+  },
+  {
+    "item_no": "8506",
+    "description": "foundation for the sin gle / double / three lever frame as per",
+    "unit": "LS",
+    "rate": 8506,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "8807",
+    "description": "lifting barrier a ssembl y with two no. of pedesta ls, two booms",
+    "unit": "Set",
+    "rate": 8807,
+    "chapter": 31,
+    "page": 68
+  },
+  {
+    "item_no": "9564",
+    "description": "mm. The boards shall be p rovided with R etro Reflective type",
+    "unit": "No.",
+    "rate": 9564,
+    "chapter": 31,
+    "page": 71
+  },
+  {
+    "item_no": "9735",
+    "description": "(a) LED Based Audio-Vi sual Ap proac h Warning System",
+    "unit": "No.",
+    "rate": 9735,
+    "chapter": 31,
+    "page": 70
+  },
+  {
+    "item_no": "9735 (b)",
+    "description": "Communication unit and Sta tion m aster indic ation u nit",
+    "unit": "Pair",
+    "rate": 44781,
+    "chapter": 31,
+    "page": 70
+  },
+  {
+    "item_no": "987",
+    "description": "(d) 2 volts 300 AH",
+    "unit": "No.",
+    "rate": 987,
+    "chapter": 31,
+    "page": 65
+  },
+  {
+    "item_no": "2123",
+    "description": "Calling on/Points/Track cir cuits etc. from ol d cable to new",
+    "unit": "Per Cable",
+    "rate": 2123,
+    "chapter": 39,
+    "page": 79
+  },
+  {
+    "item_no": "243",
+    "description": "(d) Arranging rexin cloth bound bo oklet s and bind ing",
+    "unit": "Each",
+    "rate": 243,
+    "chapter": 39,
+    "page": 78
+  },
+  {
+    "item_no": "2581",
+    "description": "I (h) For a Mid-Sect ion LC Gate",
+    "unit": "Set",
+    "rate": 2581,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3901 (a)",
+    "description": "For a Two-Line Sta tion",
+    "unit": "Set",
+    "rate": 16976,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (b)",
+    "description": "For a Three-Line S tation",
+    "unit": "Set",
+    "rate": 20044,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (c)",
+    "description": "For a Four-Line St ation",
+    "unit": "Set",
+    "rate": 31950,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (d)",
+    "description": "For a Five-Line Sta tion",
+    "unit": "Set",
+    "rate": 54010,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (e)",
+    "description": "For a Six-Line Stat ion",
+    "unit": "Set",
+    "rate": 64329,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (f)",
+    "description": "For a Seven-Line S tation",
+    "unit": "Set",
+    "rate": 76115,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3901 (g)",
+    "description": "For a Eight-Line St ation or more",
+    "unit": "Set",
+    "rate": 80280,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "3904 (a)",
+    "description": "For a Two-Lin e Station (Up to 2 5 Location Boxes )",
+    "unit": "Set",
+    "rate": 55611,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (b)",
+    "description": "For a Three-Li ne Station (Up to 40 Location Box es)",
+    "unit": "Set",
+    "rate": 66799,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (c)",
+    "description": "For a Four-Lin e Station (Up to 6 0 Location Boxes )",
+    "unit": "Set",
+    "rate": 89345,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (d)",
+    "description": "For a Five-Lin e Station (Up to 7 0 Location Boxes )",
+    "unit": "Set",
+    "rate": 116448,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (e)",
+    "description": "For a Six-Line Station (Up to 90 Location Boxes)",
+    "unit": "Set",
+    "rate": 131648,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (f)",
+    "description": "For a Seven-L ine Station (Up to 100 Location Bo xes)",
+    "unit": "Set",
+    "rate": 146238,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (g)",
+    "description": "For a Eight-Lin e Station or more (Up to 110 Locati on Boxes)",
+    "unit": "Set",
+    "rate": 155906,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3904 (h)",
+    "description": "For a Mid-Sec tion LC Gate (Up to 15 Location Bo xes)",
+    "unit": "Set",
+    "rate": 41465,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "3908 (h)",
+    "description": "For a Mid-Sectio n LC Gate",
+    "unit": "Per LC",
+    "rate": 29376,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "3910 (h)",
+    "description": "For a Mid-Sec tion LC Gate",
+    "unit": "Per LC",
+    "rate": 10282,
+    "chapter": 39,
+    "page": 76
+  },
+  {
+    "item_no": "4306",
+    "description": "(a) For a Two-Line S tation",
+    "unit": "Set",
+    "rate": 4306,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "441",
+    "description": "(h) For a Mid-Sec tion LC Gate",
+    "unit": "Per LC",
+    "rate": 441,
+    "chapter": 39,
+    "page": 77
+  },
+  {
+    "item_no": "4512",
+    "description": "(h) GWRD For a Mid- Section LC Gat e",
+    "unit": "Set",
+    "rate": 4512,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "4563",
+    "description": "(a) For a Two-Line S tation",
+    "unit": "Set",
+    "rate": 4563,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "4599",
+    "description": "(a) For a Two-Line Station",
+    "unit": "Set",
+    "rate": 4599,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5152",
+    "description": "(b) For a Three-Line Station",
+    "unit": "Set",
+    "rate": 5152,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "5225",
+    "description": "(b) For a Three-Li ne Station",
+    "unit": "Set",
+    "rate": 5225,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5225 (c)",
+    "description": "For a Four-Lin e Station",
+    "unit": "Set",
+    "rate": 10145,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5225 (d)",
+    "description": "0 For a Five-Line Station",
+    "unit": "Set",
+    "rate": 20574,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5225 (e)",
+    "description": "For a Six-Line Station",
+    "unit": "Set",
+    "rate": 22865,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5225 (f)",
+    "description": "For a Seven-Li ne Station",
+    "unit": "Set",
+    "rate": 25185,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5225 (g)",
+    "description": "For a Eight-Lin e Station or more",
+    "unit": "Set",
+    "rate": 26714,
+    "chapter": 39,
+    "page": 74
+  },
+  {
+    "item_no": "5519",
+    "description": "(b) For a Three-Line Station 0",
+    "unit": "Set",
+    "rate": 5519,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "661",
+    "description": "(h) For a Mid-Sec tion LC Gate",
+    "unit": "Per LC",
+    "rate": 661,
+    "chapter": 39,
+    "page": 76
+  },
+  {
+    "item_no": "6669",
+    "description": "(h) For a Mid-Section LC Gate",
+    "unit": "Set",
+    "rate": 6669,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "7941",
+    "description": "(c) For a Four-Line Station",
+    "unit": "Set",
+    "rate": 7941,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "7941 (d)",
+    "description": "Fora Five-Line S tation",
+    "unit": "Set",
+    "rate": 12018,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "7941 (e)",
+    "description": "For a Six-Line St ation",
+    "unit": "Set",
+    "rate": 12425,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "7941 (f)",
+    "description": "For a Seven-Line Station",
+    "unit": "Set",
+    "rate": 14331,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "7941 (g)",
+    "description": "For a Eight-Line Station or more I",
+    "unit": "Set",
+    "rate": 15102,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "8110",
+    "description": "(a) For a Two-Line Sta tion",
+    "unit": "Set",
+    "rate": 8110,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (b)",
+    "description": "For a Three-Line S tation",
+    "unit": "Set",
+    "rate": 10386,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (c)",
+    "description": "For a Four-Line St ation",
+    "unit": "Set",
+    "rate": 17070,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (d)",
+    "description": "For a Five-Line Sta tion",
+    "unit": "Set",
+    "rate": 28159,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (d)",
+    "description": "For a Six-Line Stat ion",
+    "unit": "Set",
+    "rate": 30436,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (f)",
+    "description": "For a Seven-Line S tation",
+    "unit": "Set",
+    "rate": 31978,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8110 (g)",
+    "description": "For a Eight-Line St ation or more",
+    "unit": "Set",
+    "rate": 34254,
+    "chapter": 39,
+    "page": 73
+  },
+  {
+    "item_no": "8676",
+    "description": "(c) For a Four-Line S tation",
+    "unit": "Set",
+    "rate": 8676,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "8676 (d)",
+    "description": "For a Five-Line S tation",
+    "unit": "Set",
+    "rate": 15433,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "8676 (e)",
+    "description": "For a Six-Line St ation",
+    "unit": "Set",
+    "rate": 16255,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "8676 (f)",
+    "description": "For a Seven-Line Station",
+    "unit": "Set",
+    "rate": 20779,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "8676 (f)",
+    "description": "(.q) For a Eight-Line Station or more",
+    "unit": "Set",
+    "rate": 22307,
+    "chapter": 39,
+    "page": 75
+  },
+  {
+    "item_no": "105",
+    "description": "/2012 [VER.0] with latest version and amdt. Each se t con sisting of the followi ng: 1. Universal fail safe block interface c omplete with al l accessories as per RDSO Sp ec No: IRS",
+    "unit": "Set",
+    "rate": 1261656,
+    "chapter": 41,
+    "page": 82
+  },
+  {
+    "item_no": "1167",
+    "description": "including tail cables, carefully without causing any",
+    "unit": "No",
+    "rate": 1167,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "1196",
+    "description": "board/Warning board! LE GEND boards alon g with rails,",
+    "unit": "No",
+    "rate": 1196,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "121",
+    "description": "after releasin g all the bo nd wires. The re leased materials",
+    "unit": "No",
+    "rate": 121,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "1342",
+    "description": "counters, batteri es, block filter, block bell equ ipment etc.,",
+    "unit": "No",
+    "rate": 1342,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "1518",
+    "description": "termination boxe s, after re leasing the base pla nk, Terminal",
+    "unit": "No",
+    "rate": 1518,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "1662",
+    "description": "surface base, s ignal post etc carefully witho ut any damage,",
+    "unit": "No",
+    "rate": 1662,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "1808",
+    "description": "switch extensio n piece s, stretcher bars, point! trap",
+    "unit": "Set",
+    "rate": 1808,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "2042",
+    "description": "types) includin g ground co nnections and ot her accessories",
+    "unit": "No",
+    "rate": 2042,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "2275",
+    "description": "all types EKTs, Seconda ry Cells, power equ ipments, 'E",
+    "unit": "No",
+    "rate": 2275,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "2333",
+    "description": "calling on sign als, shunt s ignals etc., caref ully without any I",
+    "unit": "No",
+    "rate": 2333,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "3245",
+    "description": "(b) Digital Multimeter",
+    "unit": "No",
+    "rate": 3245,
+    "chapter": 41,
+    "page": 85
+  },
+  {
+    "item_no": "3894",
+    "description": "(a) Analog Insulation Tester",
+    "unit": "No",
+    "rate": 3894,
+    "chapter": 41,
+    "page": 85
+  },
+  {
+    "item_no": "3979",
+    "description": "causing any da mage to th e panel, accountin g and stacking",
+    "unit": "Set",
+    "rate": 3979,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "4083",
+    "description": "terminal box es caref ull y without causing any d amage to",
+    "unit": "Set",
+    "rate": 4083,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "4101",
+    "description": "Supply of Hot Standby Electronic I nterlocking System (Centralised! Distributed) excluding P anel Processor (Hot Standby) with Signalling functions up to 125 functions as per function table enclos ed along wi th 5% spares for the cards/modules/PCB, co nnectors/co uplers, fuses, all",
+    "unit": "Set",
+    "rate": 7832317,
+    "chapter": 41,
+    "page": 80
+  },
+  {
+    "item_no": "4104",
+    "description": "Supply of commercial gra de operator VDU of size 55' Full HD, with backlit LED, with HDMI/DVI port, Inbuilt Speaker,",
+    "unit": "No.",
+    "rate": 226320,
+    "chapter": 41,
+    "page": 80
+  },
+  {
+    "item_no": "4105",
+    "description": "Supply of fan less embe dded industr ial grade computers (Similar to Moxa V2406A or better ) with all accessories",
+    "unit": "No",
+    "rate": 182900,
+    "chapter": 41,
+    "page": 80
+  },
+  {
+    "item_no": "4109",
+    "description": "Commissioning of Electro nic Interlock ing system.",
+    "unit": "No.",
+    "rate": 25604,
+    "chapter": 41,
+    "page": 80
+  },
+  {
+    "item_no": "4112",
+    "description": "Supply of porta ble w ork station to run alo ng with El",
+    "unit": "No.",
+    "rate": 126896,
+    "chapter": 41,
+    "page": 81
+  },
+  {
+    "item_no": "4114",
+    "description": "Supply, fabricatio n, insta llation and fi xing of pa nel operator consol with arra ngeme nt to fix 55\" VDU's -R eset boxes, and other S&T ga dgets. This shall be made of n ot less than",
+    "unit": "No",
+    "rate": 354447,
+    "chapter": 41,
+    "page": 81
+  },
+  {
+    "item_no": "4115",
+    "description": "Supply and insta llation of offline U PS I000V A, 30 mm",
+    "unit": "No",
+    "rate": 11286,
+    "chapter": 41,
+    "page": 81
+  },
+  {
+    "item_no": "420",
+    "description": "1 Sup ply, Installation and commissioning of Universal Fai l saf e Block interface ( As per RDSO Sp ecification No.",
+    "unit": "Set",
+    "rate": 960520,
+    "chapter": 41,
+    "page": 82
+  },
+  {
+    "item_no": "420",
+    "description": "3 Sup ply, installation and commissioning o f Universal Fail Safe Block Interface for Single line. Each consisting of the follo wing: (Inspection by RDSO) 1) Universal fail-safe block interface for single line complete with all a ccessories as per RDSO Specn. No. RDSO/SPN/18 8/2004 Ver.1.0 / l atest Amdt. -- 2",
+    "unit": "Set",
+    "rate": 1259269,
+    "chapter": 41,
+    "page": 82
+  },
+  {
+    "item_no": "4200",
+    "description": "all connected gadgets lik e lever locks, E type locks, HP",
+    "unit": "No",
+    "rate": 4200,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "4303",
+    "description": "is fully compatible wit h analogue ad dressa ble protocol,",
+    "unit": "No.",
+    "rate": 6237,
+    "chapter": 41,
+    "page": 83
+  },
+  {
+    "item_no": "4304",
+    "description": "Probe type bimetallic heat detecto r as p er IS 2189",
+    "unit": "No.",
+    "rate": 6269,
+    "chapter": 41,
+    "page": 83
+  },
+  {
+    "item_no": "4308",
+    "description": "Supply, Installation, T esting & C ommissioning of 24V/",
+    "unit": "No.",
+    "rate": 67603,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4310",
+    "description": "Supply, Installation, Te sting & Co mmissioning of Analog Addressable Type inpu t/output M odules with inbuilt fault isolator or alternate arr angement which shall isolate the",
+    "unit": "No.",
+    "rate": 10558,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4311",
+    "description": "Supply, Installation, Tes ting & Com missioning of electronic",
+    "unit": "No.",
+    "rate": 9595,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4312",
+    "description": "Supply and Installation of Auto Te lephone Dialler (GSM)",
+    "unit": "No.",
+    "rate": 9520,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4313",
+    "description": "Supply and Installation of isolato r devices for every 20",
+    "unit": "No.",
+    "rate": 3808,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4315",
+    "description": "Supply and fixing of Fire Extinguis her CO2 type (Capacity",
+    "unit": "No.",
+    "rate": 8171,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4316",
+    "description": "Supply and installatio n of Fo ur numbers 10 Litre",
+    "unit": "No.",
+    "rate": 8800,
+    "chapter": 41,
+    "page": 84
+  },
+  {
+    "item_no": "4401",
+    "description": "Fabrication and supply of wall mounte d maintainer's Tool Kit frame made out of MS sheet 10 g auge with powder coated as desired colour a t site of size 1.5 Mtrs. Length X",
+    "unit": "No",
+    "rate": 18699,
+    "chapter": 41,
+    "page": 85
+  },
+  {
+    "item_no": "4404",
+    "description": "Supply and Installation of HP/OEM a pproved document Scanner/Printer/Fax A3/Le gal size Re solution in dpi 300,",
+    "unit": "No",
+    "rate": 72290,
+    "chapter": 41,
+    "page": 85
+  },
+  {
+    "item_no": "4410",
+    "description": "Installation, testing and co mmissionin g of Distilled water I",
+    "unit": "No",
+    "rate": 3309,
+    "chapter": 41,
+    "page": 85
+  },
+  {
+    "item_no": "4550",
+    "description": "including wa y statio n equipments, tel ephone s, power",
+    "unit": "Set",
+    "rate": 4550,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "4550 (t)",
+    "description": "Releasing of trestles 1 /2 way",
+    "unit": "No",
+    "rate": 65,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "4550 (u)",
+    "description": "I Releasing of trestles 3 /4 way",
+    "unit": "No",
+    "rate": 89,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "478",
+    "description": "(w) Releasing of 'A' type f ou ndations",
+    "unit": "No",
+    "rate": 478,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "5889",
+    "description": "shorted loop circu it and aut omatic ally restore",
+    "unit": "No.",
+    "rate": 5889,
+    "chapter": 41,
+    "page": 83
+  },
+  {
+    "item_no": "6999",
+    "description": "illumination p anel, cab in lever, indication board, lever lock",
+    "unit": "LS",
+    "rate": 6999,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "7232",
+    "description": "instruments, illu minated diagram board, blo ck counter,",
+    "unit": "Set",
+    "rate": 7232,
+    "chapter": 41,
+    "page": 86
+  },
+  {
+    "item_no": "8510",
+    "description": "short circuit isolator, h aving status LE D for alarming and",
+    "unit": "No.",
+    "rate": 8510,
+    "chapter": 41,
+    "page": 83
+  },
+  {
+    "item_no": "955",
+    "description": "track circuits w ithout caus ing any damage. Excavating the",
+    "unit": "Set",
+    "rate": 955,
+    "chapter": 41,
+    "page": 87
+  },
+  {
+    "item_no": "9565",
+    "description": "O etc., in the IP S room c ar efully without cau sing an y damage",
+    "unit": "Set",
+    "rate": 9565,
+    "chapter": 41,
+    "page": 88
+  },
+  {
+    "item_no": "1142",
+    "description": "the cable at a spec ific location sh own by th e Railway",
+    "unit": "No",
+    "rate": 1142,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "2046",
+    "description": "post, box and emergency s ocket as pe r the d rawing No.",
+    "unit": "No",
+    "rate": 2046,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "222",
+    "description": "(b) Strengthening the foundatio n of EC Post",
+    "unit": "No",
+    "rate": 222,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "249",
+    "description": "(a) Replacement of EC s ocket wherever f ound miss ing broken",
+    "unit": "No",
+    "rate": 249,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "2670",
+    "description": "units, block bell eq uipment incl uding drawl of cab le through",
+    "unit": "LS",
+    "rate": 2670,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "325",
+    "description": "colours of on e feet each band with enam el paint of",
+    "unit": "No",
+    "rate": 325,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "3292",
+    "description": "involves the T esting of Un derground s ix qua d cables in",
+    "unit": "No",
+    "rate": 3292,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "375",
+    "description": "wood plank of siz e 330X200 X25 mm plank a nd wiring.",
+    "unit": "No",
+    "rate": 375,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "3922",
+    "description": "rack as per Drg. N o. COREIS &T/ALD /8K1436/ 95. b) The",
+    "unit": "No",
+    "rate": 3922,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "4601",
+    "description": "Installation, wiring , testing & commissioning of 2 wire",
+    "unit": "No",
+    "rate": 922,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "4603",
+    "description": "Supply and jointin g of 5T/TSF -3 Transformer J oint as per",
+    "unit": "No",
+    "rate": 9558,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "4605",
+    "description": "Supply and fixing o f 10 pair CT box and terminat ion of jelly O",
+    "unit": "Set",
+    "rate": 1729,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "4606",
+    "description": "Fixing of 12/10 pa ir weather p roof C.T. Box W AGO type",
+    "unit": "No",
+    "rate": 340,
+    "chapter": 46,
+    "page": 89
+  },
+  {
+    "item_no": "4613",
+    "description": "Supply & instal lation of Rack 19\" wall mo unt 17 U with front glass door and lock and key including th e follo wing: 1. 1 U Cable manager - 1 N o. 2. 1 U Cantil ever tray - I N o.",
+    "unit": "No",
+    "rate": 17545,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "4615",
+    "description": "Blowing of arm oured optic fib re cable (OF C Cab le supplied by Railways) i nto the duct s upplied vide other NS item of supply portion by using blo wing machin e and associated works. 10% of OFC length to be blown e xtra on both ends",
+    "unit": "KM",
+    "rate": 10956,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "4616",
+    "description": "Carrying out D uct Integrity te st for PLB H DPE Duct, 40/33",
+    "unit": "Km",
+    "rate": 1750,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "4619",
+    "description": "Supply and installation of rack m ounted 24 fibre Distribution Management System (FDM S) of size 1U, of Reputed/Branded comp any make as per specification I",
+    "unit": "No",
+    "rate": 23712,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "4620",
+    "description": "Testing of all 24 fibres of OFC cable aft er splicing end to",
+    "unit": "LS",
+    "rate": 21512,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "4621",
+    "description": "Testing of fibres betwee n short haul station in both",
+    "unit": "LS",
+    "rate": 7769,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "4624",
+    "description": "Supply and installation of 2 30 volts AC / 48 volts, 25 Amps C",
+    "unit": "No",
+    "rate": 83721,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "4625",
+    "description": "Supply and installation of 48 volts 200 AH maintenance free VRLA battery in ch arged conditi on as per RDSO",
+    "unit": "Set",
+    "rate": 104042,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "4626",
+    "description": "Supply and insta llation and c ommis sioning of voltage stabilizer 5 KVA, single phas e, serv o controlled, wide",
+    "unit": "No",
+    "rate": 16625,
+    "chapter": 46,
+    "page": 92
+  },
+  {
+    "item_no": "4627",
+    "description": "Supply and install ation of 19' - 42 U R ack complete with fittings for housing SDH equipm ent, FD MS, DDF and other equipment like ca ble manager s, comp letely wired using krone module and other equipm ent lik e runaway ladders 0 etc., as per technic al specificatio n below . It should be able to lock all the equi pment with o nly ord er wire Telephone outside the rack. T he rack shou ld be o f APW President I",
+    "unit": "No",
+    "rate": 41962,
+    "chapter": 46,
+    "page": 92
+  },
+  {
+    "item_no": "4628",
+    "description": "Supply, installation, testing and c ommiss ioning of managed expandable rack ty pe STM-4, eq uipped STM-1, ADM S1.1, as per technical Sp ecification no. GR No. : TEC/GR/TXISDA- 003/02/APR-2010 with 2 Nos. STM-1 aggregate Optical interface upgradabl e to STM-4, 2 1 Els, a nd minimum 8 Nos. of 10/100 base T E thernet port, Order wire, Power supply",
+    "unit": "No",
+    "rate": 311694,
+    "chapter": 46,
+    "page": 92
+  },
+  {
+    "item_no": "4629",
+    "description": "Supply, installation, testing & co mmissio ning of LI (Optical)",
+    "unit": "No",
+    "rate": 43247,
+    "chapter": 46,
+    "page": 92
+  },
+  {
+    "item_no": "4630",
+    "description": "Supply and installati on of program mable Primary Digital",
+    "unit": "No",
+    "rate": 274869,
+    "chapter": 46,
+    "page": 92
+  },
+  {
+    "item_no": "4631",
+    "description": "Supply, Insta llation, te sting & commission ing of LI",
+    "unit": "No",
+    "rate": 51411,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4632",
+    "description": "Supply of FX O (excha nge end interface ca rd) as per specification N o. lRS-TC 68/2012 rev.o amd.1 with latest",
+    "unit": "No",
+    "rate": 71031,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4633",
+    "description": "Supply of FXS (subscribe r line or hot line interfa ce card) as per specificati on No. IR S-TC 68/2012 rev.0 amd.1 with I",
+    "unit": "No",
+    "rate": 80730,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4634",
+    "description": "Supply of interf ace cards f or 2wire/4wire E&M,4 VF interface card as per sp ecification No. lRS-TC 68/2012 r ev.0 amd.1 with latest ame ndments ( in omnibus or point to point mode for 24 channels . Number o f cards are to be calcu lated as per below) the note given",
+    "unit": "No",
+    "rate": 118752,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4635",
+    "description": "Installation of power sup ply unit (230V AC inp ut, 12V DC",
+    "unit": "Set",
+    "rate": 426,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4636",
+    "description": "Installation, tes ting and c ommissioning of TDM multiplexer.",
+    "unit": "No",
+    "rate": 3700,
+    "chapter": 46,
+    "page": 93
+  },
+  {
+    "item_no": "4639",
+    "description": "Fixing of Driver's te lephone box on lB post a nd Master",
+    "unit": "No",
+    "rate": 1011,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "4640",
+    "description": "Supply & erection o f lattice type tri pod tower s of GI 15 meters of height as per SCR Draw ing No. S C 23000- 23012, casting of fo undation with 1:2 :4, 20mm metal and river sand to be used . Provision of ear th electrod e near the",
+    "unit": "No",
+    "rate": 41930,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "4641",
+    "description": "Supply and installat ion of ONVIF 4 MP IR bull et camera with Veri focal Lens es of similar to Model No . DH-IPC-",
+    "unit": "No",
+    "rate": 19303,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "4642",
+    "description": "Supply and ins tallation of ON VIF 16 Channel NV R similar to Model No. 4416-4K82 series along with required",
+    "unit": "No",
+    "rate": 30887,
+    "chapter": 46,
+    "page": 95
+  },
+  {
+    "item_no": "4643",
+    "description": "Installation and commissioni ng charges (installa tion and",
+    "unit": "No",
+    "rate": 3000,
+    "chapter": 46,
+    "page": 95
+  },
+  {
+    "item_no": "4701",
+    "description": "Supply (Including 1 0% Spar es), Installation & Commissioning of stati on TCAS E quipment with suitable Rack consisting of Vital computer p eripherals, 2 full duplex Radio modems, OFC m odems, U HF antenna, GPS and GSM antenna and interf aces as per RDSO/SPN/196/2012",
+    "unit": "Set",
+    "rate": 3813170,
+    "chapter": 46,
+    "page": 96
+  },
+  {
+    "item_no": "4702",
+    "description": "Supply (Including 20% S pares), Inst allation, Programming, Verification and Com missioning of RFID tags with",
+    "unit": "Set",
+    "rate": 1025892,
+    "chapter": 46,
+    "page": 96
+  },
+  {
+    "item_no": "4703",
+    "description": "Supply (Including Spar es) , Installa tion & Commission of LC TCAS Equipment consisting of Vital computer peripherals, 2 full duple x Radio mo dems, UHF antenna, OFC modems, GPS an d GSM ante nna and interfaces as",
+    "unit": "Set",
+    "rate": 2578300,
+    "chapter": 46,
+    "page": 96
+  },
+  {
+    "item_no": "4704",
+    "description": "Supply (Including 1 0% Spar es), Installation & Commissioning of stati on TCAS R IU (Remote Interface unit) with at leas t 32 Fi eld I/P's as per",
+    "unit": "Set",
+    "rate": 1017750,
+    "chapter": 46,
+    "page": 96
+  },
+  {
+    "item_no": "4705 (a)",
+    "description": "Supply (Including 1 0% Spar es), Installation & Commissioning of L ocomotive (on board) TCAS Equipment consisting of Vital compu ter & peripherals such as Driver Machine interf ace, 2 RFID Readers, 2 full duplex",
+    "unit": "Set",
+    "rate": 3935300,
+    "chapter": 46,
+    "page": 96
+  },
+  {
+    "item_no": "6344",
+    "description": "each and bottom cover w ith hole for dr ainage and cable",
+    "unit": "No",
+    "rate": 6344,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "7739",
+    "description": "i. I U Cable manager - I N o.",
+    "unit": "No",
+    "rate": 7739,
+    "chapter": 46,
+    "page": 90
+  },
+  {
+    "item_no": "870",
+    "description": "(b) Replacement of E C box with top plate for mounting",
+    "unit": "No",
+    "rate": 870,
+    "chapter": 46,
+    "page": 94
+  },
+  {
+    "item_no": "9398",
+    "description": "Splice Enclosure (24 fibr e) shall be of TVS make Part",
+    "unit": "No",
+    "rate": 9398,
+    "chapter": 46,
+    "page": 91
+  },
+  {
+    "item_no": "108",
+    "description": "with base, pipe, arrow mark and hoods a s per RDSO ORG. No.",
+    "unit": "No.",
+    "rate": 6083,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "109",
+    "description": "two numbers of 'U' b olts and nu ts comp lete t o fix shunt signal",
+    "unit": "No.",
+    "rate": 3502,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "113",
+    "description": "of 2mm MS thick shee t with m ountin g socke t o n signal post",
+    "unit": "No.",
+    "rate": 20309,
+    "chapter": 47,
+    "page": 7
+  },
+  {
+    "item_no": "115",
+    "description": "coating arrow marker s board fabric ated wi th MS clamp of",
+    "unit": "No.",
+    "rate": 370,
+    "chapter": 47,
+    "page": 7
+  },
+  {
+    "item_no": "160",
+    "description": "(b) drawing RDSO/S 3361- 62. (One s et consi sts of one number",
+    "unit": "Set",
+    "rate": 160,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "1888",
+    "description": "(c) Hylam Sheet of size: 2400mm x600mm x3mm.",
+    "unit": "No.",
+    "rate": 1888,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "201 (a)",
+    "description": "Full size as perdrg. N o. S&T/M FT/T.2378",
+    "unit": "No.",
+    "rate": 16216,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "202",
+    "description": "with one key E-type lo ck to DR G. No.SA3376/M or latest and",
+    "unit": "No.",
+    "rate": 1051,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "2203",
+    "description": "of S3265 -1 no; S 3266- 1 No; S231 99-2No and 58640-4No.)",
+    "unit": "Set",
+    "rate": 2203,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "2300",
+    "description": "3 aspect compl ete as per DRG.. No. SA. 2/AIM (b (Adv.)with",
+    "unit": "No",
+    "rate": 17623,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "2300",
+    "description": "4 aspect compl ete as per DRG. No. SA. 1/NM (Adv.) with ' ' latest amendm ent an d specifica tion IRS : S 2 6-64 or latest.",
+    "unit": "No",
+    "rate": 18820,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "2378",
+    "description": "(b) Half size drg. No. S& T/MFT/T.",
+    "unit": "No.",
+    "rate": 8083,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "2902",
+    "description": "(outside: Black & inside : white) alo ng with 2no's of MS angle I",
+    "unit": "No.",
+    "rate": 2902,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "3401",
+    "description": "(a) One way as pe r DRG . No. SA 2",
+    "unit": "No.",
+    "rate": 15187,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "3402",
+    "description": "I (b) Two way as pe r DRG . No. SA 2",
+    "unit": "No.",
+    "rate": 20490,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "3402",
+    "description": "Three way as p er DR G. No. SA",
+    "unit": "No.",
+    "rate": 24051,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "3402 (d)",
+    "description": "Four way to dra wing no.SA.234",
+    "unit": "No.",
+    "rate": 27612,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "3405",
+    "description": "(e) Five way as pe r DRG . No. SA 2",
+    "unit": "No.",
+    "rate": 31174,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "3430",
+    "description": "(b) Hylam Sheet of size: 2400mm x600mm x6mm.",
+    "unit": "No.",
+    "rate": 3430,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "401",
+    "description": "for charging br 2 or 3 014 l ead acid cell of 8O AH (1 DAmps)",
+    "unit": "No.",
+    "rate": 8294,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "402",
+    "description": "IRS:S 23 along with fixtu res i.e., on e MS angle I",
+    "unit": "No.",
+    "rate": 1546,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "403",
+    "description": "fibre core as per specificati on I S 3459/2004 o r latest",
+    "unit": "Meter",
+    "rate": 80,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "404",
+    "description": "fibre core as per specifica tion IS 3459/2004 or latest, with",
+    "unit": "Meter",
+    "rate": 120,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "405",
+    "description": "Supply of B type chokes to a s per specifica tion IRS: S65-",
+    "unit": "No.",
+    "rate": 2313,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "406",
+    "description": "(f) Six way as per DRG. No. SA 23",
+    "unit": "No.",
+    "rate": 34735,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "407",
+    "description": "Supply of Hydrometer as p er IS : 3104 (Part II) -1982 or latest",
+    "unit": "No.",
+    "rate": 277,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "408",
+    "description": "Supply of Distilled water f or to pping of seco ndary cells as",
+    "unit": "Ltr.",
+    "rate": 10,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "409",
+    "description": "Supply of Porcelain insu lato rs for second ary lead acid",
+    "unit": "No.",
+    "rate": 30,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "410",
+    "description": "Supply of titanium coa ted 7.2 mm drill bits of",
+    "unit": "No.",
+    "rate": 146,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "412",
+    "description": "300 as per ORG. No. S A 20 161 66/M or latest. To be",
+    "unit": "No.",
+    "rate": 358,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "427",
+    "description": "made out with powder coated MS angle of",
+    "unit": "No.",
+    "rate": 427,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "4330",
+    "description": "(c) Quarter size drg.No.S &T/MFT/ T.2378",
+    "unit": "No.",
+    "rate": 4330,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "4709",
+    "description": "(b) 2V, l2OAH",
+    "unit": "No.",
+    "rate": 4709,
+    "chapter": 47,
+    "page": 11
+  },
+  {
+    "item_no": "4710",
+    "description": "(a) 4.5m long",
+    "unit": "No.",
+    "rate": 4710,
+    "chapter": 47,
+    "page": 6
+  },
+  {
+    "item_no": "6844",
+    "description": "(d) alarm unit with selectio n for use with co nventio nal ECR or LED",
+    "unit": "No.",
+    "rate": 6844,
+    "chapter": 47,
+    "page": 7
+  },
+  {
+    "item_no": "7124",
+    "description": "(a) Hylam Sheet of size: 2400mm x1200mmx6mm.",
+    "unit": "No.",
+    "rate": 7124,
+    "chapter": 47,
+    "page": 8
+  },
+  {
+    "item_no": "729",
+    "description": "(a) universal point machin e as per d rawing RDSO/S3361-62",
+    "unit": "Set",
+    "rate": 729,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "8670",
+    "description": "'D' type clamp for 52k g/ 60kg/ 9 0R rail as per Org. No.",
+    "unit": "Set",
+    "rate": 8670,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "8670 (b)",
+    "description": "Supply of complete set of ground c onnecti ons for high thrust 220 mm stroke point ma chine along with ins ulation as per Org.",
+    "unit": "Set",
+    "rate": 58410,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "8670 (c)",
+    "description": "Supply of following gro und conne ctions s uitable for220mm",
+    "unit": "Set",
+    "rate": 14160,
+    "chapter": 47,
+    "page": 9
+  },
+  {
+    "item_no": "9086",
+    "description": "(a) housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "rate": 9086,
+    "chapter": 47,
+    "page": 7
+  },
+  {
+    "item_no": "9263",
+    "description": "(b) housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "rate": 9263,
+    "chapter": 47,
+    "page": 7
+  },
+  {
+    "item_no": "9263 (c)",
+    "description": "housing and compati ble with AC LE D ECR a s per RDSO",
+    "unit": "No.",
+    "rate": 10443,
+    "chapter": 47,
+    "page": 7
+  }
+]
