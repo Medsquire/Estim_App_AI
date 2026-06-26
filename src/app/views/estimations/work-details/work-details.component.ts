@@ -6,6 +6,7 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import html2pdf from 'html2pdf.js';
 import { HttpClient, HttpClientModule, HttpEventType } from '@angular/common/http';
 import { firstValueFrom } from 'rxjs';
+import { EXTRACTED_INVENTORY } from './inventory-data';
 import {
   BadgeComponent,
   ButtonDirective,
@@ -773,13 +774,32 @@ export class WorkDetailsComponent implements OnInit, OnDestroy {
     return `${sl}__${schedule}__${desc}`;
   }
 
+  private mergeInventorySources(...sources: InventoryItem[][]): InventoryItem[] {
+    const merged = new Map<string, InventoryItem>();
+
+    for (const source of sources) {
+      for (const item of source) {
+        const normalized = this.normalizeInventoryItem(item);
+        const key = this.getInventoryMergeKey(normalized);
+        merged.set(key, normalized);
+      }
+    }
+
+    return Array.from(merged.values());
+  }
+
   private async loadInventoryTemplateForCurrentWork(): Promise<void> {
+    const templateInventory = this.mergeInventorySources(EXTRACTED_INVENTORY as InventoryItem[]);
+
     try {
       const sorExcelData = await firstValueFrom(this.http.get<SorExcelJsonData>('assets/Json/SOR/SOR_EXCEL.json'));
-      this.inventoryItems = this.flattenSorExcelInventory(sorExcelData);
+      this.inventoryItems = this.mergeInventorySources(
+        templateInventory,
+        this.flattenSorExcelInventory(sorExcelData)
+      );
     } catch (error) {
       console.error('Failed to load inventory data from SOR_EXCEL.json', error);
-      this.inventoryItems = [];
+      this.inventoryItems = templateInventory;
     }
   }
 
